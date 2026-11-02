@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MessMind | Canteen Demand Predictor</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="shell">
+    <header class="header">
+      <a class="brand" href="#top"><span class="brand-icon">M</span><span><b>MessMind</b><small>Campus canteen demand predictor</small></span></a>
+      <div id="dbStatus" class="status"><i></i><span>Checking MongoDB…</span></div>
+    </header>
+
+    <section class="intro" id="top">
+      <p class="eyebrow">PYTHON · PYTHON DRIVER (PYMONGO) · MACHINE LEARNING</p>
+      <h1>Prepare the right amount.<br><em>Waste less food.</em></h1>
+      <p>Estimate how many plates a canteen may need using a regression model trained on historical demand data.</p>
+    </section>
+
+    <section class="layout">
+      <article class="card predictor">
+        <div class="section-title"><div><p class="eyebrow">DEMAND FORECAST</p><h2>Enter meal details</h2></div><span class="pill">Random Forest Regression</span></div>
+        <form id="predictForm">
+          <div class="form-grid">
+            <label>Day<select id="day"><option>Monday</option><option>Tuesday</option><option>Wednesday</option><option>Thursday</option><option>Friday</option><option>Saturday</option><option>Sunday</option></select></label>
+            <label>Meal<select id="meal"><option>Breakfast</option><option>Lunch</option><option>Snacks</option><option>Dinner</option></select></label>
+            <label>Food item<select id="item"><option>Rice</option><option>Biryani</option><option>Dosa</option><option>Chapati</option><option>Samosa</option><option>Puff</option><option>Sandwich</option><option>Noodles</option><option>Idli</option></select></label>
+            <label>Weather<select id="weather"><option>Sunny</option><option>Rainy</option><option>Cloudy</option><option>Cold</option></select></label>
+            <label class="full">Campus event<select id="event"><option>No</option><option>Festival</option><option>Holiday</option><option>Exam</option><option>Sports Meet</option></select></label>
+          </div>
+          <button class="primary" id="predictBtn" type="submit">Predict required plates <span>→</span></button>
+        </form>
+        <div id="predictResult" class="result hidden" aria-live="polite"></div>
+      </article>
+
+      <aside class="card evaluation">
+        <p class="eyebrow">MODEL EVALUATION</p><h2>How well does it predict?</h2>
+        <p class="muted">The model learns from 70% of the dataset and is evaluated on the remaining 30% of unseen data.</p>
+        <div class="split"><div><strong id="trainPercent">70%</strong><span>Training data</span></div><div><strong id="testPercent">30%</strong><span>Testing data</span></div></div>
+        <div class="metric"><span>Mean Absolute Error (MAE)</span><b id="mae">—</b></div>
+        <div class="metric"><span>Root Mean Squared Error (RMSE)</span><b id="rmse">—</b></div>
+        <div class="metric"><span>R² score</span><b id="r2">—</b></div>
+        <div class="metric"><span>Test rows</span><b id="testRows">—</b></div>
+        <p id="evaluationNote" class="note">Run the training script to load evaluation results.</p>
+      </aside>
+    </section>
+
+    <section class="card history">
+      <div class="section-title"><div><p class="eyebrow">MONGODB · DEMAND_RECORDS</p><h2>Recent predictions</h2></div><button id="refreshBtn" class="secondary">Refresh</button></div>
+      <div class="table-wrap"><table><thead><tr><th>Food item</th><th>Day / meal</th><th>Predicted plates</th><th>Saved</th></tr></thead><tbody id="historyBody"><tr><td colspan="4" class="empty">No saved predictions yet.</td></tr></tbody></table></div>
+      <!-- <p class="note">Predictions are saved in MongoDB when a database connection is configured.</p> -->
+    </section>
+    <footer>MessMind · Academic demonstration project · Python + PyMongo + MongoDB + scikit-learn</footer>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>

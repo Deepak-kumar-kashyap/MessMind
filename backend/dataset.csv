@@ -1,0 +1,3001 @@
+day,meal,item,weather,event,demand
+Thursday,Breakfast,Sandwich,Cloudy,Sports Meet,192
+Sunday,Breakfast,Sandwich,Rainy,Exam,89
+Tuesday,Breakfast,Dosa,Cold,Holiday,131
+Wednesday,Breakfast,Sandwich,Cloudy,Sports Meet,239
+Monday,Lunch,Chapati,Rainy,Holiday,138
+Saturday,Lunch,Chapati,Cloudy,Festival,201
+Saturday,Lunch,Noodles,Cloudy,Holiday,215
+Monday,Snacks,Puff,Cloudy,No,109
+Monday,Snacks,Noodles,Sunny,Sports Meet,184
+Monday,Dinner,Chapati,Cold,Exam,10
+Monday,Dinner,Noodles,Cloudy,Holiday,104
+Wednesday,Dinner,Noodles,Rainy,Exam,112
+Thursday,Snacks,Puff,Rainy,No,165
+Thursday,Snacks,Samosa,Rainy,Festival,278
+Wednesday,Dinner,Noodles,Rainy,No,127
+Sunday,Dinner,Chapati,Cloudy,Exam,145
+Friday,Breakfast,Sandwich,Sunny,No,155
+Friday,Snacks,Samosa,Sunny,Festival,253
+Saturday,Snacks,Puff,Cloudy,Exam,82
+Tuesday,Lunch,Biryani,Cloudy,Exam,145
+Saturday,Snacks,Sandwich,Cold,Sports Meet,209
+Sunday,Lunch,Chapati,Cloudy,Exam,81
+Friday,Breakfast,Dosa,Rainy,Holiday,134
+Friday,Breakfast,Sandwich,Cold,Holiday,141
+Wednesday,Lunch,Noodles,Sunny,Festival,198
+Wednesday,Lunch,Biryani,Cold,Exam,118
+Thursday,Lunch,Biryani,Cloudy,Holiday,199
+Monday,Breakfast,Idli,Sunny,No,152
+Friday,Snacks,Noodles,Sunny,No,148
+Saturday,Snacks,Puff,Sunny,Sports Meet,197
+Thursday,Breakfast,Dosa,Cold,No,114
+Wednesday,Snacks,Noodles,Rainy,Festival,254
+Sunday,Dinner,Biryani,Rainy,Exam,138
+Friday,Snacks,Sandwich,Cold,Exam,141
+Friday,Dinner,Rice,Sunny,Sports Meet,238
+Sunday,Breakfast,Dosa,Cloudy,Exam,97
+Tuesday,Breakfast,Idli,Cloudy,Festival,195
+Friday,Lunch,Biryani,Cloudy,No,212
+Monday,Breakfast,Dosa,Cold,Sports Meet,172
+Monday,Breakfast,Dosa,Cold,Holiday,136
+Monday,Dinner,Rice,Cloudy,Exam,92
+Thursday,Dinner,Rice,Rainy,Exam,76
+Tuesday,Dinner,Noodles,Cloudy,Exam,124
+Monday,Lunch,Chapati,Rainy,Sports Meet,169
+Tuesday,Breakfast,Dosa,Cloudy,Holiday,179
+Monday,Breakfast,Sandwich,Cold,No,95
+Monday,Breakfast,Idli,Cloudy,Festival,205
+Sunday,Dinner,Rice,Cold,Sports Meet,236
+Saturday,Dinner,Biryani,Sunny,Sports Meet,293
+Sunday,Lunch,Noodles,Cold,Festival,212
+Wednesday,Dinner,Chapati,Cloudy,No,96
+Monday,Lunch,Rice,Cloudy,No,114
+Sunday,Dinner,Rice,Cold,Exam,102
+Sunday,Breakfast,Idli,Cold,No,85
+Thursday,Dinner,Rice,Sunny,Holiday,79
+Thursday,Snacks,Noodles,Cloudy,Holiday,79
+Friday,Lunch,Biryani,Cloudy,Sports Meet,276
+Wednesday,Dinner,Rice,Rainy,Sports Meet,199
+Sunday,Breakfast,Idli,Rainy,No,96
+Monday,Dinner,Rice,Cloudy,Holiday,91
+Tuesday,Dinner,Biryani,Sunny,No,224
+Tuesday,Dinner,Biryani,Cold,No,138
+Tuesday,Lunch,Rice,Rainy,No,89
+Monday,Snacks,Puff,Cloudy,Exam,58
+Friday,Lunch,Chapati,Sunny,Festival,173
+Wednesday,Breakfast,Idli,Rainy,Sports Meet,200
+Tuesday,Lunch,Noodles,Cold,Festival,186
+Monday,Breakfast,Idli,Cold,Exam,117
+Friday,Snacks,Samosa,Sunny,Sports Meet,251
+Sunday,Lunch,Rice,Cold,No,129
+Saturday,Snacks,Samosa,Cloudy,No,172
+Monday,Dinner,Noodles,Rainy,Sports Meet,187
+Tuesday,Lunch,Noodles,Cold,No,103
+Wednesday,Dinner,Rice,Cloudy,Holiday,101
+Monday,Lunch,Chapati,Cold,Sports Meet,128
+Friday,Dinner,Rice,Cold,Sports Meet,188
+Wednesday,Snacks,Samosa,Cloudy,Festival,219
+Sunday,Breakfast,Sandwich,Cloudy,No,109
+Tuesday,Snacks,Samosa,Rainy,Exam,189
+Saturday,Lunch,Biryani,Sunny,Festival,280
+Thursday,Dinner,Noodles,Cloudy,Sports Meet,213
+Thursday,Lunch,Biryani,Rainy,Festival,221
+Sunday,Lunch,Rice,Cold,Holiday,177
+Tuesday,Breakfast,Idli,Rainy,Holiday,163
+Friday,Dinner,Biryani,Cold,Festival,244
+Friday,Breakfast,Sandwich,Cloudy,Exam,103
+Thursday,Breakfast,Sandwich,Cloudy,Holiday,147
+Sunday,Dinner,Biryani,Rainy,Sports Meet,330
+Sunday,Lunch,Biryani,Sunny,Exam,185
+Saturday,Breakfast,Sandwich,Cloudy,Sports Meet,241
+Monday,Snacks,Noodles,Rainy,Sports Meet,190
+Wednesday,Lunch,Chapati,Cloudy,Exam,67
+Tuesday,Breakfast,Idli,Sunny,Sports Meet,218
+Friday,Snacks,Noodles,Cloudy,Festival,216
+Monday,Snacks,Noodles,Cold,No,159
+Tuesday,Breakfast,Dosa,Cold,Holiday,159
+Saturday,Lunch,Chapati,Cold,Festival,188
+Tuesday,Snacks,Samosa,Cloudy,No,189
+Friday,Breakfast,Idli,Cold,Exam,77
+Thursday,Snacks,Puff,Cold,Exam,99
+Tuesday,Snacks,Samosa,Cold,No,217
+Thursday,Lunch,Biryani,Cold,No,145
+Wednesday,Snacks,Noodles,Sunny,Festival,189
+Monday,Snacks,Puff,Cold,Festival,220
+Sunday,Dinner,Biryani,Cold,Holiday,151
+Tuesday,Snacks,Puff,Rainy,Holiday,134
+Sunday,Dinner,Noodles,Sunny,Festival,272
+Wednesday,Dinner,Noodles,Rainy,Holiday,73
+Wednesday,Lunch,Chapati,Sunny,Holiday,153
+Saturday,Dinner,Biryani,Cloudy,Sports Meet,290
+Thursday,Breakfast,Sandwich,Cold,Holiday,126
+Thursday,Lunch,Noodles,Sunny,No,159
+Thursday,Breakfast,Sandwich,Sunny,No,152
+Saturday,Breakfast,Sandwich,Cloudy,Exam,111
+Sunday,Dinner,Chapati,Sunny,Holiday,146
+Saturday,Breakfast,Idli,Sunny,Holiday,156
+Thursday,Snacks,Sandwich,Rainy,No,177
+Friday,Dinner,Noodles,Rainy,Exam,103
+Monday,Breakfast,Sandwich,Sunny,Sports Meet,196
+Monday,Dinner,Chapati,Cloudy,Holiday,48
+Sunday,Lunch,Chapati,Sunny,Holiday,146
+Tuesday,Dinner,Noodles,Rainy,Festival,144
+Monday,Lunch,Noodles,Rainy,No,121
+Tuesday,Lunch,Biryani,Cold,Sports Meet,231
+Sunday,Dinner,Noodles,Sunny,Festival,242
+Wednesday,Snacks,Noodles,Sunny,Exam,82
+Thursday,Breakfast,Idli,Sunny,Sports Meet,232
+Monday,Lunch,Chapati,Cold,Holiday,107
+Friday,Breakfast,Sandwich,Rainy,Holiday,151
+Sunday,Lunch,Noodles,Cloudy,Holiday,217
+Sunday,Breakfast,Dosa,Cloudy,Holiday,140
+Tuesday,Breakfast,Idli,Cold,Sports Meet,167
+Thursday,Breakfast,Dosa,Cold,Holiday,112
+Saturday,Breakfast,Sandwich,Cloudy,Exam,72
+Tuesday,Snacks,Puff,Sunny,Holiday,112
+Saturday,Dinner,Noodles,Cloudy,Exam,125
+Tuesday,Lunch,Noodles,Cold,Festival,188
+Wednesday,Lunch,Biryani,Cold,Exam,124
+Tuesday,Breakfast,Sandwich,Cloudy,Sports Meet,204
+Sunday,Breakfast,Sandwich,Cloudy,Sports Meet,226
+Wednesday,Snacks,Sandwich,Sunny,Holiday,99
+Friday,Breakfast,Idli,Sunny,Sports Meet,198
+Saturday,Snacks,Sandwich,Cloudy,No,102
+Thursday,Dinner,Chapati,Cold,No,111
+Friday,Snacks,Samosa,Cold,Exam,175
+Saturday,Dinner,Chapati,Sunny,No,186
+Saturday,Lunch,Biryani,Rainy,Exam,143
+Saturday,Breakfast,Sandwich,Rainy,Sports Meet,208
+Tuesday,Snacks,Noodles,Sunny,Exam,104
+Thursday,Snacks,Puff,Rainy,Festival,207
+Wednesday,Breakfast,Idli,Cold,Holiday,140
+Thursday,Dinner,Chapati,Cloudy,No,133
+Tuesday,Snacks,Noodles,Rainy,Holiday,129
+Sunday,Snacks,Puff,Cold,Exam,95
+Tuesday,Lunch,Biryani,Cold,Sports Meet,189
+Monday,Lunch,Rice,Rainy,Exam,93
+Friday,Dinner,Rice,Cloudy,Holiday,95
+Wednesday,Dinner,Rice,Sunny,No,116
+Tuesday,Lunch,Rice,Cold,Sports Meet,193
+Tuesday,Lunch,Rice,Sunny,Festival,207
+Sunday,Dinner,Noodles,Cloudy,Exam,116
+Friday,Snacks,Sandwich,Rainy,Holiday,103
+Saturday,Dinner,Rice,Cold,No,165
+Friday,Dinner,Chapati,Cloudy,Exam,95
+Monday,Snacks,Sandwich,Cold,No,162
+Tuesday,Lunch,Noodles,Rainy,Exam,50
+Monday,Dinner,Chapati,Cloudy,No,82
+Wednesday,Breakfast,Dosa,Rainy,No,134
+Tuesday,Lunch,Noodles,Cold,Exam,86
+Saturday,Lunch,Noodles,Cloudy,No,158
+Tuesday,Snacks,Sandwich,Cold,Sports Meet,245
+Monday,Snacks,Sandwich,Cloudy,Holiday,77
+Sunday,Lunch,Chapati,Rainy,Sports Meet,185
+Monday,Lunch,Noodles,Rainy,Festival,152
+Sunday,Dinner,Noodles,Cloudy,Exam,103
+Thursday,Snacks,Sandwich,Cloudy,Festival,192
+Friday,Breakfast,Idli,Sunny,Sports Meet,188
+Saturday,Snacks,Noodles,Cloudy,No,127
+Friday,Dinner,Chapati,Cloudy,Exam,57
+Tuesday,Snacks,Puff,Sunny,Holiday,110
+Sunday,Lunch,Biryani,Cloudy,Holiday,210
+Friday,Dinner,Chapati,Cloudy,Sports Meet,179
+Tuesday,Lunch,Biryani,Cold,Exam,165
+Tuesday,Lunch,Noodles,Cold,No,119
+Monday,Lunch,Rice,Rainy,Exam,100
+Saturday,Dinner,Chapati,Cloudy,Festival,223
+Sunday,Snacks,Noodles,Rainy,Exam,137
+Thursday,Lunch,Chapati,Cold,Sports Meet,171
+Wednesday,Dinner,Rice,Cloudy,No,123
+Saturday,Lunch,Chapati,Cold,Sports Meet,152
+Wednesday,Snacks,Sandwich,Cloudy,Exam,76
+Thursday,Breakfast,Dosa,Sunny,No,157
+Tuesday,Lunch,Chapati,Cloudy,Sports Meet,188
+Tuesday,Breakfast,Idli,Sunny,Exam,99
+Friday,Lunch,Chapati,Cloudy,Holiday,133
+Thursday,Breakfast,Dosa,Sunny,No,121
+Tuesday,Snacks,Noodles,Cloudy,Sports Meet,196
+Tuesday,Breakfast,Dosa,Cloudy,Holiday,175
+Thursday,Lunch,Rice,Rainy,Holiday,114
+Tuesday,Dinner,Biryani,Sunny,Exam,169
+Monday,Lunch,Biryani,Rainy,Festival,267
+Friday,Lunch,Noodles,Cold,Sports Meet,189
+Tuesday,Breakfast,Idli,Cloudy,No,101
+Thursday,Snacks,Noodles,Sunny,Festival,218
+Wednesday,Snacks,Samosa,Cold,No,227
+Wednesday,Dinner,Rice,Rainy,Exam,81
+Monday,Snacks,Noodles,Cold,No,178
+Saturday,Lunch,Biryani,Cloudy,Holiday,204
+Thursday,Breakfast,Sandwich,Sunny,Sports Meet,200
+Friday,Dinner,Noodles,Sunny,Holiday,118
+Friday,Dinner,Rice,Sunny,Holiday,95
+Saturday,Lunch,Noodles,Cold,Exam,93
+Sunday,Lunch,Rice,Rainy,Festival,226
+Friday,Lunch,Biryani,Cloudy,No,192
+Saturday,Lunch,Rice,Cold,Festival,225
+Sunday,Breakfast,Sandwich,Cold,Holiday,142
+Tuesday,Dinner,Rice,Cloudy,Exam,57
+Tuesday,Lunch,Noodles,Cold,Sports Meet,193
+Tuesday,Lunch,Rice,Sunny,Holiday,178
+Thursday,Breakfast,Idli,Cloudy,Exam,85
+Thursday,Lunch,Rice,Sunny,Holiday,161
+Sunday,Lunch,Chapati,Cold,No,128
+Monday,Breakfast,Sandwich,Cold,Sports Meet,159
+Friday,Snacks,Sandwich,Cold,Festival,279
+Thursday,Snacks,Noodles,Rainy,Sports Meet,217
+Thursday,Lunch,Biryani,Sunny,No,208
+Monday,Lunch,Biryani,Cold,Festival,188
+Saturday,Snacks,Samosa,Cloudy,Holiday,148
+Wednesday,Snacks,Noodles,Rainy,Sports Meet,205
+Tuesday,Snacks,Samosa,Rainy,No,202
+Friday,Lunch,Chapati,Rainy,No,70
+Monday,Snacks,Samosa,Cloudy,Sports Meet,274
+Monday,Lunch,Biryani,Sunny,Exam,192
+Sunday,Snacks,Sandwich,Cold,Festival,243
+Tuesday,Snacks,Puff,Cloudy,No,114
+Monday,Lunch,Biryani,Cold,Holiday,164
+Sunday,Lunch,Chapati,Sunny,Sports Meet,207
+Monday,Snacks,Sandwich,Cloudy,No,137
+Monday,Breakfast,Sandwich,Cold,Festival,184
+Saturday,Dinner,Chapati,Rainy,Exam,107
+Tuesday,Breakfast,Sandwich,Rainy,Festival,157
+Friday,Dinner,Biryani,Rainy,Festival,229
+Friday,Dinner,Chapati,Cloudy,Festival,164
+Saturday,Lunch,Noodles,Cloudy,Exam,119
+Sunday,Dinner,Noodles,Rainy,Exam,117
+Thursday,Dinner,Chapati,Rainy,No,105
+Wednesday,Dinner,Rice,Rainy,No,89
+Friday,Dinner,Rice,Cloudy,Sports Meet,207
+Saturday,Breakfast,Idli,Rainy,Festival,175
+Wednesday,Lunch,Biryani,Sunny,No,164
+Saturday,Breakfast,Sandwich,Cold,Holiday,125
+Friday,Lunch,Noodles,Rainy,No,128
+Friday,Lunch,Noodles,Cold,Exam,90
+Monday,Dinner,Rice,Cloudy,Sports Meet,210
+Tuesday,Breakfast,Dosa,Cloudy,Holiday,153
+Friday,Snacks,Puff,Sunny,No,74
+Saturday,Breakfast,Idli,Rainy,Festival,235
+Wednesday,Breakfast,Sandwich,Rainy,Holiday,147
+Tuesday,Snacks,Samosa,Sunny,Holiday,132
+Sunday,Lunch,Biryani,Rainy,Exam,170
+Friday,Lunch,Chapati,Sunny,Festival,176
+Sunday,Lunch,Noodles,Cold,Exam,120
+Wednesday,Lunch,Chapati,Sunny,Holiday,157
+Saturday,Breakfast,Idli,Sunny,Festival,226
+Saturday,Dinner,Chapati,Rainy,Festival,189
+Friday,Lunch,Noodles,Cloudy,Holiday,168
+Thursday,Dinner,Biryani,Cloudy,Holiday,116
+Thursday,Lunch,Chapati,Rainy,Festival,170
+Friday,Snacks,Sandwich,Rainy,Sports Meet,264
+Tuesday,Lunch,Chapati,Sunny,No,107
+Friday,Breakfast,Idli,Rainy,Holiday,112
+Saturday,Dinner,Rice,Rainy,Exam,83
+Monday,Breakfast,Dosa,Sunny,Festival,222
+Sunday,Lunch,Chapati,Cloudy,Exam,120
+Tuesday,Snacks,Puff,Rainy,Festival,181
+Wednesday,Snacks,Samosa,Sunny,Holiday,155
+Sunday,Snacks,Samosa,Cold,Festival,302
+Wednesday,Breakfast,Idli,Rainy,Sports Meet,222
+Tuesday,Lunch,Chapati,Cloudy,Sports Meet,216
+Saturday,Lunch,Biryani,Cold,Holiday,231
+Sunday,Snacks,Puff,Rainy,Exam,82
+Thursday,Breakfast,Idli,Cold,No,108
+Monday,Snacks,Noodles,Sunny,Festival,206
+Wednesday,Breakfast,Sandwich,Sunny,No,166
+Monday,Breakfast,Sandwich,Rainy,Holiday,189
+Friday,Snacks,Noodles,Rainy,Sports Meet,216
+Sunday,Lunch,Chapati,Rainy,Exam,95
+Saturday,Lunch,Rice,Sunny,Sports Meet,249
+Tuesday,Lunch,Chapati,Sunny,Holiday,179
+Thursday,Lunch,Biryani,Cloudy,Festival,279
+Sunday,Dinner,Chapati,Sunny,Holiday,88
+Monday,Snacks,Samosa,Rainy,Exam,198
+Wednesday,Snacks,Samosa,Rainy,Holiday,195
+Wednesday,Dinner,Rice,Rainy,No,106
+Thursday,Dinner,Chapati,Cold,No,74
+Monday,Dinner,Rice,Cloudy,Exam,109
+Wednesday,Breakfast,Sandwich,Rainy,Festival,174
+Wednesday,Snacks,Samosa,Cold,Festival,294
+Sunday,Dinner,Noodles,Sunny,No,197
+Thursday,Dinner,Biryani,Rainy,No,167
+Sunday,Dinner,Rice,Rainy,Sports Meet,236
+Tuesday,Snacks,Sandwich,Cloudy,Festival,173
+Saturday,Lunch,Noodles,Cloudy,Holiday,165
+Wednesday,Dinner,Chapati,Sunny,Holiday,110
+Friday,Snacks,Samosa,Cloudy,No,169
+Friday,Lunch,Biryani,Cloudy,Holiday,210
+Monday,Snacks,Sandwich,Cold,Sports Meet,224
+Saturday,Dinner,Chapati,Cold,Festival,160
+Tuesday,Lunch,Rice,Cloudy,Holiday,185
+Monday,Snacks,Samosa,Sunny,Exam,148
+Thursday,Dinner,Chapati,Cloudy,Holiday,77
+Sunday,Breakfast,Sandwich,Rainy,Festival,133
+Sunday,Lunch,Noodles,Cloudy,No,136
+Saturday,Snacks,Noodles,Cloudy,Festival,247
+Wednesday,Breakfast,Dosa,Sunny,Holiday,153
+Wednesday,Lunch,Noodles,Cloudy,Holiday,159
+Thursday,Dinner,Noodles,Rainy,Holiday,101
+Saturday,Snacks,Samosa,Sunny,No,178
+Friday,Lunch,Biryani,Cloudy,Exam,133
+Thursday,Dinner,Chapati,Cloudy,No,105
+Friday,Snacks,Puff,Sunny,No,85
+Sunday,Lunch,Noodles,Rainy,Holiday,149
+Wednesday,Lunch,Rice,Rainy,Festival,223
+Sunday,Dinner,Rice,Sunny,Exam,129
+Friday,Lunch,Chapati,Cloudy,Holiday,165
+Tuesday,Snacks,Noodles,Cold,Sports Meet,247
+Monday,Snacks,Puff,Cold,No,134
+Monday,Snacks,Noodles,Sunny,Sports Meet,226
+Sunday,Snacks,Samosa,Cold,Exam,142
+Saturday,Lunch,Rice,Sunny,Exam,147
+Sunday,Dinner,Noodles,Cold,Exam,76
+Monday,Dinner,Chapati,Rainy,Sports Meet,177
+Tuesday,Snacks,Sandwich,Rainy,Sports Meet,251
+Friday,Lunch,Noodles,Cloudy,Sports Meet,167
+Sunday,Snacks,Samosa,Rainy,Festival,315
+Monday,Lunch,Chapati,Sunny,Holiday,178
+Wednesday,Snacks,Noodles,Rainy,Sports Meet,215
+Monday,Snacks,Puff,Sunny,Sports Meet,168
+Tuesday,Lunch,Chapati,Cloudy,Sports Meet,168
+Wednesday,Snacks,Sandwich,Cloudy,Holiday,86
+Tuesday,Dinner,Noodles,Sunny,Sports Meet,177
+Wednesday,Snacks,Sandwich,Cold,Festival,243
+Thursday,Snacks,Sandwich,Sunny,Holiday,86
+Sunday,Snacks,Noodles,Rainy,No,193
+Friday,Breakfast,Idli,Rainy,Festival,150
+Sunday,Breakfast,Sandwich,Cloudy,Festival,235
+Monday,Breakfast,Idli,Rainy,Sports Meet,147
+Wednesday,Dinner,Biryani,Rainy,Holiday,154
+Saturday,Dinner,Biryani,Sunny,No,248
+Sunday,Breakfast,Dosa,Cold,Festival,169
+Tuesday,Snacks,Puff,Cold,Festival,218
+Monday,Snacks,Samosa,Cloudy,Sports Meet,228
+Thursday,Dinner,Chapati,Sunny,Festival,181
+Thursday,Snacks,Noodles,Cloudy,Exam,63
+Sunday,Breakfast,Dosa,Sunny,Festival,215
+Sunday,Lunch,Rice,Sunny,Festival,247
+Monday,Breakfast,Idli,Cold,Exam,87
+Wednesday,Snacks,Samosa,Sunny,No,200
+Friday,Dinner,Biryani,Sunny,Sports Meet,288
+Monday,Dinner,Chapati,Rainy,Exam,57
+Sunday,Lunch,Biryani,Rainy,Sports Meet,288
+Sunday,Lunch,Rice,Rainy,Festival,152
+Tuesday,Snacks,Noodles,Cloudy,No,144
+Saturday,Snacks,Puff,Sunny,Festival,191
+Friday,Breakfast,Sandwich,Cold,Holiday,161
+Monday,Breakfast,Dosa,Cold,Sports Meet,177
+Wednesday,Lunch,Biryani,Sunny,Festival,311
+Friday,Breakfast,Dosa,Cloudy,Sports Meet,186
+Friday,Dinner,Chapati,Rainy,No,89
+Sunday,Dinner,Biryani,Cloudy,Exam,210
+Tuesday,Snacks,Sandwich,Cloudy,Festival,176
+Tuesday,Dinner,Noodles,Sunny,Sports Meet,261
+Friday,Snacks,Puff,Cloudy,Exam,49
+Saturday,Snacks,Puff,Rainy,No,151
+Thursday,Breakfast,Dosa,Cold,Sports Meet,169
+Friday,Breakfast,Dosa,Cold,No,94
+Friday,Snacks,Sandwich,Cloudy,Sports Meet,226
+Saturday,Lunch,Biryani,Cloudy,No,168
+Wednesday,Lunch,Rice,Cold,Sports Meet,183
+Monday,Breakfast,Dosa,Cloudy,No,127
+Friday,Dinner,Biryani,Sunny,No,222
+Monday,Dinner,Chapati,Cold,No,78
+Sunday,Snacks,Sandwich,Cold,Festival,191
+Wednesday,Breakfast,Idli,Rainy,Holiday,125
+Sunday,Lunch,Biryani,Sunny,Sports Meet,280
+Thursday,Lunch,Noodles,Rainy,Sports Meet,164
+Thursday,Snacks,Samosa,Rainy,Exam,179
+Tuesday,Snacks,Samosa,Sunny,No,163
+Wednesday,Snacks,Puff,Cold,Festival,222
+Wednesday,Snacks,Samosa,Cold,Festival,318
+Sunday,Lunch,Biryani,Cloudy,No,217
+Tuesday,Dinner,Chapati,Cold,Sports Meet,151
+Friday,Breakfast,Sandwich,Sunny,No,124
+Tuesday,Breakfast,Idli,Cloudy,Sports Meet,200
+Sunday,Lunch,Chapati,Rainy,No,89
+Friday,Snacks,Samosa,Cold,Exam,207
+Thursday,Lunch,Rice,Sunny,No,159
+Saturday,Snacks,Sandwich,Rainy,Holiday,137
+Tuesday,Lunch,Rice,Rainy,Sports Meet,210
+Sunday,Snacks,Samosa,Sunny,Festival,281
+Tuesday,Breakfast,Dosa,Sunny,Holiday,211
+Wednesday,Dinner,Rice,Cold,No,136
+Tuesday,Breakfast,Sandwich,Cold,Sports Meet,200
+Tuesday,Snacks,Sandwich,Cloudy,Sports Meet,202
+Monday,Dinner,Noodles,Cold,No,86
+Thursday,Dinner,Biryani,Cloudy,Festival,262
+Monday,Breakfast,Idli,Cold,Sports Meet,159
+Monday,Dinner,Rice,Sunny,Festival,204
+Thursday,Snacks,Puff,Cold,Sports Meet,254
+Tuesday,Breakfast,Idli,Cloudy,Festival,236
+Thursday,Breakfast,Sandwich,Cloudy,Sports Meet,210
+Monday,Snacks,Puff,Cloudy,Festival,149
+Friday,Breakfast,Sandwich,Cold,Sports Meet,173
+Monday,Snacks,Sandwich,Sunny,No,144
+Friday,Snacks,Sandwich,Cold,No,172
+Sunday,Lunch,Biryani,Rainy,Holiday,212
+Monday,Breakfast,Idli,Sunny,Sports Meet,232
+Saturday,Dinner,Biryani,Cloudy,Holiday,169
+Friday,Breakfast,Idli,Sunny,No,122
+Sunday,Lunch,Rice,Rainy,Exam,83
+Thursday,Lunch,Chapati,Cloudy,Exam,74
+Monday,Breakfast,Sandwich,Sunny,Holiday,179
+Wednesday,Lunch,Biryani,Sunny,Exam,174
+Wednesday,Breakfast,Idli,Cloudy,No,119
+Friday,Dinner,Chapati,Cold,No,73
+Thursday,Dinner,Chapati,Cold,No,67
+Tuesday,Breakfast,Sandwich,Rainy,Festival,191
+Tuesday,Dinner,Noodles,Sunny,Sports Meet,214
+Monday,Lunch,Biryani,Rainy,Holiday,195
+Monday,Breakfast,Dosa,Cold,No,111
+Tuesday,Dinner,Chapati,Cold,No,85
+Thursday,Dinner,Rice,Rainy,Exam,64
+Sunday,Dinner,Noodles,Cold,Holiday,121
+Tuesday,Breakfast,Dosa,Rainy,Holiday,159
+Monday,Dinner,Rice,Cloudy,Festival,192
+Sunday,Breakfast,Idli,Cold,Exam,59
+Wednesday,Breakfast,Idli,Sunny,Holiday,171
+Wednesday,Lunch,Noodles,Sunny,Sports Meet,186
+Saturday,Snacks,Noodles,Sunny,Sports Meet,215
+Friday,Breakfast,Sandwich,Sunny,Sports Meet,229
+Thursday,Snacks,Sandwich,Cloudy,Exam,108
+Thursday,Snacks,Samosa,Rainy,Festival,263
+Friday,Snacks,Sandwich,Cold,Exam,165
+Sunday,Breakfast,Sandwich,Cloudy,Sports Meet,156
+Tuesday,Dinner,Rice,Cold,Holiday,108
+Tuesday,Lunch,Biryani,Sunny,No,204
+Sunday,Breakfast,Idli,Cold,Festival,205
+Friday,Snacks,Noodles,Rainy,Festival,220
+Thursday,Dinner,Chapati,Cloudy,No,118
+Sunday,Lunch,Chapati,Cloudy,Sports Meet,184
+Monday,Dinner,Chapati,Sunny,Exam,109
+Friday,Dinner,Chapati,Cold,Holiday,58
+Wednesday,Snacks,Noodles,Cold,Holiday,125
+Friday,Lunch,Rice,Cloudy,No,128
+Wednesday,Snacks,Samosa,Cloudy,No,196
+Tuesday,Snacks,Sandwich,Rainy,No,197
+Saturday,Breakfast,Idli,Rainy,Holiday,159
+Monday,Snacks,Noodles,Cold,No,146
+Friday,Lunch,Rice,Rainy,Sports Meet,144
+Tuesday,Breakfast,Sandwich,Sunny,Sports Meet,230
+Monday,Dinner,Rice,Cloudy,Sports Meet,229
+Saturday,Dinner,Biryani,Cold,Festival,270
+Saturday,Dinner,Chapati,Sunny,Sports Meet,277
+Tuesday,Dinner,Biryani,Cold,No,180
+Saturday,Dinner,Chapati,Rainy,Sports Meet,164
+Monday,Snacks,Sandwich,Rainy,Holiday,168
+Sunday,Snacks,Noodles,Cold,Festival,218
+Sunday,Dinner,Biryani,Cold,Festival,290
+Thursday,Snacks,Samosa,Sunny,Sports Meet,262
+Wednesday,Breakfast,Dosa,Sunny,Exam,124
+Monday,Breakfast,Dosa,Sunny,No,136
+Wednesday,Dinner,Chapati,Rainy,No,87
+Monday,Dinner,Noodles,Sunny,Exam,114
+Monday,Snacks,Sandwich,Sunny,Exam,75
+Wednesday,Dinner,Biryani,Rainy,Sports Meet,220
+Saturday,Dinner,Noodles,Sunny,Sports Meet,263
+Tuesday,Lunch,Noodles,Cloudy,Sports Meet,211
+Thursday,Snacks,Sandwich,Rainy,No,131
+Friday,Snacks,Puff,Rainy,Sports Meet,219
+Monday,Dinner,Rice,Sunny,Sports Meet,196
+Tuesday,Lunch,Biryani,Cold,Sports Meet,225
+Sunday,Breakfast,Sandwich,Cloudy,Festival,190
+Monday,Dinner,Rice,Cold,No,76
+Thursday,Lunch,Rice,Cold,Holiday,146
+Sunday,Dinner,Rice,Cloudy,No,155
+Tuesday,Snacks,Sandwich,Cloudy,Exam,96
+Monday,Breakfast,Sandwich,Sunny,Festival,201
+Friday,Snacks,Puff,Sunny,Exam,71
+Saturday,Breakfast,Dosa,Cloudy,Sports Meet,202
+Wednesday,Breakfast,Idli,Rainy,No,88
+Tuesday,Lunch,Rice,Rainy,Sports Meet,183
+Thursday,Lunch,Rice,Cold,Holiday,121
+Monday,Dinner,Rice,Rainy,Sports Meet,198
+Thursday,Lunch,Chapati,Sunny,Holiday,169
+Saturday,Dinner,Biryani,Cold,Festival,303
+Friday,Lunch,Rice,Cold,Holiday,170
+Tuesday,Snacks,Sandwich,Cold,Festival,279
+Thursday,Dinner,Noodles,Cloudy,No,115
+Saturday,Lunch,Rice,Cloudy,Festival,208
+Saturday,Breakfast,Idli,Cloudy,Exam,68
+Monday,Lunch,Chapati,Cloudy,No,102
+Saturday,Dinner,Rice,Cloudy,Sports Meet,250
+Wednesday,Breakfast,Idli,Cold,Sports Meet,179
+Tuesday,Dinner,Chapati,Rainy,No,76
+Sunday,Lunch,Chapati,Rainy,Sports Meet,188
+Tuesday,Snacks,Noodles,Sunny,Sports Meet,221
+Tuesday,Breakfast,Sandwich,Rainy,Sports Meet,156
+Monday,Breakfast,Idli,Rainy,No,107
+Wednesday,Breakfast,Sandwich,Rainy,Sports Meet,172
+Wednesday,Breakfast,Dosa,Sunny,No,120
+Tuesday,Snacks,Noodles,Rainy,Exam,90
+Saturday,Snacks,Noodles,Cloudy,Exam,61
+Friday,Snacks,Puff,Cold,Holiday,111
+Tuesday,Lunch,Biryani,Cloudy,Sports Meet,277
+Sunday,Snacks,Noodles,Sunny,Holiday,90
+Tuesday,Breakfast,Dosa,Cold,Exam,102
+Monday,Snacks,Samosa,Cold,Sports Meet,259
+Wednesday,Dinner,Biryani,Cloudy,Exam,146
+Wednesday,Lunch,Rice,Cloudy,Holiday,183
+Sunday,Breakfast,Dosa,Rainy,Sports Meet,186
+Friday,Breakfast,Dosa,Sunny,No,159
+Wednesday,Snacks,Samosa,Cold,Exam,196
+Monday,Breakfast,Dosa,Cold,Festival,182
+Tuesday,Snacks,Sandwich,Cold,No,162
+Thursday,Breakfast,Sandwich,Cold,Festival,148
+Thursday,Snacks,Sandwich,Sunny,Holiday,119
+Monday,Lunch,Biryani,Cold,No,170
+Sunday,Snacks,Sandwich,Sunny,Sports Meet,173
+Tuesday,Dinner,Chapati,Cloudy,Exam,94
+Monday,Dinner,Noodles,Cold,Sports Meet,180
+Thursday,Dinner,Noodles,Cloudy,Holiday,115
+Saturday,Breakfast,Idli,Rainy,Festival,179
+Friday,Snacks,Samosa,Sunny,Exam,122
+Wednesday,Breakfast,Idli,Cloudy,Sports Meet,247
+Monday,Breakfast,Sandwich,Rainy,Holiday,140
+Thursday,Dinner,Noodles,Cold,Exam,97
+Sunday,Breakfast,Sandwich,Cold,Exam,99
+Monday,Snacks,Puff,Sunny,Holiday,96
+Saturday,Snacks,Samosa,Cloudy,Sports Meet,250
+Sunday,Breakfast,Dosa,Cold,Exam,56
+Friday,Snacks,Noodles,Sunny,Festival,159
+Wednesday,Snacks,Puff,Cloudy,Festival,176
+Tuesday,Lunch,Chapati,Cloudy,Sports Meet,169
+Saturday,Breakfast,Dosa,Cold,Festival,185
+Tuesday,Breakfast,Dosa,Sunny,Sports Meet,211
+Thursday,Dinner,Noodles,Sunny,Exam,88
+Sunday,Dinner,Rice,Rainy,Festival,166
+Wednesday,Breakfast,Idli,Sunny,Exam,79
+Friday,Breakfast,Dosa,Sunny,Exam,120
+Sunday,Lunch,Noodles,Cold,Sports Meet,184
+Thursday,Snacks,Puff,Sunny,Exam,79
+Friday,Dinner,Biryani,Cloudy,No,159
+Thursday,Dinner,Chapati,Rainy,No,81
+Saturday,Breakfast,Idli,Sunny,Exam,121
+Thursday,Breakfast,Idli,Rainy,Sports Meet,159
+Sunday,Breakfast,Dosa,Cold,Exam,89
+Friday,Lunch,Rice,Cloudy,Sports Meet,176
+Monday,Lunch,Chapati,Cloudy,Exam,74
+Sunday,Breakfast,Sandwich,Cold,Sports Meet,191
+Monday,Snacks,Puff,Cold,Exam,137
+Wednesday,Lunch,Noodles,Cold,Holiday,178
+Thursday,Dinner,Biryani,Sunny,Holiday,166
+Wednesday,Dinner,Biryani,Cold,Sports Meet,245
+Monday,Breakfast,Idli,Cold,Exam,63
+Tuesday,Snacks,Sandwich,Cloudy,Exam,78
+Saturday,Snacks,Noodles,Rainy,Festival,290
+Friday,Snacks,Puff,Sunny,Sports Meet,152
+Thursday,Breakfast,Sandwich,Cold,Festival,158
+Friday,Dinner,Rice,Cloudy,Festival,206
+Saturday,Snacks,Samosa,Cold,Holiday,182
+Friday,Dinner,Rice,Sunny,Sports Meet,215
+Thursday,Dinner,Biryani,Cold,No,160
+Monday,Dinner,Noodles,Cloudy,Exam,111
+Monday,Breakfast,Dosa,Rainy,No,117
+Friday,Lunch,Chapati,Cold,Exam,62
+Thursday,Lunch,Rice,Cloudy,No,116
+Saturday,Lunch,Rice,Sunny,Holiday,213
+Sunday,Snacks,Sandwich,Cold,Exam,94
+Friday,Dinner,Chapati,Cold,Festival,152
+Friday,Snacks,Samosa,Sunny,Sports Meet,263
+Thursday,Breakfast,Dosa,Cloudy,Exam,111
+Tuesday,Dinner,Rice,Rainy,Holiday,76
+Friday,Dinner,Rice,Sunny,Sports Meet,245
+Monday,Lunch,Noodles,Cloudy,Sports Meet,162
+Saturday,Snacks,Noodles,Rainy,Festival,208
+Saturday,Dinner,Noodles,Sunny,Exam,125
+Wednesday,Dinner,Rice,Sunny,Holiday,112
+Tuesday,Dinner,Biryani,Cold,Sports Meet,190
+Tuesday,Snacks,Puff,Sunny,Holiday,105
+Tuesday,Dinner,Chapati,Cloudy,Holiday,62
+Friday,Breakfast,Sandwich,Cloudy,Holiday,176
+Monday,Lunch,Biryani,Cold,No,189
+Friday,Lunch,Chapati,Cloudy,Exam,100
+Sunday,Lunch,Biryani,Cloudy,Exam,163
+Sunday,Snacks,Noodles,Sunny,Sports Meet,194
+Sunday,Lunch,Chapati,Rainy,Sports Meet,165
+Sunday,Lunch,Rice,Cold,Festival,243
+Sunday,Breakfast,Sandwich,Rainy,Festival,158
+Tuesday,Lunch,Biryani,Cloudy,No,174
+Thursday,Lunch,Chapati,Cold,Sports Meet,164
+Monday,Dinner,Biryani,Sunny,No,192
+Saturday,Lunch,Chapati,Rainy,Sports Meet,222
+Tuesday,Breakfast,Sandwich,Cold,Holiday,136
+Friday,Lunch,Biryani,Rainy,Exam,122
+Tuesday,Dinner,Biryani,Cold,No,117
+Friday,Dinner,Noodles,Rainy,No,126
+Friday,Snacks,Sandwich,Cold,Festival,244
+Thursday,Breakfast,Dosa,Rainy,Holiday,123
+Monday,Snacks,Sandwich,Cold,Sports Meet,247
+Saturday,Lunch,Biryani,Cloudy,Exam,207
+Sunday,Breakfast,Idli,Cold,No,94
+Thursday,Breakfast,Dosa,Cold,Sports Meet,153
+Tuesday,Snacks,Noodles,Sunny,Festival,189
+Tuesday,Dinner,Biryani,Cold,Festival,205
+Friday,Breakfast,Dosa,Cold,Sports Meet,160
+Friday,Dinner,Rice,Sunny,Sports Meet,231
+Monday,Breakfast,Idli,Cold,Exam,90
+Tuesday,Breakfast,Dosa,Sunny,Sports Meet,202
+Saturday,Lunch,Biryani,Rainy,Exam,161
+Tuesday,Dinner,Biryani,Cloudy,Sports Meet,290
+Thursday,Breakfast,Dosa,Cold,Festival,150
+Wednesday,Snacks,Samosa,Cloudy,Holiday,109
+Saturday,Breakfast,Sandwich,Rainy,Sports Meet,213
+Sunday,Snacks,Sandwich,Rainy,Festival,229
+Tuesday,Snacks,Noodles,Cold,Holiday,103
+Monday,Dinner,Chapati,Sunny,No,96
+Monday,Dinner,Chapati,Cloudy,No,111
+Wednesday,Snacks,Sandwich,Sunny,Exam,88
+Monday,Snacks,Sandwich,Sunny,No,112
+Tuesday,Dinner,Chapati,Cold,No,95
+Friday,Lunch,Noodles,Rainy,Exam,95
+Thursday,Lunch,Rice,Rainy,Festival,179
+Thursday,Breakfast,Sandwich,Cold,No,105
+Thursday,Snacks,Noodles,Sunny,Sports Meet,201
+Friday,Snacks,Noodles,Rainy,Sports Meet,248
+Wednesday,Lunch,Noodles,Cold,Sports Meet,181
+Thursday,Dinner,Chapati,Cold,Sports Meet,122
+Saturday,Dinner,Chapati,Sunny,Sports Meet,268
+Thursday,Lunch,Biryani,Cloudy,No,183
+Tuesday,Lunch,Rice,Sunny,Holiday,227
+Saturday,Breakfast,Idli,Cold,Exam,121
+Wednesday,Dinner,Biryani,Cloudy,Exam,136
+Thursday,Snacks,Puff,Sunny,Festival,207
+Monday,Dinner,Chapati,Cloudy,Festival,190
+Thursday,Lunch,Chapati,Rainy,Festival,146
+Tuesday,Lunch,Chapati,Cold,No,103
+Sunday,Dinner,Biryani,Cold,No,226
+Saturday,Lunch,Rice,Sunny,Sports Meet,267
+Monday,Snacks,Samosa,Cold,Exam,188
+Friday,Lunch,Chapati,Cloudy,Exam,58
+Monday,Snacks,Sandwich,Cloudy,No,104
+Thursday,Dinner,Chapati,Cloudy,Sports Meet,217
+Wednesday,Lunch,Rice,Sunny,Holiday,160
+Sunday,Dinner,Rice,Rainy,Sports Meet,250
+Friday,Lunch,Biryani,Rainy,No,151
+Thursday,Breakfast,Dosa,Cloudy,Festival,206
+Friday,Breakfast,Idli,Rainy,No,89
+Saturday,Snacks,Puff,Cold,Festival,249
+Sunday,Breakfast,Sandwich,Cold,Exam,63
+Thursday,Breakfast,Dosa,Cloudy,Festival,240
+Sunday,Lunch,Rice,Sunny,No,135
+Wednesday,Snacks,Sandwich,Sunny,Holiday,110
+Sunday,Dinner,Noodles,Sunny,Holiday,172
+Thursday,Breakfast,Dosa,Rainy,Exam,91
+Thursday,Dinner,Chapati,Sunny,Exam,121
+Friday,Dinner,Chapati,Cloudy,Sports Meet,180
+Tuesday,Dinner,Chapati,Sunny,Exam,120
+Sunday,Breakfast,Dosa,Sunny,Exam,153
+Thursday,Snacks,Samosa,Sunny,No,158
+Sunday,Snacks,Noodles,Rainy,Exam,118
+Thursday,Snacks,Sandwich,Cold,Holiday,151
+Sunday,Breakfast,Idli,Rainy,Holiday,147
+Thursday,Breakfast,Idli,Cloudy,No,138
+Friday,Lunch,Chapati,Rainy,No,92
+Thursday,Dinner,Chapati,Rainy,Sports Meet,154
+Thursday,Dinner,Rice,Rainy,Holiday,62
+Saturday,Breakfast,Dosa,Cloudy,Exam,111
+Thursday,Snacks,Puff,Cold,Holiday,104
+Sunday,Lunch,Chapati,Rainy,No,113
+Monday,Snacks,Noodles,Sunny,Festival,213
+Friday,Breakfast,Dosa,Cold,No,95
+Monday,Snacks,Sandwich,Rainy,No,181
+Thursday,Snacks,Noodles,Sunny,Sports Meet,199
+Tuesday,Lunch,Rice,Cold,Holiday,170
+Wednesday,Breakfast,Dosa,Cold,Holiday,163
+Friday,Dinner,Chapati,Sunny,Festival,199
+Thursday,Snacks,Sandwich,Sunny,Festival,206
+Saturday,Dinner,Biryani,Cold,Exam,169
+Monday,Dinner,Biryani,Sunny,Festival,305
+Friday,Snacks,Puff,Rainy,Festival,243
+Friday,Lunch,Rice,Cloudy,No,137
+Monday,Snacks,Sandwich,Cold,Sports Meet,194
+Saturday,Dinner,Biryani,Rainy,Holiday,185
+Thursday,Dinner,Biryani,Cold,Exam,118
+Saturday,Lunch,Noodles,Cloudy,Exam,126
+Saturday,Breakfast,Idli,Sunny,No,151
+Monday,Snacks,Sandwich,Sunny,Exam,96
+Wednesday,Breakfast,Sandwich,Sunny,Holiday,199
+Sunday,Lunch,Chapati,Cold,No,121
+Monday,Breakfast,Sandwich,Cold,No,125
+Sunday,Snacks,Sandwich,Cloudy,Holiday,77
+Saturday,Snacks,Sandwich,Rainy,Holiday,138
+Sunday,Breakfast,Dosa,Cloudy,Holiday,166
+Saturday,Snacks,Sandwich,Cold,Sports Meet,260
+Tuesday,Breakfast,Dosa,Cold,Sports Meet,209
+Friday,Snacks,Puff,Rainy,Exam,141
+Saturday,Breakfast,Sandwich,Sunny,Holiday,166
+Saturday,Dinner,Rice,Sunny,Sports Meet,283
+Thursday,Snacks,Samosa,Cold,Exam,141
+Wednesday,Dinner,Biryani,Cloudy,Festival,253
+Tuesday,Snacks,Noodles,Cloudy,Exam,70
+Monday,Lunch,Biryani,Cold,Holiday,238
+Wednesday,Breakfast,Sandwich,Rainy,Sports Meet,196
+Thursday,Dinner,Rice,Rainy,No,133
+Sunday,Breakfast,Idli,Cloudy,No,118
+Sunday,Dinner,Biryani,Cold,Festival,273
+Friday,Breakfast,Idli,Rainy,Holiday,168
+Friday,Dinner,Noodles,Cold,No,131
+Saturday,Snacks,Sandwich,Rainy,Festival,214
+Thursday,Dinner,Chapati,Cold,Sports Meet,180
+Friday,Breakfast,Dosa,Sunny,Sports Meet,221
+Thursday,Snacks,Samosa,Rainy,Festival,277
+Monday,Lunch,Rice,Cold,Exam,67
+Wednesday,Breakfast,Dosa,Rainy,Sports Meet,194
+Friday,Snacks,Sandwich,Cold,Sports Meet,257
+Saturday,Snacks,Puff,Rainy,Holiday,128
+Wednesday,Snacks,Noodles,Rainy,No,146
+Friday,Snacks,Noodles,Cold,No,181
+Wednesday,Snacks,Sandwich,Sunny,Festival,237
+Friday,Snacks,Noodles,Cold,No,133
+Wednesday,Breakfast,Dosa,Rainy,Holiday,146
+Friday,Lunch,Biryani,Rainy,Festival,179
+Wednesday,Snacks,Noodles,Rainy,Sports Meet,234
+Sunday,Breakfast,Sandwich,Sunny,Sports Meet,184
+Wednesday,Snacks,Sandwich,Sunny,Holiday,96
+Wednesday,Dinner,Noodles,Cold,No,85
+Thursday,Lunch,Noodles,Sunny,Sports Meet,216
+Friday,Dinner,Biryani,Rainy,Holiday,96
+Monday,Breakfast,Dosa,Rainy,Holiday,155
+Friday,Snacks,Samosa,Cloudy,Exam,185
+Sunday,Breakfast,Idli,Rainy,Festival,146
+Monday,Lunch,Rice,Rainy,Festival,163
+Friday,Snacks,Samosa,Cold,No,203
+Tuesday,Dinner,Rice,Cloudy,No,117
+Sunday,Snacks,Samosa,Rainy,Holiday,175
+Wednesday,Snacks,Sandwich,Rainy,Exam,142
+Tuesday,Lunch,Noodles,Cloudy,Festival,225
+Tuesday,Breakfast,Dosa,Rainy,Exam,71
+Thursday,Dinner,Noodles,Sunny,No,147
+Saturday,Dinner,Noodles,Rainy,Festival,250
+Friday,Breakfast,Dosa,Rainy,Exam,35
+Friday,Snacks,Puff,Sunny,Exam,59
+Tuesday,Breakfast,Idli,Cloudy,Holiday,202
+Tuesday,Dinner,Rice,Cloudy,Sports Meet,177
+Sunday,Snacks,Puff,Cold,No,142
+Tuesday,Snacks,Puff,Cold,Exam,124
+Tuesday,Snacks,Puff,Rainy,Exam,93
+Sunday,Breakfast,Idli,Sunny,No,131
+Friday,Dinner,Rice,Cold,Festival,155
+Saturday,Lunch,Chapati,Sunny,No,145
+Thursday,Snacks,Samosa,Cloudy,Exam,151
+Tuesday,Snacks,Puff,Cold,Festival,222
+Friday,Dinner,Biryani,Cloudy,Exam,163
+Friday,Breakfast,Dosa,Cloudy,Festival,212
+Thursday,Breakfast,Idli,Cloudy,Festival,181
+Monday,Snacks,Sandwich,Rainy,Festival,240
+Saturday,Snacks,Samosa,Cloudy,Exam,130
+Sunday,Dinner,Rice,Cloudy,Sports Meet,226
+Tuesday,Lunch,Rice,Sunny,Holiday,172
+Thursday,Breakfast,Dosa,Cloudy,Exam,111
+Tuesday,Breakfast,Sandwich,Rainy,Sports Meet,178
+Tuesday,Snacks,Noodles,Cloudy,Sports Meet,199
+Friday,Lunch,Biryani,Cloudy,Sports Meet,271
+Sunday,Breakfast,Dosa,Cloudy,Sports Meet,156
+Wednesday,Snacks,Puff,Cloudy,Holiday,72
+Monday,Breakfast,Sandwich,Cloudy,No,150
+Monday,Snacks,Sandwich,Cold,Holiday,107
+Wednesday,Dinner,Rice,Cloudy,Sports Meet,166
+Wednesday,Lunch,Biryani,Sunny,Festival,257
+Wednesday,Lunch,Biryani,Rainy,Exam,120
+Friday,Snacks,Sandwich,Rainy,Holiday,126
+Friday,Lunch,Chapati,Rainy,Sports Meet,175
+Thursday,Lunch,Biryani,Rainy,Exam,115
+Tuesday,Breakfast,Dosa,Cloudy,Festival,174
+Saturday,Lunch,Chapati,Cloudy,Holiday,183
+Saturday,Dinner,Chapati,Rainy,No,94
+Tuesday,Snacks,Sandwich,Cold,Sports Meet,283
+Tuesday,Lunch,Chapati,Rainy,Sports Meet,199
+Sunday,Dinner,Chapati,Cloudy,Holiday,115
+Wednesday,Lunch,Rice,Cloudy,Festival,232
+Sunday,Lunch,Biryani,Cold,Holiday,231
+Sunday,Snacks,Noodles,Cloudy,Holiday,101
+Monday,Snacks,Sandwich,Cold,Holiday,132
+Thursday,Breakfast,Dosa,Sunny,Festival,214
+Monday,Lunch,Noodles,Rainy,Exam,39
+Saturday,Dinner,Chapati,Cloudy,Sports Meet,252
+Sunday,Lunch,Noodles,Cloudy,Exam,87
+Sunday,Lunch,Biryani,Sunny,Exam,208
+Tuesday,Breakfast,Dosa,Cloudy,Holiday,147
+Thursday,Lunch,Rice,Sunny,Festival,221
+Tuesday,Dinner,Chapati,Rainy,Sports Meet,111
+Tuesday,Lunch,Chapati,Cloudy,Holiday,112
+Saturday,Dinner,Chapati,Rainy,Exam,77
+Saturday,Lunch,Rice,Rainy,No,127
+Friday,Lunch,Rice,Cold,No,101
+Wednesday,Dinner,Biryani,Rainy,No,143
+Tuesday,Snacks,Samosa,Cold,No,251
+Thursday,Lunch,Rice,Cold,Exam,61
+Saturday,Lunch,Rice,Cold,No,115
+Sunday,Lunch,Noodles,Sunny,Sports Meet,236
+Friday,Snacks,Samosa,Rainy,Holiday,173
+Sunday,Dinner,Rice,Rainy,No,148
+Monday,Dinner,Rice,Cold,Festival,127
+Sunday,Snacks,Noodles,Cloudy,Sports Meet,180
+Tuesday,Snacks,Sandwich,Cloudy,Holiday,98
+Monday,Breakfast,Dosa,Sunny,No,164
+Monday,Snacks,Noodles,Cloudy,Sports Meet,184
+Friday,Breakfast,Dosa,Rainy,Sports Meet,181
+Thursday,Dinner,Rice,Cold,Holiday,86
+Wednesday,Lunch,Noodles,Cold,Festival,176
+Wednesday,Lunch,Noodles,Cloudy,Holiday,157
+Monday,Dinner,Noodles,Sunny,Holiday,119
+Wednesday,Breakfast,Idli,Cold,Festival,191
+Thursday,Lunch,Noodles,Cloudy,Sports Meet,187
+Sunday,Dinner,Noodles,Cold,Exam,103
+Monday,Breakfast,Dosa,Cold,Sports Meet,194
+Monday,Snacks,Puff,Rainy,Sports Meet,236
+Thursday,Dinner,Rice,Cold,Exam,90
+Monday,Lunch,Noodles,Rainy,No,100
+Sunday,Snacks,Sandwich,Cloudy,Festival,194
+Sunday,Lunch,Rice,Sunny,Exam,132
+Friday,Breakfast,Idli,Cold,No,134
+Friday,Dinner,Noodles,Sunny,Exam,83
+Thursday,Snacks,Puff,Cloudy,Festival,162
+Tuesday,Dinner,Noodles,Cold,Exam,53
+Sunday,Breakfast,Sandwich,Rainy,Holiday,144
+Tuesday,Dinner,Noodles,Sunny,No,160
+Tuesday,Breakfast,Dosa,Cold,Festival,166
+Monday,Snacks,Noodles,Rainy,Exam,139
+Friday,Snacks,Puff,Rainy,Holiday,97
+Tuesday,Dinner,Chapati,Sunny,Exam,57
+Tuesday,Breakfast,Sandwich,Sunny,Holiday,137
+Wednesday,Snacks,Sandwich,Rainy,Festival,222
+Sunday,Snacks,Noodles,Rainy,Exam,125
+Wednesday,Breakfast,Sandwich,Rainy,Holiday,129
+Thursday,Lunch,Noodles,Rainy,Sports Meet,176
+Sunday,Snacks,Sandwich,Rainy,No,159
+Monday,Breakfast,Dosa,Rainy,Festival,195
+Friday,Lunch,Rice,Cloudy,No,130
+Thursday,Lunch,Biryani,Cold,Holiday,172
+Tuesday,Snacks,Puff,Sunny,Sports Meet,179
+Friday,Breakfast,Sandwich,Sunny,Festival,248
+Monday,Snacks,Samosa,Rainy,No,211
+Wednesday,Lunch,Chapati,Cloudy,Sports Meet,201
+Monday,Lunch,Biryani,Rainy,Holiday,191
+Friday,Snacks,Sandwich,Sunny,No,122
+Wednesday,Snacks,Puff,Sunny,Exam,79
+Sunday,Lunch,Chapati,Sunny,Festival,221
+Friday,Breakfast,Sandwich,Rainy,Sports Meet,185
+Tuesday,Breakfast,Idli,Sunny,Exam,110
+Saturday,Snacks,Puff,Cloudy,Sports Meet,208
+Friday,Snacks,Samosa,Sunny,No,193
+Thursday,Lunch,Noodles,Sunny,Exam,133
+Thursday,Breakfast,Sandwich,Sunny,Sports Meet,233
+Wednesday,Dinner,Noodles,Sunny,Holiday,129
+Tuesday,Dinner,Noodles,Cold,Exam,69
+Friday,Breakfast,Dosa,Sunny,Holiday,152
+Tuesday,Snacks,Noodles,Cloudy,Sports Meet,225
+Monday,Lunch,Noodles,Sunny,Festival,212
+Friday,Lunch,Rice,Cloudy,Festival,193
+Wednesday,Snacks,Samosa,Cloudy,Sports Meet,209
+Wednesday,Breakfast,Sandwich,Sunny,No,132
+Sunday,Lunch,Noodles,Rainy,Sports Meet,187
+Saturday,Dinner,Rice,Cold,Festival,245
+Wednesday,Breakfast,Sandwich,Rainy,No,110
+Thursday,Lunch,Rice,Rainy,Holiday,133
+Thursday,Dinner,Chapati,Cold,Sports Meet,144
+Friday,Breakfast,Dosa,Sunny,Festival,210
+Sunday,Lunch,Chapati,Cold,Sports Meet,186
+Tuesday,Dinner,Rice,Rainy,Exam,64
+Friday,Snacks,Noodles,Cold,Holiday,125
+Friday,Snacks,Samosa,Cloudy,Festival,258
+Friday,Dinner,Chapati,Cold,No,69
+Friday,Dinner,Biryani,Sunny,Festival,251
+Friday,Lunch,Rice,Sunny,No,145
+Thursday,Snacks,Noodles,Sunny,Sports Meet,198
+Tuesday,Breakfast,Idli,Cold,Holiday,96
+Saturday,Snacks,Sandwich,Rainy,Festival,264
+Saturday,Breakfast,Sandwich,Cold,Sports Meet,181
+Tuesday,Snacks,Puff,Cloudy,No,96
+Thursday,Breakfast,Dosa,Sunny,Exam,122
+Monday,Lunch,Noodles,Rainy,Exam,83
+Tuesday,Dinner,Noodles,Cloudy,Festival,217
+Tuesday,Snacks,Noodles,Sunny,Festival,222
+Tuesday,Snacks,Samosa,Sunny,Festival,237
+Friday,Dinner,Rice,Rainy,Exam,75
+Thursday,Lunch,Noodles,Rainy,Festival,172
+Wednesday,Dinner,Noodles,Cloudy,Festival,208
+Thursday,Dinner,Noodles,Sunny,No,160
+Sunday,Lunch,Noodles,Cold,Festival,208
+Monday,Lunch,Biryani,Cloudy,No,193
+Tuesday,Dinner,Rice,Sunny,No,115
+Friday,Dinner,Biryani,Sunny,Exam,135
+Sunday,Lunch,Noodles,Rainy,Exam,129
+Wednesday,Dinner,Rice,Cold,Exam,95
+Tuesday,Breakfast,Dosa,Cloudy,Festival,193
+Saturday,Dinner,Noodles,Rainy,Exam,75
+Wednesday,Dinner,Biryani,Cloudy,Sports Meet,228
+Friday,Breakfast,Idli,Cloudy,Holiday,194
+Sunday,Snacks,Samosa,Sunny,Exam,122
+Monday,Breakfast,Dosa,Rainy,Sports Meet,166
+Tuesday,Breakfast,Sandwich,Cold,Exam,34
+Wednesday,Snacks,Samosa,Cold,Holiday,185
+Tuesday,Lunch,Noodles,Rainy,Holiday,135
+Saturday,Breakfast,Sandwich,Cold,No,121
+Friday,Dinner,Rice,Cold,Sports Meet,154
+Tuesday,Snacks,Puff,Sunny,Holiday,69
+Monday,Snacks,Samosa,Rainy,Festival,311
+Friday,Dinner,Biryani,Rainy,No,176
+Friday,Snacks,Puff,Cloudy,Sports Meet,193
+Thursday,Breakfast,Idli,Sunny,Holiday,181
+Friday,Snacks,Sandwich,Sunny,Exam,119
+Monday,Snacks,Puff,Rainy,No,116
+Wednesday,Snacks,Noodles,Sunny,Sports Meet,220
+Thursday,Lunch,Biryani,Cloudy,Holiday,190
+Sunday,Lunch,Rice,Rainy,Holiday,120
+Thursday,Breakfast,Dosa,Sunny,Sports Meet,172
+Tuesday,Snacks,Samosa,Rainy,Holiday,170
+Saturday,Dinner,Rice,Cloudy,Festival,249
+Wednesday,Lunch,Rice,Sunny,Holiday,174
+Friday,Breakfast,Dosa,Rainy,Holiday,147
+Saturday,Snacks,Samosa,Cloudy,Sports Meet,237
+Tuesday,Breakfast,Idli,Cold,Holiday,136
+Thursday,Lunch,Chapati,Cold,Holiday,121
+Tuesday,Lunch,Biryani,Cold,Exam,93
+Sunday,Snacks,Samosa,Cloudy,Holiday,148
+Saturday,Snacks,Noodles,Sunny,Festival,248
+Saturday,Snacks,Sandwich,Rainy,Festival,249
+Wednesday,Dinner,Chapati,Cold,Festival,157
+Wednesday,Lunch,Biryani,Cloudy,Festival,292
+Friday,Snacks,Puff,Rainy,Festival,236
+Thursday,Dinner,Noodles,Rainy,Sports Meet,200
+Friday,Breakfast,Idli,Rainy,No,109
+Sunday,Snacks,Samosa,Cold,Exam,156
+Wednesday,Breakfast,Dosa,Cold,Festival,206
+Tuesday,Snacks,Noodles,Rainy,Sports Meet,202
+Sunday,Breakfast,Dosa,Cloudy,No,140
+Saturday,Lunch,Rice,Rainy,Exam,87
+Tuesday,Dinner,Rice,Rainy,No,92
+Sunday,Dinner,Noodles,Rainy,No,139
+Wednesday,Dinner,Biryani,Rainy,Festival,226
+Friday,Breakfast,Dosa,Sunny,Festival,237
+Sunday,Snacks,Puff,Cold,Sports Meet,208
+Friday,Breakfast,Idli,Cold,Exam,89
+Tuesday,Breakfast,Idli,Cloudy,Exam,114
+Sunday,Dinner,Rice,Rainy,Holiday,129
+Monday,Lunch,Biryani,Rainy,No,137
+Thursday,Snacks,Samosa,Cold,Sports Meet,276
+Saturday,Lunch,Biryani,Rainy,No,205
+Sunday,Snacks,Noodles,Cloudy,No,113
+Monday,Snacks,Puff,Sunny,No,106
+Friday,Breakfast,Dosa,Cloudy,No,113
+Tuesday,Dinner,Noodles,Cold,Sports Meet,167
+Tuesday,Snacks,Samosa,Cloudy,Sports Meet,250
+Monday,Breakfast,Dosa,Sunny,No,153
+Saturday,Snacks,Noodles,Cloudy,Exam,86
+Thursday,Snacks,Samosa,Sunny,Festival,231
+Sunday,Dinner,Biryani,Sunny,Sports Meet,330
+Monday,Dinner,Biryani,Rainy,Exam,126
+Sunday,Breakfast,Sandwich,Cold,Exam,57
+Friday,Dinner,Rice,Cold,No,88
+Sunday,Lunch,Chapati,Rainy,Sports Meet,214
+Saturday,Breakfast,Sandwich,Rainy,Holiday,163
+Saturday,Dinner,Noodles,Sunny,Holiday,132
+Sunday,Dinner,Rice,Cloudy,Exam,146
+Wednesday,Dinner,Biryani,Cold,Festival,223
+Saturday,Breakfast,Dosa,Cloudy,Sports Meet,215
+Sunday,Lunch,Noodles,Cloudy,No,164
+Friday,Dinner,Noodles,Cold,Exam,49
+Wednesday,Snacks,Noodles,Cloudy,No,140
+Thursday,Snacks,Puff,Sunny,Sports Meet,200
+Friday,Dinner,Chapati,Cloudy,Festival,221
+Friday,Breakfast,Sandwich,Sunny,No,125
+Monday,Snacks,Noodles,Rainy,Holiday,125
+Sunday,Snacks,Puff,Cold,Exam,118
+Saturday,Dinner,Chapati,Rainy,No,100
+Thursday,Dinner,Chapati,Sunny,No,129
+Wednesday,Lunch,Chapati,Cloudy,Exam,63
+Saturday,Lunch,Noodles,Rainy,Sports Meet,226
+Wednesday,Breakfast,Sandwich,Cold,Holiday,154
+Friday,Dinner,Noodles,Rainy,Festival,181
+Saturday,Lunch,Chapati,Cloudy,Exam,96
+Thursday,Lunch,Noodles,Rainy,Exam,70
+Tuesday,Lunch,Biryani,Cloudy,Festival,280
+Tuesday,Breakfast,Idli,Sunny,No,120
+Sunday,Lunch,Chapati,Cold,No,113
+Thursday,Breakfast,Idli,Cloudy,Exam,85
+Tuesday,Lunch,Chapati,Rainy,Festival,194
+Friday,Dinner,Biryani,Sunny,Exam,185
+Monday,Lunch,Biryani,Sunny,No,230
+Wednesday,Breakfast,Idli,Cloudy,Holiday,125
+Wednesday,Lunch,Biryani,Rainy,Exam,144
+Thursday,Dinner,Biryani,Rainy,Holiday,128
+Friday,Breakfast,Sandwich,Sunny,Sports Meet,183
+Sunday,Breakfast,Idli,Cloudy,Sports Meet,180
+Sunday,Breakfast,Dosa,Rainy,Festival,143
+Saturday,Lunch,Biryani,Cold,Exam,114
+Sunday,Breakfast,Sandwich,Rainy,Sports Meet,154
+Monday,Snacks,Puff,Cloudy,Sports Meet,150
+Wednesday,Dinner,Rice,Cloudy,Sports Meet,221
+Thursday,Snacks,Sandwich,Rainy,Sports Meet,213
+Friday,Dinner,Chapati,Cold,No,94
+Wednesday,Breakfast,Idli,Rainy,Exam,90
+Tuesday,Dinner,Biryani,Cold,Sports Meet,244
+Sunday,Lunch,Chapati,Cloudy,Sports Meet,170
+Saturday,Lunch,Noodles,Cloudy,Festival,179
+Friday,Snacks,Samosa,Cloudy,Sports Meet,204
+Monday,Breakfast,Sandwich,Cold,Holiday,175
+Monday,Dinner,Biryani,Cloudy,No,170
+Monday,Breakfast,Dosa,Rainy,Sports Meet,181
+Thursday,Breakfast,Sandwich,Cloudy,No,119
+Saturday,Lunch,Rice,Cold,Sports Meet,216
+Sunday,Breakfast,Idli,Cold,No,89
+Tuesday,Breakfast,Idli,Cold,Holiday,163
+Sunday,Snacks,Samosa,Rainy,Sports Meet,277
+Monday,Lunch,Noodles,Cold,Sports Meet,203
+Saturday,Dinner,Biryani,Rainy,Sports Meet,238
+Monday,Dinner,Noodles,Cloudy,Exam,98
+Monday,Snacks,Noodles,Sunny,Sports Meet,202
+Tuesday,Lunch,Noodles,Sunny,Festival,224
+Wednesday,Breakfast,Idli,Sunny,Exam,110
+Tuesday,Snacks,Noodles,Sunny,Festival,183
+Sunday,Breakfast,Dosa,Cloudy,Holiday,174
+Thursday,Snacks,Sandwich,Cold,No,170
+Friday,Dinner,Noodles,Sunny,No,143
+Friday,Snacks,Sandwich,Sunny,Festival,202
+Tuesday,Lunch,Noodles,Sunny,Sports Meet,178
+Friday,Breakfast,Dosa,Rainy,Sports Meet,182
+Friday,Dinner,Biryani,Cold,Sports Meet,212
+Saturday,Snacks,Noodles,Rainy,No,172
+Saturday,Dinner,Biryani,Sunny,Sports Meet,273
+Sunday,Breakfast,Dosa,Cold,Festival,166
+Saturday,Snacks,Noodles,Sunny,Exam,111
+Tuesday,Dinner,Chapati,Sunny,Holiday,113
+Monday,Lunch,Chapati,Sunny,Festival,167
+Thursday,Dinner,Chapati,Sunny,Holiday,107
+Saturday,Lunch,Chapati,Cloudy,Festival,235
+Friday,Snacks,Sandwich,Sunny,Holiday,96
+Thursday,Lunch,Biryani,Cloudy,Sports Meet,256
+Thursday,Breakfast,Dosa,Sunny,No,152
+Friday,Snacks,Noodles,Sunny,Exam,90
+Wednesday,Breakfast,Dosa,Rainy,Holiday,156
+Friday,Dinner,Rice,Rainy,No,89
+Wednesday,Snacks,Samosa,Cloudy,No,154
+Thursday,Breakfast,Dosa,Sunny,Holiday,186
+Friday,Snacks,Puff,Cold,Exam,99
+Thursday,Lunch,Noodles,Cold,Sports Meet,183
+Thursday,Snacks,Sandwich,Rainy,Holiday,144
+Tuesday,Lunch,Noodles,Rainy,No,129
+Sunday,Breakfast,Dosa,Rainy,Holiday,171
+Friday,Breakfast,Idli,Rainy,Sports Meet,199
+Friday,Dinner,Chapati,Cold,Festival,152
+Sunday,Snacks,Puff,Rainy,Holiday,129
+Wednesday,Dinner,Biryani,Cold,Exam,142
+Saturday,Lunch,Chapati,Cold,Festival,211
+Wednesday,Breakfast,Sandwich,Sunny,Festival,246
+Friday,Dinner,Rice,Sunny,Exam,118
+Saturday,Breakfast,Idli,Cold,No,104
+Wednesday,Dinner,Noodles,Cold,No,121
+Monday,Breakfast,Sandwich,Rainy,Festival,207
+Friday,Breakfast,Sandwich,Cloudy,Holiday,172
+Wednesday,Lunch,Chapati,Sunny,Festival,206
+Thursday,Snacks,Samosa,Sunny,Festival,291
+Saturday,Dinner,Noodles,Sunny,Sports Meet,274
+Thursday,Snacks,Puff,Rainy,Holiday,119
+Tuesday,Breakfast,Dosa,Rainy,Festival,218
+Thursday,Lunch,Biryani,Cloudy,Exam,137
+Monday,Snacks,Noodles,Sunny,Sports Meet,191
+Monday,Snacks,Noodles,Cloudy,No,124
+Sunday,Lunch,Rice,Rainy,Holiday,152
+Tuesday,Dinner,Rice,Sunny,Sports Meet,206
+Monday,Dinner,Noodles,Cloudy,Festival,205
+Thursday,Snacks,Puff,Cloudy,No,124
+Tuesday,Dinner,Chapati,Rainy,Holiday,40
+Tuesday,Snacks,Samosa,Cloudy,Exam,130
+Thursday,Dinner,Noodles,Rainy,Holiday,51
+Friday,Lunch,Rice,Cloudy,Exam,119
+Tuesday,Lunch,Chapati,Cloudy,Festival,170
+Friday,Breakfast,Idli,Cloudy,Exam,80
+Tuesday,Snacks,Sandwich,Sunny,Festival,225
+Monday,Lunch,Chapati,Cloudy,Exam,76
+Sunday,Dinner,Noodles,Cold,Exam,95
+Wednesday,Breakfast,Idli,Cold,Sports Meet,164
+Tuesday,Dinner,Noodles,Rainy,Exam,67
+Wednesday,Dinner,Biryani,Cloudy,Festival,197
+Saturday,Lunch,Rice,Cloudy,No,149
+Friday,Dinner,Chapati,Cloudy,Holiday,71
+Monday,Breakfast,Sandwich,Cold,Festival,152
+Sunday,Snacks,Puff,Cloudy,No,92
+Sunday,Lunch,Rice,Rainy,Holiday,146
+Friday,Dinner,Rice,Cloudy,No,139
+Thursday,Breakfast,Idli,Sunny,Festival,200
+Sunday,Dinner,Chapati,Rainy,No,123
+Thursday,Lunch,Noodles,Cold,Sports Meet,194
+Friday,Lunch,Rice,Sunny,No,133
+Monday,Lunch,Chapati,Sunny,Festival,183
+Sunday,Lunch,Noodles,Rainy,No,125
+Monday,Lunch,Biryani,Cloudy,Holiday,210
+Saturday,Dinner,Chapati,Cloudy,No,151
+Wednesday,Lunch,Chapati,Cold,Exam,82
+Tuesday,Snacks,Puff,Sunny,No,136
+Monday,Lunch,Noodles,Cloudy,Holiday,145
+Sunday,Lunch,Rice,Cold,Exam,61
+Tuesday,Dinner,Biryani,Cloudy,Festival,256
+Tuesday,Dinner,Rice,Cold,Exam,69
+Tuesday,Dinner,Rice,Cloudy,Sports Meet,178
+Tuesday,Snacks,Samosa,Cold,No,210
+Wednesday,Snacks,Puff,Cloudy,No,109
+Sunday,Snacks,Puff,Sunny,No,128
+Sunday,Dinner,Biryani,Sunny,Sports Meet,296
+Monday,Snacks,Samosa,Sunny,No,198
+Monday,Dinner,Rice,Cold,Exam,88
+Tuesday,Dinner,Rice,Rainy,Exam,64
+Sunday,Snacks,Puff,Sunny,Festival,166
+Sunday,Snacks,Puff,Rainy,Exam,140
+Wednesday,Snacks,Sandwich,Cloudy,Exam,74
+Tuesday,Lunch,Chapati,Sunny,No,115
+Thursday,Snacks,Samosa,Cold,Sports Meet,304
+Monday,Breakfast,Sandwich,Rainy,Exam,64
+Friday,Breakfast,Idli,Sunny,Sports Meet,178
+Monday,Dinner,Chapati,Rainy,Sports Meet,159
+Tuesday,Dinner,Rice,Sunny,Festival,190
+Wednesday,Lunch,Chapati,Sunny,Sports Meet,172
+Monday,Breakfast,Dosa,Cold,Exam,66
+Tuesday,Lunch,Chapati,Sunny,Exam,69
+Wednesday,Snacks,Samosa,Rainy,Holiday,191
+Wednesday,Breakfast,Sandwich,Cloudy,Holiday,135
+Friday,Dinner,Rice,Cold,Exam,78
+Tuesday,Snacks,Sandwich,Cloudy,Festival,198
+Sunday,Dinner,Rice,Cloudy,Holiday,136
+Monday,Dinner,Rice,Cloudy,No,124
+Sunday,Breakfast,Dosa,Sunny,Exam,114
+Tuesday,Dinner,Chapati,Rainy,Festival,133
+Saturday,Lunch,Chapati,Sunny,Holiday,181
+Wednesday,Dinner,Biryani,Sunny,Exam,114
+Saturday,Dinner,Noodles,Cold,Festival,238
+Sunday,Dinner,Biryani,Cold,Sports Meet,294
+Friday,Snacks,Noodles,Sunny,Festival,162
+Friday,Breakfast,Sandwich,Cold,Festival,156
+Thursday,Breakfast,Idli,Rainy,Exam,56
+Thursday,Dinner,Rice,Cloudy,Holiday,66
+Thursday,Breakfast,Sandwich,Cloudy,Exam,97
+Saturday,Snacks,Samosa,Cloudy,Sports Meet,227
+Friday,Lunch,Noodles,Sunny,No,163
+Tuesday,Breakfast,Sandwich,Sunny,Festival,202
+Sunday,Breakfast,Idli,Cold,Exam,69
+Saturday,Dinner,Rice,Cloudy,Exam,159
+Thursday,Dinner,Noodles,Cold,No,116
+Saturday,Breakfast,Idli,Cloudy,No,146
+Monday,Snacks,Puff,Cold,No,153
+Thursday,Dinner,Noodles,Rainy,Exam,84
+Wednesday,Breakfast,Idli,Rainy,Exam,83
+Thursday,Breakfast,Sandwich,Cold,Festival,208
+Saturday,Snacks,Noodles,Sunny,No,146
+Monday,Lunch,Biryani,Cloudy,Exam,197
+Tuesday,Dinner,Rice,Cloudy,Sports Meet,228
+Saturday,Snacks,Sandwich,Cold,Exam,125
+Sunday,Snacks,Sandwich,Cold,Holiday,110
+Wednesday,Snacks,Puff,Cloudy,Festival,184
+Wednesday,Snacks,Noodles,Rainy,Festival,235
+Monday,Snacks,Noodles,Rainy,Festival,237
+Friday,Breakfast,Dosa,Cold,No,76
+Monday,Dinner,Noodles,Cold,No,122
+Friday,Snacks,Samosa,Sunny,Festival,270
+Sunday,Dinner,Chapati,Cloudy,No,119
+Tuesday,Dinner,Noodles,Rainy,Festival,205
+Thursday,Dinner,Chapati,Rainy,Exam,97
+Monday,Breakfast,Sandwich,Cloudy,Exam,68
+Saturday,Dinner,Rice,Sunny,Festival,233
+Friday,Snacks,Noodles,Sunny,Holiday,122
+Wednesday,Dinner,Biryani,Cloudy,Holiday,142
+Sunday,Dinner,Chapati,Rainy,Sports Meet,221
+Saturday,Dinner,Biryani,Cloudy,No,199
+Tuesday,Snacks,Noodles,Cold,Festival,205
+Thursday,Breakfast,Sandwich,Cloudy,Sports Meet,216
+Monday,Lunch,Biryani,Rainy,Holiday,185
+Thursday,Snacks,Sandwich,Cloudy,Exam,114
+Saturday,Dinner,Chapati,Cold,Exam,100
+Tuesday,Snacks,Noodles,Cloudy,Holiday,79
+Sunday,Breakfast,Idli,Sunny,Holiday,185
+Friday,Dinner,Chapati,Sunny,Holiday,83
+Wednesday,Dinner,Noodles,Cloudy,Festival,196
+Thursday,Breakfast,Idli,Rainy,No,111
+Friday,Snacks,Sandwich,Sunny,Exam,101
+Thursday,Snacks,Noodles,Cold,Festival,232
+Sunday,Dinner,Biryani,Cloudy,Festival,335
+Wednesday,Dinner,Biryani,Rainy,No,140
+Sunday,Lunch,Noodles,Sunny,Holiday,226
+Monday,Breakfast,Dosa,Rainy,Exam,70
+Monday,Lunch,Rice,Sunny,Sports Meet,224
+Monday,Dinner,Rice,Cloudy,Exam,72
+Saturday,Breakfast,Dosa,Rainy,Sports Meet,209
+Friday,Breakfast,Sandwich,Rainy,Sports Meet,156
+Sunday,Lunch,Chapati,Cloudy,Festival,185
+Wednesday,Dinner,Chapati,Cold,Holiday,70
+Monday,Dinner,Biryani,Rainy,Sports Meet,235
+Saturday,Snacks,Puff,Rainy,Exam,118
+Saturday,Dinner,Noodles,Rainy,Sports Meet,203
+Thursday,Snacks,Noodles,Cloudy,Exam,102
+Sunday,Breakfast,Sandwich,Cloudy,Holiday,147
+Monday,Breakfast,Dosa,Cold,Sports Meet,159
+Thursday,Snacks,Puff,Sunny,Sports Meet,186
+Sunday,Dinner,Rice,Rainy,Sports Meet,215
+Tuesday,Dinner,Rice,Cold,Festival,183
+Tuesday,Dinner,Noodles,Rainy,Festival,198
+Saturday,Breakfast,Dosa,Cold,Exam,45
+Saturday,Snacks,Noodles,Rainy,Sports Meet,242
+Monday,Dinner,Chapati,Cold,Festival,132
+Saturday,Dinner,Noodles,Rainy,Exam,135
+Thursday,Dinner,Biryani,Sunny,Sports Meet,245
+Friday,Dinner,Rice,Cold,Festival,194
+Friday,Dinner,Rice,Rainy,Exam,57
+Monday,Breakfast,Dosa,Cloudy,Sports Meet,157
+Thursday,Breakfast,Idli,Cold,No,82
+Wednesday,Dinner,Chapati,Sunny,Holiday,103
+Sunday,Lunch,Rice,Cloudy,Sports Meet,223
+Saturday,Snacks,Puff,Sunny,Holiday,92
+Tuesday,Lunch,Noodles,Sunny,Holiday,151
+Friday,Snacks,Sandwich,Cloudy,Exam,106
+Friday,Dinner,Rice,Cold,Exam,42
+Thursday,Lunch,Noodles,Cloudy,Holiday,146
+Thursday,Dinner,Rice,Sunny,Holiday,107
+Tuesday,Dinner,Noodles,Rainy,Exam,80
+Tuesday,Breakfast,Dosa,Cold,Festival,212
+Saturday,Dinner,Chapati,Rainy,Festival,221
+Sunday,Dinner,Noodles,Rainy,Holiday,136
+Sunday,Breakfast,Idli,Cold,Festival,190
+Sunday,Dinner,Biryani,Sunny,No,239
+Friday,Breakfast,Sandwich,Sunny,Holiday,166
+Monday,Lunch,Rice,Sunny,Festival,220
+Monday,Breakfast,Dosa,Cloudy,Exam,105
+Thursday,Breakfast,Dosa,Cold,Exam,79
+Wednesday,Lunch,Noodles,Rainy,Festival,163
+Wednesday,Lunch,Rice,Sunny,Sports Meet,237
+Friday,Lunch,Biryani,Cold,No,197
+Monday,Lunch,Rice,Rainy,Exam,118
+Monday,Breakfast,Dosa,Sunny,Sports Meet,234
+Sunday,Snacks,Noodles,Cloudy,Holiday,113
+Saturday,Lunch,Rice,Rainy,Holiday,170
+Monday,Lunch,Noodles,Cloudy,Festival,238
+Saturday,Snacks,Sandwich,Cloudy,Holiday,108
+Thursday,Snacks,Sandwich,Cloudy,No,142
+Friday,Breakfast,Dosa,Cloudy,Holiday,153
+Saturday,Breakfast,Idli,Cold,No,88
+Sunday,Breakfast,Dosa,Sunny,Festival,200
+Sunday,Snacks,Noodles,Cloudy,Exam,129
+Friday,Lunch,Noodles,Rainy,Exam,58
+Wednesday,Snacks,Sandwich,Rainy,Festival,259
+Sunday,Snacks,Noodles,Sunny,Exam,122
+Saturday,Dinner,Biryani,Sunny,Exam,214
+Wednesday,Lunch,Rice,Cold,Sports Meet,222
+Monday,Breakfast,Sandwich,Cloudy,Sports Meet,219
+Wednesday,Snacks,Samosa,Cold,Festival,264
+Friday,Breakfast,Idli,Cloudy,No,148
+Saturday,Breakfast,Sandwich,Cloudy,Holiday,145
+Friday,Lunch,Chapati,Cloudy,No,107
+Tuesday,Lunch,Rice,Rainy,Exam,70
+Sunday,Breakfast,Dosa,Cloudy,Festival,237
+Wednesday,Snacks,Noodles,Sunny,Exam,79
+Sunday,Dinner,Chapati,Sunny,No,169
+Thursday,Breakfast,Dosa,Rainy,Exam,67
+Tuesday,Breakfast,Dosa,Cold,Holiday,157
+Monday,Snacks,Sandwich,Cloudy,Exam,99
+Sunday,Breakfast,Dosa,Cloudy,Sports Meet,188
+Friday,Dinner,Chapati,Sunny,Holiday,75
+Saturday,Snacks,Samosa,Cloudy,No,169
+Saturday,Lunch,Rice,Cloudy,Sports Meet,222
+Wednesday,Lunch,Chapati,Cold,Festival,121
+Wednesday,Lunch,Chapati,Sunny,Holiday,164
+Saturday,Dinner,Biryani,Cold,Sports Meet,243
+Friday,Lunch,Noodles,Rainy,Exam,93
+Thursday,Breakfast,Sandwich,Cloudy,Sports Meet,233
+Tuesday,Snacks,Samosa,Cloudy,Festival,284
+Sunday,Dinner,Chapati,Cloudy,No,126
+Thursday,Lunch,Noodles,Sunny,Festival,241
+Monday,Dinner,Noodles,Sunny,Sports Meet,221
+Saturday,Breakfast,Dosa,Sunny,Sports Meet,213
+Monday,Snacks,Samosa,Rainy,Sports Meet,287
+Friday,Lunch,Rice,Cloudy,No,136
+Wednesday,Breakfast,Dosa,Rainy,Holiday,181
+Sunday,Dinner,Chapati,Cold,Exam,77
+Saturday,Snacks,Sandwich,Rainy,Festival,272
+Thursday,Dinner,Biryani,Cloudy,Holiday,132
+Thursday,Lunch,Biryani,Cold,Exam,160
+Saturday,Snacks,Sandwich,Rainy,No,194
+Wednesday,Dinner,Noodles,Cloudy,Holiday,110
+Thursday,Dinner,Biryani,Rainy,No,183
+Friday,Snacks,Samosa,Cold,Exam,180
+Wednesday,Snacks,Noodles,Sunny,No,146
+Monday,Dinner,Noodles,Cold,Sports Meet,136
+Sunday,Breakfast,Sandwich,Rainy,Festival,171
+Monday,Snacks,Puff,Sunny,Festival,191
+Monday,Breakfast,Dosa,Sunny,Holiday,142
+Monday,Lunch,Noodles,Cold,Holiday,174
+Tuesday,Lunch,Chapati,Cloudy,Festival,184
+Saturday,Breakfast,Idli,Sunny,Exam,118
+Saturday,Lunch,Chapati,Rainy,Festival,182
+Sunday,Breakfast,Sandwich,Rainy,No,110
+Friday,Dinner,Chapati,Rainy,Festival,161
+Monday,Dinner,Noodles,Cloudy,Exam,123
+Saturday,Lunch,Biryani,Rainy,Festival,247
+Wednesday,Snacks,Sandwich,Sunny,No,132
+Tuesday,Lunch,Chapati,Cold,Festival,182
+Wednesday,Breakfast,Idli,Cloudy,No,101
+Thursday,Snacks,Sandwich,Cloudy,Exam,74
+Sunday,Lunch,Biryani,Sunny,Exam,158
+Wednesday,Dinner,Biryani,Cold,Festival,291
+Saturday,Breakfast,Dosa,Cloudy,Exam,70
+Thursday,Snacks,Puff,Cold,Sports Meet,217
+Thursday,Dinner,Noodles,Rainy,Holiday,72
+Monday,Breakfast,Idli,Rainy,No,113
+Friday,Snacks,Puff,Cold,Sports Meet,172
+Sunday,Lunch,Rice,Rainy,Festival,225
+Tuesday,Breakfast,Sandwich,Cold,Exam,92
+Thursday,Breakfast,Sandwich,Cold,Sports Meet,195
+Thursday,Snacks,Sandwich,Rainy,Sports Meet,226
+Sunday,Snacks,Sandwich,Cold,Sports Meet,245
+Saturday,Dinner,Rice,Cold,Festival,245
+Saturday,Dinner,Biryani,Sunny,Holiday,188
+Thursday,Snacks,Puff,Sunny,Holiday,95
+Sunday,Snacks,Noodles,Sunny,Holiday,90
+Thursday,Breakfast,Sandwich,Rainy,Holiday,148
+Sunday,Breakfast,Sandwich,Sunny,Sports Meet,214
+Saturday,Lunch,Biryani,Cold,No,214
+Sunday,Dinner,Chapati,Rainy,Sports Meet,195
+Thursday,Snacks,Sandwich,Sunny,Festival,235
+Saturday,Snacks,Puff,Cloudy,Festival,205
+Thursday,Breakfast,Idli,Sunny,Holiday,187
+Thursday,Breakfast,Idli,Sunny,Holiday,211
+Friday,Snacks,Sandwich,Sunny,No,126
+Thursday,Breakfast,Idli,Rainy,Holiday,140
+Thursday,Lunch,Biryani,Cloudy,Festival,221
+Thursday,Dinner,Chapati,Sunny,Festival,152
+Thursday,Dinner,Biryani,Sunny,Holiday,184
+Friday,Lunch,Rice,Cloudy,Sports Meet,222
+Friday,Breakfast,Sandwich,Cloudy,No,149
+Tuesday,Snacks,Samosa,Rainy,No,186
+Tuesday,Dinner,Rice,Rainy,Festival,193
+Monday,Dinner,Chapati,Cloudy,Sports Meet,134
+Wednesday,Breakfast,Idli,Cloudy,Festival,186
+Sunday,Lunch,Rice,Rainy,Holiday,169
+Monday,Snacks,Samosa,Cloudy,No,195
+Monday,Breakfast,Dosa,Rainy,No,108
+Saturday,Snacks,Sandwich,Cold,No,156
+Wednesday,Lunch,Chapati,Cold,Exam,17
+Saturday,Dinner,Noodles,Sunny,Sports Meet,253
+Tuesday,Lunch,Rice,Cloudy,Exam,129
+Monday,Breakfast,Idli,Sunny,Sports Meet,214
+Tuesday,Snacks,Noodles,Sunny,Holiday,98
+Friday,Lunch,Rice,Rainy,Exam,73
+Friday,Lunch,Biryani,Cold,Exam,117
+Tuesday,Lunch,Noodles,Cloudy,Exam,75
+Monday,Breakfast,Idli,Sunny,Exam,142
+Friday,Snacks,Puff,Cold,Holiday,149
+Friday,Snacks,Samosa,Rainy,Holiday,192
+Sunday,Lunch,Rice,Rainy,Festival,212
+Friday,Lunch,Chapati,Rainy,Holiday,105
+Saturday,Breakfast,Sandwich,Rainy,Holiday,162
+Friday,Dinner,Biryani,Sunny,Festival,258
+Sunday,Snacks,Puff,Sunny,Sports Meet,185
+Sunday,Lunch,Noodles,Cold,Festival,191
+Saturday,Lunch,Noodles,Cold,No,144
+Tuesday,Dinner,Noodles,Sunny,No,155
+Friday,Breakfast,Sandwich,Cloudy,Sports Meet,221
+Saturday,Breakfast,Dosa,Rainy,Holiday,177
+Friday,Snacks,Noodles,Cold,No,189
+Friday,Snacks,Puff,Cold,No,141
+Thursday,Snacks,Puff,Cloudy,Holiday,62
+Thursday,Dinner,Chapati,Cloudy,Holiday,80
+Monday,Lunch,Chapati,Cloudy,Holiday,127
+Saturday,Breakfast,Idli,Sunny,Sports Meet,256
+Monday,Snacks,Noodles,Rainy,Festival,228
+Monday,Dinner,Biryani,Cold,Exam,102
+Saturday,Snacks,Sandwich,Sunny,Festival,192
+Thursday,Lunch,Biryani,Sunny,Holiday,271
+Monday,Lunch,Rice,Cold,Exam,54
+Wednesday,Dinner,Rice,Cold,Festival,171
+Wednesday,Lunch,Rice,Rainy,Exam,64
+Monday,Dinner,Chapati,Cloudy,Sports Meet,181
+Tuesday,Snacks,Noodles,Sunny,Exam,74
+Friday,Dinner,Noodles,Cold,No,114
+Friday,Lunch,Biryani,Sunny,Festival,233
+Friday,Breakfast,Idli,Sunny,No,167
+Wednesday,Lunch,Rice,Rainy,Holiday,144
+Saturday,Dinner,Rice,Cold,Holiday,101
+Sunday,Snacks,Samosa,Sunny,Festival,238
+Saturday,Lunch,Noodles,Sunny,No,164
+Sunday,Dinner,Biryani,Sunny,No,252
+Monday,Snacks,Sandwich,Sunny,No,101
+Saturday,Snacks,Puff,Cloudy,Exam,63
+Sunday,Lunch,Noodles,Rainy,Exam,81
+Monday,Breakfast,Dosa,Sunny,Sports Meet,214
+Sunday,Breakfast,Dosa,Cloudy,Exam,71
+Saturday,Dinner,Biryani,Cold,Holiday,140
+Saturday,Lunch,Biryani,Cold,Sports Meet,256
+Saturday,Snacks,Puff,Cold,Exam,115
+Wednesday,Breakfast,Idli,Cold,Festival,184
+Saturday,Breakfast,Sandwich,Cold,No,83
+Wednesday,Breakfast,Idli,Cloudy,Festival,186
+Saturday,Snacks,Samosa,Sunny,Exam,158
+Monday,Breakfast,Dosa,Cold,Festival,203
+Tuesday,Dinner,Noodles,Sunny,Holiday,108
+Thursday,Dinner,Rice,Rainy,Holiday,74
+Thursday,Breakfast,Dosa,Rainy,Holiday,134
+Sunday,Snacks,Puff,Cloudy,Exam,87
+Sunday,Lunch,Noodles,Cold,Holiday,131
+Saturday,Breakfast,Dosa,Cloudy,Sports Meet,173
+Thursday,Lunch,Biryani,Rainy,Holiday,166
+Wednesday,Dinner,Rice,Cold,Sports Meet,151
+Monday,Snacks,Sandwich,Cold,Exam,159
+Saturday,Snacks,Puff,Cloudy,Holiday,52
+Wednesday,Snacks,Sandwich,Cold,No,158
+Saturday,Breakfast,Idli,Cold,Sports Meet,169
+Tuesday,Dinner,Noodles,Sunny,Exam,91
+Saturday,Breakfast,Sandwich,Sunny,Sports Meet,191
+Wednesday,Lunch,Biryani,Sunny,No,193
+Saturday,Dinner,Rice,Sunny,Holiday,183
+Tuesday,Snacks,Sandwich,Rainy,Holiday,129
+Tuesday,Dinner,Chapati,Rainy,Exam,60
+Saturday,Snacks,Puff,Sunny,Holiday,87
+Monday,Snacks,Puff,Cold,Sports Meet,254
+Wednesday,Lunch,Rice,Sunny,No,124
+Wednesday,Snacks,Puff,Cloudy,Festival,200
+Monday,Breakfast,Dosa,Rainy,Sports Meet,163
+Wednesday,Breakfast,Dosa,Cloudy,No,111
+Monday,Breakfast,Dosa,Rainy,No,97
+Sunday,Snacks,Noodles,Sunny,Sports Meet,204
+Saturday,Snacks,Puff,Cold,No,164
+Monday,Breakfast,Sandwich,Sunny,Exam,97
+Saturday,Snacks,Noodles,Cloudy,Exam,77
+Monday,Dinner,Biryani,Cloudy,Holiday,109
+Friday,Snacks,Sandwich,Sunny,Festival,228
+Friday,Dinner,Chapati,Sunny,Exam,120
+Monday,Breakfast,Sandwich,Rainy,Holiday,147
+Tuesday,Snacks,Puff,Sunny,Sports Meet,175
+Thursday,Lunch,Noodles,Cold,Exam,102
+Sunday,Lunch,Chapati,Rainy,Sports Meet,190
+Wednesday,Breakfast,Idli,Sunny,Holiday,181
+Monday,Snacks,Noodles,Sunny,Exam,70
+Sunday,Lunch,Biryani,Cold,Festival,274
+Sunday,Dinner,Rice,Cloudy,Exam,105
+Tuesday,Lunch,Chapati,Cold,Sports Meet,163
+Thursday,Snacks,Puff,Cold,No,128
+Wednesday,Dinner,Rice,Cold,Festival,193
+Saturday,Snacks,Sandwich,Cold,Festival,207
+Wednesday,Breakfast,Sandwich,Cloudy,Festival,175
+Friday,Snacks,Puff,Sunny,No,77
+Tuesday,Breakfast,Idli,Cloudy,Festival,226
+Sunday,Lunch,Chapati,Sunny,Festival,248
+Tuesday,Breakfast,Idli,Sunny,Festival,175
+Sunday,Lunch,Biryani,Cold,Sports Meet,221
+Saturday,Breakfast,Sandwich,Rainy,Holiday,150
+Wednesday,Lunch,Noodles,Cold,Exam,81
+Tuesday,Lunch,Biryani,Rainy,Exam,99
+Friday,Lunch,Chapati,Sunny,Holiday,168
+Sunday,Lunch,Rice,Rainy,No,147
+Thursday,Dinner,Rice,Cold,Holiday,64
+Thursday,Breakfast,Dosa,Rainy,Holiday,151
+Saturday,Snacks,Samosa,Cold,Festival,322
+Sunday,Dinner,Rice,Sunny,Exam,113
+Friday,Breakfast,Dosa,Cold,Holiday,133
+Sunday,Dinner,Noodles,Rainy,No,119
+Saturday,Snacks,Sandwich,Cloudy,No,101
+Monday,Dinner,Biryani,Cold,No,158
+Thursday,Snacks,Sandwich,Sunny,Holiday,74
+Wednesday,Snacks,Noodles,Cold,Exam,146
+Wednesday,Dinner,Noodles,Sunny,Sports Meet,198
+Friday,Snacks,Puff,Cloudy,Sports Meet,168
+Thursday,Dinner,Rice,Sunny,No,125
+Thursday,Lunch,Chapati,Sunny,No,131
+Saturday,Lunch,Biryani,Rainy,Exam,117
+Friday,Lunch,Rice,Cloudy,No,109
+Wednesday,Breakfast,Sandwich,Cloudy,Exam,100
+Tuesday,Lunch,Chapati,Sunny,Sports Meet,190
+Saturday,Dinner,Noodles,Rainy,Sports Meet,191
+Friday,Breakfast,Idli,Rainy,Holiday,165
+Friday,Breakfast,Dosa,Rainy,Sports Meet,214
+Tuesday,Dinner,Noodles,Cloudy,Festival,166
+Saturday,Lunch,Chapati,Cold,Sports Meet,202
+Friday,Snacks,Sandwich,Sunny,Exam,96
+Tuesday,Dinner,Biryani,Cloudy,Exam,151
+Sunday,Snacks,Noodles,Sunny,Festival,197
+Saturday,Lunch,Chapati,Sunny,Exam,109
+Tuesday,Snacks,Sandwich,Cloudy,Exam,115
+Wednesday,Lunch,Noodles,Rainy,Holiday,154
+Wednesday,Breakfast,Sandwich,Cold,Festival,176
+Monday,Dinner,Biryani,Cold,Holiday,119
+Monday,Dinner,Noodles,Cold,Exam,75
+Saturday,Dinner,Biryani,Cloudy,Holiday,193
+Friday,Snacks,Puff,Sunny,Festival,203
+Saturday,Breakfast,Dosa,Sunny,Holiday,178
+Monday,Lunch,Chapati,Rainy,Festival,150
+Monday,Breakfast,Idli,Cloudy,Exam,85
+Saturday,Lunch,Rice,Rainy,Exam,92
+Thursday,Lunch,Chapati,Cloudy,Sports Meet,166
+Tuesday,Snacks,Noodles,Cloudy,Festival,179
+Thursday,Snacks,Samosa,Rainy,Festival,313
+Friday,Lunch,Chapati,Sunny,Festival,195
+Wednesday,Snacks,Puff,Cold,Sports Meet,229
+Sunday,Lunch,Biryani,Cloudy,Holiday,246
+Wednesday,Dinner,Biryani,Cold,Festival,262
+Wednesday,Lunch,Rice,Sunny,Festival,237
+Thursday,Breakfast,Dosa,Sunny,Exam,86
+Thursday,Lunch,Chapati,Sunny,No,103
+Thursday,Breakfast,Sandwich,Cold,Holiday,134
+Tuesday,Dinner,Chapati,Cloudy,Festival,200
+Monday,Breakfast,Dosa,Sunny,Exam,114
+Friday,Dinner,Biryani,Cold,No,141
+Saturday,Breakfast,Sandwich,Rainy,Sports Meet,187
+Thursday,Dinner,Biryani,Cloudy,Festival,293
+Sunday,Dinner,Biryani,Cold,Sports Meet,249
+Tuesday,Lunch,Chapati,Rainy,Sports Meet,172
+Friday,Snacks,Samosa,Cloudy,Holiday,163
+Sunday,Dinner,Biryani,Rainy,Holiday,134
+Friday,Dinner,Biryani,Cold,Festival,221
+Tuesday,Snacks,Noodles,Rainy,Sports Meet,212
+Thursday,Snacks,Samosa,Sunny,Sports Meet,237
+Sunday,Dinner,Noodles,Cloudy,No,172
+Wednesday,Dinner,Chapati,Cold,Exam,69
+Wednesday,Dinner,Chapati,Sunny,Festival,154
+Saturday,Dinner,Noodles,Cloudy,Festival,255
+Friday,Lunch,Chapati,Cold,Holiday,115
+Friday,Dinner,Biryani,Sunny,No,162
+Sunday,Breakfast,Dosa,Sunny,No,146
+Saturday,Dinner,Rice,Sunny,Exam,141
+Sunday,Lunch,Noodles,Rainy,Holiday,190
+Wednesday,Breakfast,Sandwich,Cloudy,Festival,199
+Friday,Snacks,Noodles,Cold,Exam,110
+Saturday,Breakfast,Sandwich,Cloudy,Holiday,152
+Tuesday,Dinner,Biryani,Rainy,Festival,241
+Wednesday,Lunch,Rice,Cloudy,Holiday,161
+Tuesday,Breakfast,Idli,Rainy,Exam,52
+Wednesday,Snacks,Puff,Cold,Holiday,114
+Friday,Breakfast,Dosa,Cloudy,Holiday,135
+Saturday,Snacks,Sandwich,Rainy,No,146
+Saturday,Snacks,Noodles,Cold,Exam,126
+Thursday,Lunch,Noodles,Cold,Holiday,123
+Sunday,Snacks,Sandwich,Sunny,Sports Meet,207
+Monday,Lunch,Rice,Sunny,Sports Meet,216
+Saturday,Lunch,Noodles,Cold,Sports Meet,217
+Thursday,Dinner,Chapati,Rainy,Exam,65
+Wednesday,Breakfast,Dosa,Cloudy,Holiday,168
+Friday,Lunch,Chapati,Sunny,No,135
+Friday,Breakfast,Sandwich,Cold,No,109
+Tuesday,Breakfast,Dosa,Rainy,Sports Meet,201
+Saturday,Snacks,Puff,Cloudy,Festival,136
+Friday,Lunch,Noodles,Rainy,Festival,197
+Saturday,Snacks,Sandwich,Rainy,No,150
+Saturday,Snacks,Samosa,Cloudy,Festival,226
+Sunday,Breakfast,Dosa,Cold,Sports Meet,140
+Sunday,Breakfast,Idli,Rainy,Holiday,188
+Monday,Lunch,Rice,Cloudy,Exam,121
+Wednesday,Breakfast,Sandwich,Cloudy,Exam,72
+Thursday,Dinner,Biryani,Cold,Exam,170
+Monday,Dinner,Rice,Rainy,Exam,70
+Wednesday,Lunch,Chapati,Sunny,Sports Meet,212
+Tuesday,Dinner,Biryani,Cold,Exam,94
+Wednesday,Dinner,Chapati,Cloudy,Festival,180
+Monday,Breakfast,Dosa,Rainy,Festival,191
+Thursday,Breakfast,Sandwich,Cloudy,Sports Meet,207
+Wednesday,Breakfast,Idli,Cloudy,No,138
+Wednesday,Dinner,Biryani,Cloudy,No,185
+Monday,Lunch,Chapati,Cold,No,70
+Monday,Lunch,Rice,Cold,Sports Meet,195
+Tuesday,Breakfast,Dosa,Cold,Holiday,160
+Thursday,Lunch,Biryani,Cold,Exam,109
+Sunday,Snacks,Samosa,Cold,Exam,160
+Tuesday,Snacks,Samosa,Sunny,Holiday,150
+Tuesday,Snacks,Puff,Cloudy,Sports Meet,182
+Saturday,Dinner,Rice,Sunny,Holiday,156
+Saturday,Snacks,Samosa,Cold,Holiday,178
+Wednesday,Snacks,Puff,Sunny,Festival,165
+Sunday,Snacks,Puff,Rainy,Sports Meet,229
+Sunday,Snacks,Puff,Sunny,Festival,209
+Friday,Dinner,Noodles,Cold,Exam,63
+Sunday,Dinner,Noodles,Sunny,Festival,257
+Wednesday,Dinner,Biryani,Cold,Festival,224
+Saturday,Snacks,Puff,Sunny,Holiday,82
+Monday,Snacks,Puff,Cold,Sports Meet,193
+Sunday,Snacks,Samosa,Cold,Exam,195
+Thursday,Breakfast,Sandwich,Cloudy,Exam,91
+Friday,Lunch,Chapati,Cloudy,Exam,65
+Tuesday,Lunch,Rice,Sunny,Festival,182
+Tuesday,Dinner,Rice,Cloudy,Exam,135
+Thursday,Breakfast,Idli,Sunny,No,121
+Monday,Snacks,Noodles,Rainy,Festival,270
+Saturday,Lunch,Biryani,Cold,No,181
+Wednesday,Snacks,Puff,Rainy,Exam,106
+Thursday,Dinner,Noodles,Sunny,Exam,121
+Friday,Snacks,Sandwich,Sunny,Festival,183
+Wednesday,Snacks,Puff,Rainy,Holiday,100
+Sunday,Lunch,Biryani,Rainy,No,177
+Friday,Snacks,Puff,Cold,Festival,218
+Sunday,Lunch,Chapati,Cloudy,Festival,228
+Wednesday,Breakfast,Sandwich,Cold,Holiday,126
+Tuesday,Snacks,Noodles,Rainy,Exam,176
+Saturday,Dinner,Biryani,Cloudy,Sports Meet,286
+Monday,Dinner,Noodles,Cloudy,Festival,198
+Thursday,Dinner,Rice,Rainy,No,92
+Thursday,Breakfast,Sandwich,Cold,Festival,180
+Monday,Lunch,Biryani,Cold,Sports Meet,242
+Wednesday,Snacks,Noodles,Rainy,Festival,186
+Wednesday,Dinner,Chapati,Rainy,Sports Meet,169
+Wednesday,Breakfast,Sandwich,Sunny,Sports Meet,213
+Sunday,Breakfast,Dosa,Cold,Holiday,112
+Saturday,Snacks,Noodles,Rainy,Holiday,132
+Friday,Lunch,Rice,Sunny,Holiday,158
+Sunday,Snacks,Puff,Sunny,Exam,43
+Sunday,Snacks,Puff,Cold,Exam,118
+Monday,Snacks,Puff,Cold,Exam,123
+Wednesday,Dinner,Noodles,Cloudy,Exam,118
+Friday,Snacks,Noodles,Sunny,Festival,199
+Wednesday,Snacks,Samosa,Cold,Exam,188
+Saturday,Breakfast,Idli,Cold,No,105
+Saturday,Breakfast,Sandwich,Rainy,Exam,96
+Sunday,Dinner,Noodles,Sunny,Festival,264
+Friday,Breakfast,Sandwich,Rainy,Exam,61
+Sunday,Lunch,Noodles,Rainy,No,121
+Thursday,Snacks,Noodles,Cloudy,Exam,130
+Wednesday,Dinner,Rice,Sunny,Holiday,135
+Friday,Dinner,Rice,Rainy,Festival,175
+Saturday,Lunch,Chapati,Cloudy,Exam,117
+Wednesday,Lunch,Rice,Cloudy,Sports Meet,200
+Thursday,Dinner,Rice,Rainy,No,129
+Saturday,Lunch,Biryani,Rainy,No,176
+Monday,Snacks,Puff,Cold,Exam,120
+Wednesday,Dinner,Noodles,Rainy,Exam,43
+Wednesday,Dinner,Rice,Cloudy,Sports Meet,221
+Sunday,Lunch,Biryani,Cloudy,Festival,240
+Friday,Breakfast,Sandwich,Cloudy,No,121
+Tuesday,Lunch,Chapati,Cloudy,No,92
+Monday,Dinner,Biryani,Cloudy,Holiday,113
+Wednesday,Lunch,Noodles,Cloudy,Holiday,159
+Saturday,Dinner,Rice,Sunny,No,192
+Saturday,Snacks,Samosa,Cold,Holiday,212
+Wednesday,Lunch,Noodles,Cloudy,Sports Meet,177
+Sunday,Dinner,Noodles,Cloudy,Sports Meet,218
+Sunday,Snacks,Samosa,Cloudy,Festival,227
+Wednesday,Breakfast,Dosa,Rainy,Festival,155
+Tuesday,Dinner,Biryani,Sunny,No,171
+Monday,Dinner,Noodles,Cold,Sports Meet,168
+Friday,Lunch,Biryani,Sunny,Holiday,280
+Monday,Dinner,Biryani,Rainy,Exam,149
+Monday,Dinner,Biryani,Sunny,No,167
+Tuesday,Dinner,Noodles,Rainy,Festival,150
+Sunday,Breakfast,Dosa,Cloudy,Festival,192
+Tuesday,Lunch,Biryani,Rainy,Holiday,215
+Monday,Snacks,Puff,Rainy,Holiday,85
+Monday,Snacks,Samosa,Cloudy,Sports Meet,287
+Saturday,Breakfast,Idli,Cloudy,Holiday,170
+Saturday,Breakfast,Sandwich,Sunny,Festival,222
+Friday,Dinner,Noodles,Rainy,Holiday,101
+Monday,Snacks,Noodles,Cold,Exam,98
+Saturday,Breakfast,Idli,Sunny,Holiday,182
+Thursday,Breakfast,Dosa,Rainy,Festival,179
+Monday,Lunch,Rice,Cold,Holiday,139
+Wednesday,Lunch,Noodles,Cold,No,105
+Tuesday,Dinner,Biryani,Rainy,Exam,130
+Friday,Snacks,Noodles,Cloudy,Holiday,72
+Saturday,Breakfast,Dosa,Cloudy,Festival,159
+Friday,Breakfast,Sandwich,Sunny,Exam,105
+Sunday,Snacks,Noodles,Cloudy,Festival,205
+Wednesday,Dinner,Chapati,Cloudy,Holiday,61
+Monday,Breakfast,Dosa,Sunny,Festival,234
+Saturday,Snacks,Samosa,Cloudy,No,165
+Tuesday,Lunch,Rice,Cold,Exam,102
+Thursday,Snacks,Sandwich,Cold,No,129
+Friday,Snacks,Sandwich,Cold,Festival,238
+Thursday,Breakfast,Dosa,Cold,Holiday,137
+Monday,Snacks,Puff,Sunny,Exam,84
+Monday,Breakfast,Dosa,Sunny,No,135
+Sunday,Breakfast,Idli,Rainy,Exam,34
+Saturday,Snacks,Puff,Rainy,Festival,207
+Monday,Lunch,Biryani,Sunny,Holiday,251
+Saturday,Lunch,Chapati,Cloudy,Holiday,160
+Sunday,Snacks,Puff,Rainy,Sports Meet,184
+Thursday,Lunch,Rice,Cold,No,94
+Thursday,Dinner,Chapati,Cloudy,Holiday,77
+Friday,Breakfast,Idli,Cloudy,Holiday,190
+Thursday,Breakfast,Dosa,Sunny,Exam,126
+Wednesday,Dinner,Rice,Rainy,Sports Meet,193
+Wednesday,Lunch,Rice,Cold,No,136
+Sunday,Lunch,Biryani,Sunny,Sports Meet,315
+Sunday,Lunch,Noodles,Rainy,Exam,101
+Wednesday,Lunch,Chapati,Sunny,Festival,166
+Saturday,Lunch,Rice,Rainy,Festival,171
+Wednesday,Snacks,Samosa,Cloudy,Festival,270
+Sunday,Snacks,Sandwich,Cold,No,134
+Saturday,Lunch,Chapati,Sunny,Exam,154
+Saturday,Lunch,Chapati,Rainy,Exam,89
+Tuesday,Lunch,Chapati,Sunny,No,108
+Monday,Dinner,Noodles,Cold,Exam,73
+Wednesday,Breakfast,Idli,Cold,Exam,61
+Monday,Breakfast,Sandwich,Rainy,Sports Meet,210
+Wednesday,Lunch,Rice,Cold,Sports Meet,162
+Friday,Lunch,Chapati,Cloudy,No,88
+Sunday,Snacks,Noodles,Cloudy,Sports Meet,209
+Tuesday,Breakfast,Dosa,Sunny,Exam,110
+Tuesday,Snacks,Samosa,Cloudy,Sports Meet,197
+Thursday,Lunch,Noodles,Cold,Holiday,151
+Monday,Dinner,Chapati,Rainy,No,54
+Friday,Lunch,Chapati,Sunny,No,127
+Sunday,Breakfast,Sandwich,Cold,Exam,82
+Monday,Dinner,Rice,Cloudy,Holiday,76
+Sunday,Dinner,Noodles,Sunny,Sports Meet,290
+Thursday,Lunch,Chapati,Rainy,Holiday,130
+Tuesday,Lunch,Noodles,Cloudy,Festival,212
+Saturday,Breakfast,Sandwich,Cloudy,Festival,212
+Wednesday,Lunch,Chapati,Sunny,Sports Meet,203
+Thursday,Breakfast,Idli,Rainy,Festival,160
+Saturday,Breakfast,Sandwich,Rainy,Exam,98
+Friday,Lunch,Chapati,Sunny,No,136
+Thursday,Breakfast,Sandwich,Cloudy,No,105
+Monday,Lunch,Noodles,Sunny,Sports Meet,222
+Sunday,Breakfast,Dosa,Sunny,No,146
+Thursday,Dinner,Chapati,Cold,No,69
+Saturday,Dinner,Biryani,Sunny,Holiday,182
+Saturday,Breakfast,Sandwich,Cold,Exam,91
+Friday,Lunch,Chapati,Cloudy,Holiday,154
+Tuesday,Lunch,Chapati,Cloudy,No,121
+Wednesday,Dinner,Chapati,Rainy,Sports Meet,164
+Friday,Snacks,Samosa,Rainy,No,244
+Saturday,Lunch,Chapati,Sunny,Festival,206
+Saturday,Breakfast,Sandwich,Sunny,Sports Meet,216
+Monday,Dinner,Biryani,Sunny,Festival,279
+Thursday,Breakfast,Dosa,Cloudy,Holiday,170
+Monday,Snacks,Sandwich,Cloudy,Sports Meet,191
+Saturday,Breakfast,Idli,Sunny,Festival,213
+Sunday,Lunch,Noodles,Cloudy,No,157
+Monday,Snacks,Noodles,Cold,No,135
+Saturday,Snacks,Sandwich,Rainy,Sports Meet,201
+Friday,Dinner,Chapati,Rainy,Exam,95
+Saturday,Snacks,Puff,Cold,Exam,124
+Wednesday,Lunch,Biryani,Cold,Festival,224
+Monday,Dinner,Biryani,Cloudy,No,142
+Saturday,Breakfast,Sandwich,Cloudy,Holiday,142
+Thursday,Lunch,Chapati,Rainy,Holiday,116
+Thursday,Snacks,Samosa,Rainy,No,181
+Friday,Lunch,Chapati,Cold,No,92
+Wednesday,Snacks,Samosa,Cloudy,Holiday,176
+Saturday,Snacks,Puff,Cloudy,Festival,166
+Saturday,Snacks,Samosa,Cloudy,No,166
+Wednesday,Breakfast,Sandwich,Rainy,Sports Meet,168
+Thursday,Lunch,Noodles,Cold,Exam,109
+Wednesday,Dinner,Biryani,Cold,Exam,183
+Saturday,Breakfast,Dosa,Cloudy,Holiday,162
+Sunday,Snacks,Noodles,Cloudy,No,108
+Friday,Snacks,Samosa,Cloudy,Festival,266
+Tuesday,Lunch,Biryani,Cloudy,No,216
+Wednesday,Snacks,Samosa,Rainy,Festival,332
+Saturday,Lunch,Noodles,Rainy,Sports Meet,212
+Thursday,Breakfast,Idli,Sunny,Festival,195
+Monday,Lunch,Chapati,Rainy,Festival,123
+Friday,Dinner,Chapati,Cold,No,92
+Wednesday,Dinner,Chapati,Sunny,Sports Meet,156
+Thursday,Dinner,Rice,Sunny,No,127
+Tuesday,Snacks,Noodles,Cloudy,Holiday,93
+Friday,Dinner,Biryani,Cold,No,144
+Tuesday,Snacks,Sandwich,Cloudy,Sports Meet,188
+Tuesday,Breakfast,Dosa,Rainy,Festival,211
+Monday,Lunch,Rice,Rainy,Sports Meet,146
+Monday,Snacks,Puff,Rainy,Sports Meet,211
+Sunday,Breakfast,Dosa,Cloudy,Sports Meet,203
+Thursday,Breakfast,Sandwich,Sunny,Festival,231
+Wednesday,Breakfast,Idli,Cloudy,No,111
+Sunday,Lunch,Biryani,Rainy,Holiday,194
+Thursday,Lunch,Biryani,Sunny,Holiday,238
+Thursday,Dinner,Noodles,Rainy,Exam,85
+Tuesday,Lunch,Biryani,Cloudy,Holiday,261
+Wednesday,Breakfast,Dosa,Cold,Festival,150
+Wednesday,Snacks,Puff,Cloudy,Sports Meet,199
+Sunday,Lunch,Noodles,Sunny,Festival,228
+Saturday,Dinner,Chapati,Rainy,Sports Meet,186
+Tuesday,Lunch,Noodles,Sunny,No,112
+Monday,Snacks,Sandwich,Sunny,Sports Meet,214
+Wednesday,Breakfast,Dosa,Cold,Exam,95
+Tuesday,Breakfast,Idli,Cold,Exam,76
+Monday,Lunch,Chapati,Cloudy,No,94
+Tuesday,Lunch,Rice,Cloudy,Holiday,155
+Tuesday,Dinner,Biryani,Sunny,No,206
+Saturday,Lunch,Noodles,Sunny,Festival,244
+Wednesday,Dinner,Rice,Sunny,Exam,112
+Sunday,Dinner,Biryani,Cold,Holiday,189
+Thursday,Dinner,Biryani,Cloudy,Exam,164
+Sunday,Dinner,Chapati,Cloudy,Festival,202
+Thursday,Lunch,Chapati,Rainy,No,94
+Sunday,Snacks,Sandwich,Cloudy,No,150
+Wednesday,Lunch,Noodles,Rainy,Holiday,161
+Friday,Snacks,Puff,Cloudy,Holiday,75
+Thursday,Snacks,Puff,Sunny,Holiday,101
+Wednesday,Snacks,Puff,Rainy,Sports Meet,211
+Friday,Dinner,Noodles,Cold,No,86
+Wednesday,Snacks,Sandwich,Sunny,Festival,190
+Saturday,Snacks,Samosa,Cloudy,Sports Meet,251
+Monday,Dinner,Noodles,Cold,Sports Meet,175
+Wednesday,Lunch,Rice,Rainy,No,95
+Tuesday,Dinner,Chapati,Cloudy,Sports Meet,203
+Wednesday,Snacks,Sandwich,Cloudy,Holiday,67
+Tuesday,Lunch,Biryani,Rainy,Festival,221
+Wednesday,Dinner,Rice,Cloudy,Exam,91
+Friday,Snacks,Noodles,Cloudy,Exam,110
+Friday,Breakfast,Dosa,Sunny,Holiday,191
+Wednesday,Snacks,Puff,Cold,Festival,228
+Thursday,Dinner,Rice,Cloudy,Exam,94
+Tuesday,Lunch,Rice,Cold,Holiday,105
+Saturday,Snacks,Noodles,Cloudy,Sports Meet,228
+Wednesday,Breakfast,Sandwich,Sunny,No,134
+Thursday,Lunch,Noodles,Rainy,Exam,47
+Monday,Lunch,Rice,Sunny,No,129
+Saturday,Breakfast,Idli,Sunny,Festival,190
+Monday,Snacks,Sandwich,Sunny,Holiday,108
+Wednesday,Snacks,Samosa,Rainy,No,204
+Monday,Breakfast,Sandwich,Sunny,Sports Meet,207
+Wednesday,Dinner,Biryani,Cloudy,Sports Meet,263
+Tuesday,Lunch,Biryani,Sunny,Holiday,244
+Friday,Snacks,Sandwich,Cold,Holiday,133
+Sunday,Lunch,Chapati,Cold,Holiday,116
+Thursday,Snacks,Samosa,Rainy,Holiday,152
+Saturday,Lunch,Noodles,Cold,Festival,142
+Tuesday,Breakfast,Idli,Rainy,No,93
+Friday,Snacks,Noodles,Rainy,Festival,252
+Thursday,Lunch,Chapati,Cloudy,Festival,171
+Tuesday,Lunch,Chapati,Sunny,No,130
+Saturday,Dinner,Noodles,Sunny,Exam,166
+Tuesday,Snacks,Noodles,Cold,Festival,253
+Thursday,Snacks,Sandwich,Sunny,No,140
+Thursday,Snacks,Noodles,Cloudy,Sports Meet,186
+Saturday,Breakfast,Sandwich,Rainy,No,114
+Sunday,Snacks,Noodles,Sunny,Exam,99
+Saturday,Breakfast,Dosa,Sunny,Holiday,160
+Saturday,Snacks,Sandwich,Rainy,Festival,261
+Monday,Dinner,Biryani,Cloudy,Holiday,136
+Sunday,Breakfast,Idli,Cloudy,Festival,163
+Wednesday,Dinner,Biryani,Rainy,Holiday,140
+Sunday,Breakfast,Dosa,Rainy,Holiday,135
+Sunday,Dinner,Biryani,Sunny,Holiday,186
+Thursday,Breakfast,Sandwich,Sunny,Holiday,223
+Tuesday,Dinner,Rice,Sunny,Exam,108
+Friday,Dinner,Biryani,Rainy,Festival,233
+Thursday,Breakfast,Idli,Cloudy,No,128
+Monday,Snacks,Samosa,Cloudy,Holiday,146
+Tuesday,Lunch,Chapati,Sunny,Holiday,165
+Wednesday,Snacks,Noodles,Sunny,No,109
+Tuesday,Snacks,Sandwich,Cloudy,No,120
+Thursday,Breakfast,Sandwich,Rainy,No,133
+Thursday,Dinner,Rice,Rainy,Exam,92
+Friday,Breakfast,Sandwich,Cloudy,Holiday,129
+Saturday,Snacks,Sandwich,Cold,Sports Meet,211
+Tuesday,Dinner,Noodles,Rainy,Festival,146
+Saturday,Snacks,Puff,Cold,Exam,114
+Tuesday,Breakfast,Sandwich,Rainy,Holiday,165
+Tuesday,Dinner,Rice,Rainy,Holiday,36
+Monday,Lunch,Rice,Cloudy,Sports Meet,201
+Friday,Breakfast,Sandwich,Cold,Sports Meet,183
+Saturday,Breakfast,Sandwich,Rainy,Festival,161
+Friday,Breakfast,Dosa,Rainy,Holiday,161
+Saturday,Dinner,Biryani,Rainy,Sports Meet,268
+Wednesday,Snacks,Puff,Sunny,No,81
+Tuesday,Dinner,Noodles,Rainy,Exam,96
+Tuesday,Breakfast,Dosa,Cloudy,No,103
+Monday,Snacks,Sandwich,Cloudy,Exam,115
+Monday,Dinner,Rice,Rainy,Sports Meet,194
+Wednesday,Snacks,Sandwich,Cold,Holiday,106
+Monday,Breakfast,Dosa,Sunny,Festival,249
+Wednesday,Dinner,Biryani,Sunny,Sports Meet,299
+Tuesday,Lunch,Rice,Rainy,Sports Meet,207
+Friday,Lunch,Noodles,Sunny,Sports Meet,190
+Wednesday,Dinner,Biryani,Sunny,Holiday,153
+Tuesday,Breakfast,Sandwich,Cold,Holiday,152
+Monday,Lunch,Chapati,Sunny,No,146
+Tuesday,Breakfast,Sandwich,Sunny,Exam,123
+Monday,Dinner,Noodles,Rainy,Festival,194
+Thursday,Breakfast,Dosa,Rainy,Festival,176
+Thursday,Snacks,Samosa,Rainy,No,221
+Saturday,Breakfast,Sandwich,Cold,Sports Meet,225
+Friday,Lunch,Biryani,Rainy,Holiday,233
+Thursday,Dinner,Biryani,Rainy,Holiday,101
+Tuesday,Dinner,Chapati,Cloudy,Festival,159
+Monday,Lunch,Biryani,Rainy,No,184
+Tuesday,Snacks,Noodles,Sunny,Sports Meet,200
+Monday,Breakfast,Sandwich,Rainy,Exam,67
+Wednesday,Lunch,Biryani,Cloudy,Sports Meet,296
+Thursday,Dinner,Chapati,Cloudy,No,134
+Saturday,Snacks,Samosa,Cloudy,Sports Meet,234
+Tuesday,Snacks,Samosa,Cloudy,Exam,117
+Wednesday,Breakfast,Idli,Rainy,Exam,99
+Sunday,Lunch,Noodles,Cloudy,Sports Meet,226
+Monday,Lunch,Rice,Cloudy,Holiday,145
+Saturday,Breakfast,Dosa,Cold,Exam,99
+Monday,Lunch,Chapati,Cold,Sports Meet,170
+Tuesday,Lunch,Biryani,Cloudy,Holiday,225
+Sunday,Lunch,Rice,Rainy,Holiday,138
+Wednesday,Lunch,Chapati,Cold,Holiday,116
+Tuesday,Breakfast,Sandwich,Cloudy,Exam,113
+Tuesday,Breakfast,Sandwich,Rainy,No,99
+Saturday,Lunch,Biryani,Cold,Holiday,200
+Friday,Snacks,Noodles,Sunny,Sports Meet,218
+Wednesday,Dinner,Noodles,Rainy,No,82
+Sunday,Breakfast,Sandwich,Cloudy,Festival,214
+Tuesday,Lunch,Biryani,Rainy,Sports Meet,224
+Friday,Dinner,Noodles,Cold,Festival,190
+Monday,Dinner,Biryani,Rainy,Exam,118
+Sunday,Breakfast,Idli,Rainy,Holiday,139
+Friday,Lunch,Chapati,Rainy,No,73
+Monday,Dinner,Biryani,Cloudy,Sports Meet,231
+Tuesday,Snacks,Samosa,Cold,Holiday,164
+Tuesday,Lunch,Chapati,Rainy,Festival,123
+Saturday,Snacks,Noodles,Rainy,Sports Meet,209
+Saturday,Lunch,Biryani,Sunny,Exam,182
+Friday,Breakfast,Sandwich,Sunny,Exam,115
+Friday,Lunch,Rice,Cloudy,No,149
+Saturday,Breakfast,Idli,Sunny,Holiday,152
+Monday,Snacks,Puff,Rainy,Festival,179
+Saturday,Snacks,Puff,Cloudy,Holiday,61
+Friday,Lunch,Rice,Cold,Holiday,156
+Saturday,Snacks,Puff,Cold,Festival,198
+Sunday,Breakfast,Idli,Cloudy,Holiday,187
+Wednesday,Snacks,Noodles,Sunny,Festival,182
+Tuesday,Lunch,Chapati,Cold,Festival,202
+Sunday,Dinner,Rice,Rainy,No,135
+Wednesday,Snacks,Puff,Sunny,No,99
+Monday,Snacks,Puff,Cloudy,Holiday,45
+Tuesday,Dinner,Rice,Cold,Exam,45
+Saturday,Dinner,Rice,Cloudy,Festival,194
+Wednesday,Dinner,Chapati,Sunny,Holiday,72
+Monday,Snacks,Sandwich,Sunny,Exam,90
+Saturday,Lunch,Noodles,Rainy,Holiday,174
+Sunday,Lunch,Noodles,Sunny,Sports Meet,242
+Friday,Breakfast,Dosa,Cloudy,No,123
+Monday,Dinner,Biryani,Cold,Festival,201
+Sunday,Dinner,Chapati,Cloudy,Festival,234
+Friday,Snacks,Noodles,Sunny,No,131
+Friday,Breakfast,Idli,Rainy,No,88
+Monday,Lunch,Biryani,Cold,Holiday,207
+Tuesday,Dinner,Chapati,Cold,Festival,147
+Saturday,Snacks,Noodles,Cold,Holiday,140
+Saturday,Dinner,Biryani,Sunny,Sports Meet,288
+Sunday,Breakfast,Idli,Rainy,Festival,174
+Monday,Dinner,Rice,Rainy,Sports Meet,181
+Wednesday,Dinner,Chapati,Cloudy,Exam,102
+Thursday,Breakfast,Sandwich,Cloudy,Festival,178
+Thursday,Dinner,Chapati,Rainy,Exam,72
+Wednesday,Lunch,Chapati,Cloudy,Exam,86
+Saturday,Snacks,Samosa,Cloudy,No,189
+Wednesday,Dinner,Chapati,Rainy,Sports Meet,125
+Sunday,Breakfast,Sandwich,Sunny,Holiday,189
+Saturday,Snacks,Puff,Cold,Exam,98
+Saturday,Breakfast,Idli,Cloudy,Festival,197
+Monday,Breakfast,Dosa,Cloudy,Holiday,172
+Thursday,Lunch,Biryani,Cloudy,Exam,166
+Tuesday,Lunch,Rice,Rainy,Holiday,124
+Friday,Snacks,Noodles,Cloudy,Festival,191
+Sunday,Dinner,Noodles,Rainy,Exam,158
+Sunday,Lunch,Rice,Cold,Festival,202
+Sunday,Dinner,Noodles,Rainy,Holiday,127
+Saturday,Snacks,Noodles,Rainy,Exam,153
+Friday,Breakfast,Dosa,Cloudy,Holiday,147
+Saturday,Snacks,Noodles,Cold,Sports Meet,242
+Wednesday,Snacks,Puff,Sunny,Holiday,68
+Monday,Lunch,Rice,Sunny,Holiday,182
+Thursday,Lunch,Biryani,Rainy,Sports Meet,208
+Monday,Dinner,Rice,Cloudy,No,113
+Friday,Dinner,Biryani,Cold,Exam,82
+Monday,Lunch,Chapati,Sunny,No,137
+Wednesday,Snacks,Puff,Cloudy,Exam,81
+Monday,Breakfast,Sandwich,Cloudy,Sports Meet,183
+Friday,Dinner,Chapati,Sunny,Holiday,104
+Thursday,Lunch,Biryani,Sunny,Sports Meet,257
+Saturday,Dinner,Noodles,Cloudy,Exam,94
+Sunday,Breakfast,Sandwich,Cloudy,Holiday,146
+Thursday,Breakfast,Dosa,Rainy,Sports Meet,150
+Saturday,Snacks,Sandwich,Cold,Festival,212
+Friday,Dinner,Noodles,Cold,Holiday,60
+Wednesday,Breakfast,Idli,Cold,No,86
+Friday,Breakfast,Idli,Cloudy,Exam,72
+Saturday,Breakfast,Dosa,Sunny,Festival,175
+Friday,Dinner,Rice,Cold,Holiday,85
+Saturday,Breakfast,Sandwich,Sunny,Holiday,185
+Tuesday,Lunch,Chapati,Cloudy,Sports Meet,195
+Monday,Lunch,Rice,Rainy,Exam,52
+Monday,Lunch,Rice,Sunny,Festival,214
+Sunday,Snacks,Samosa,Cloudy,Festival,220
+Sunday,Snacks,Puff,Sunny,Holiday,73
+Thursday,Lunch,Biryani,Sunny,Sports Meet,291
+Wednesday,Dinner,Chapati,Sunny,No,152
+Wednesday,Lunch,Chapati,Cold,Festival,200
+Saturday,Lunch,Noodles,Sunny,Exam,89
+Wednesday,Snacks,Noodles,Sunny,Exam,102
+Wednesday,Snacks,Samosa,Cold,Exam,204
+Thursday,Snacks,Puff,Cold,Exam,75
+Friday,Breakfast,Sandwich,Cloudy,Sports Meet,166
+Thursday,Lunch,Chapati,Cloudy,Exam,64
+Sunday,Breakfast,Idli,Rainy,Holiday,155
+Saturday,Snacks,Sandwich,Cloudy,Holiday,112
+Tuesday,Dinner,Chapati,Cloudy,Festival,203
+Wednesday,Breakfast,Dosa,Sunny,No,155
+Tuesday,Dinner,Biryani,Rainy,No,201
+Friday,Lunch,Chapati,Rainy,No,111
+Thursday,Dinner,Biryani,Cold,Exam,144
+Thursday,Lunch,Biryani,Cold,Sports Meet,223
+Thursday,Breakfast,Sandwich,Rainy,No,120
+Wednesday,Breakfast,Sandwich,Rainy,Holiday,121
+Saturday,Lunch,Biryani,Sunny,Holiday,232
+Wednesday,Lunch,Noodles,Cold,Holiday,124
+Sunday,Breakfast,Dosa,Cold,Holiday,163
+Tuesday,Dinner,Chapati,Cloudy,No,97
+Tuesday,Lunch,Chapati,Cold,Festival,166
+Wednesday,Snacks,Samosa,Cloudy,Holiday,133
+Tuesday,Breakfast,Idli,Cloudy,Exam,68
+Saturday,Dinner,Rice,Sunny,Holiday,114
+Thursday,Breakfast,Sandwich,Sunny,Holiday,175
+Friday,Dinner,Chapati,Cloudy,Holiday,73
+Monday,Snacks,Samosa,Cold,Exam,195
+Tuesday,Snacks,Samosa,Rainy,Sports Meet,316
+Thursday,Breakfast,Sandwich,Cloudy,Sports Meet,210
+Monday,Dinner,Rice,Rainy,Sports Meet,165
+Thursday,Lunch,Rice,Rainy,Sports Meet,177
+Wednesday,Lunch,Noodles,Cloudy,Exam,110
+Friday,Dinner,Biryani,Cloudy,Exam,134
+Saturday,Breakfast,Sandwich,Sunny,Festival,212
+Sunday,Lunch,Rice,Cold,Holiday,179
+Monday,Breakfast,Dosa,Cloudy,Festival,172
+Sunday,Breakfast,Dosa,Cold,Sports Meet,191
+Saturday,Dinner,Biryani,Cloudy,Exam,196
+Sunday,Breakfast,Dosa,Cold,Exam,109
+Sunday,Snacks,Noodles,Sunny,Exam,93
+Sunday,Snacks,Noodles,Cloudy,No,124
+Wednesday,Breakfast,Idli,Sunny,Exam,117
+Wednesday,Dinner,Biryani,Rainy,Exam,94
+Wednesday,Dinner,Chapati,Cold,Holiday,80
+Wednesday,Breakfast,Dosa,Rainy,Holiday,145
+Monday,Snacks,Samosa,Cloudy,Holiday,183
+Saturday,Snacks,Puff,Cloudy,Sports Meet,185
+Tuesday,Snacks,Puff,Cloudy,Holiday,79
+Wednesday,Dinner,Biryani,Cold,Holiday,134
+Thursday,Breakfast,Idli,Rainy,Exam,91
+Wednesday,Dinner,Rice,Sunny,Exam,133
+Sunday,Lunch,Biryani,Sunny,Festival,301
+Thursday,Snacks,Sandwich,Cloudy,No,111
+Saturday,Breakfast,Idli,Cold,Sports Meet,216
+Saturday,Breakfast,Sandwich,Rainy,Sports Meet,189
+Thursday,Snacks,Noodles,Cloudy,Holiday,104
+Tuesday,Breakfast,Dosa,Rainy,No,122
+Wednesday,Dinner,Noodles,Cloudy,Exam,59
+Friday,Snacks,Samosa,Cold,Festival,331
+Thursday,Lunch,Biryani,Cloudy,Holiday,204
+Saturday,Dinner,Rice,Rainy,Holiday,143
+Tuesday,Dinner,Rice,Cloudy,Festival,223
+Sunday,Snacks,Sandwich,Rainy,Sports Meet,185
+Sunday,Snacks,Sandwich,Sunny,Exam,105
+Thursday,Snacks,Sandwich,Cloudy,Sports Meet,231
+Monday,Lunch,Biryani,Cold,Holiday,174
+Saturday,Breakfast,Sandwich,Rainy,Festival,206
+Thursday,Breakfast,Idli,Cloudy,No,150
+Tuesday,Breakfast,Dosa,Sunny,Sports Meet,215
+Saturday,Dinner,Noodles,Sunny,No,168
+Sunday,Breakfast,Dosa,Cloudy,No,110
+Friday,Breakfast,Dosa,Sunny,Exam,145
+Friday,Snacks,Samosa,Sunny,Holiday,178
+Monday,Breakfast,Sandwich,Rainy,Holiday,123
+Saturday,Breakfast,Idli,Sunny,Sports Meet,229
+Saturday,Dinner,Noodles,Sunny,No,172
+Tuesday,Lunch,Chapati,Cloudy,Holiday,128
+Sunday,Dinner,Noodles,Cloudy,Sports Meet,210
+Sunday,Lunch,Noodles,Sunny,Sports Meet,223
+Saturday,Dinner,Chapati,Cloudy,No,172
+Thursday,Dinner,Rice,Cold,Festival,193
+Wednesday,Snacks,Noodles,Sunny,Festival,193
+Wednesday,Snacks,Noodles,Sunny,Exam,54
+Monday,Snacks,Samosa,Cold,Festival,316
+Saturday,Dinner,Biryani,Sunny,Sports Meet,300
+Sunday,Snacks,Sandwich,Sunny,Festival,241
+Wednesday,Lunch,Chapati,Cloudy,Festival,167
+Thursday,Lunch,Biryani,Cold,Holiday,205
+Saturday,Snacks,Puff,Rainy,Sports Meet,186
+Friday,Dinner,Noodles,Cloudy,Exam,89
+Tuesday,Dinner,Noodles,Sunny,Sports Meet,225
+Sunday,Breakfast,Sandwich,Rainy,Exam,56
+Tuesday,Snacks,Noodles,Cloudy,Holiday,127
+Wednesday,Snacks,Samosa,Rainy,Holiday,190
+Sunday,Breakfast,Sandwich,Cloudy,No,103
+Tuesday,Breakfast,Sandwich,Rainy,Sports Meet,185
+Tuesday,Lunch,Noodles,Sunny,No,124
+Sunday,Lunch,Biryani,Cloudy,Sports Meet,290
+Saturday,Snacks,Sandwich,Cold,No,176
+Wednesday,Breakfast,Dosa,Rainy,No,87
+Friday,Breakfast,Idli,Cloudy,Festival,187
+Monday,Lunch,Noodles,Cloudy,No,134
+Saturday,Breakfast,Dosa,Cold,Holiday,132
+Wednesday,Breakfast,Idli,Cloudy,Holiday,169
+Sunday,Snacks,Noodles,Cold,Sports Meet,266
+Thursday,Dinner,Biryani,Sunny,Exam,185
+Thursday,Lunch,Chapati,Sunny,Exam,98
+Sunday,Dinner,Rice,Sunny,Sports Meet,267
+Thursday,Snacks,Sandwich,Cloudy,Sports Meet,209
+Thursday,Breakfast,Dosa,Cold,No,90
+Monday,Lunch,Rice,Sunny,Sports Meet,212
+Sunday,Dinner,Noodles,Cloudy,Sports Meet,223
+Tuesday,Lunch,Rice,Cloudy,Holiday,150
+Wednesday,Snacks,Samosa,Sunny,No,167
+Tuesday,Dinner,Chapati,Rainy,Festival,166
+Tuesday,Snacks,Noodles,Sunny,Festival,183
+Monday,Lunch,Chapati,Rainy,No,94
+Wednesday,Dinner,Noodles,Rainy,Exam,75
+Tuesday,Dinner,Biryani,Rainy,Festival,249
+Thursday,Breakfast,Dosa,Cloudy,Exam,65
+Wednesday,Breakfast,Sandwich,Rainy,Sports Meet,205
+Saturday,Breakfast,Sandwich,Rainy,Sports Meet,217
+Friday,Dinner,Noodles,Cloudy,Sports Meet,234
+Tuesday,Dinner,Chapati,Cold,Holiday,72
+Wednesday,Dinner,Rice,Cold,Sports Meet,155
+Wednesday,Snacks,Samosa,Cloudy,Festival,255
+Monday,Lunch,Rice,Cold,Sports Meet,212
+Monday,Snacks,Puff,Cold,Festival,182
+Friday,Breakfast,Dosa,Cold,No,122
+Tuesday,Breakfast,Sandwich,Cloudy,Sports Meet,182
+Monday,Lunch,Rice,Sunny,Holiday,177
+Friday,Dinner,Rice,Cloudy,Sports Meet,183
+Wednesday,Lunch,Rice,Cold,Holiday,140
+Monday,Breakfast,Sandwich,Sunny,Sports Meet,209
+Saturday,Breakfast,Sandwich,Cold,Exam,81
+Monday,Lunch,Biryani,Rainy,No,175
+Friday,Breakfast,Dosa,Sunny,Festival,243
+Wednesday,Snacks,Samosa,Sunny,Holiday,127
+Monday,Snacks,Puff,Sunny,Exam,81
+Wednesday,Dinner,Rice,Sunny,No,150
+Tuesday,Breakfast,Dosa,Cold,Festival,198
+Monday,Snacks,Samosa,Cloudy,No,188
+Friday,Dinner,Noodles,Sunny,Holiday,92
+Monday,Snacks,Sandwich,Rainy,Holiday,124
+Thursday,Breakfast,Dosa,Sunny,Holiday,188
+Sunday,Snacks,Sandwich,Sunny,Exam,86
+Friday,Breakfast,Dosa,Sunny,Sports Meet,187
+Tuesday,Lunch,Rice,Cloudy,No,136
+Wednesday,Breakfast,Dosa,Rainy,Holiday,125
+Friday,Dinner,Noodles,Cold,Exam,60
+Thursday,Dinner,Biryani,Cloudy,Sports Meet,251
+Tuesday,Dinner,Biryani,Rainy,Exam,128
+Wednesday,Lunch,Rice,Rainy,No,127
+Monday,Breakfast,Idli,Cloudy,No,103
+Friday,Lunch,Biryani,Rainy,No,183
+Tuesday,Breakfast,Dosa,Sunny,Festival,238
+Sunday,Breakfast,Dosa,Sunny,Exam,109
+Friday,Breakfast,Dosa,Sunny,Festival,209
+Saturday,Breakfast,Sandwich,Cold,Holiday,152
+Monday,Dinner,Biryani,Cold,Holiday,99
+Thursday,Breakfast,Dosa,Rainy,Exam,54
+Tuesday,Breakfast,Sandwich,Cloudy,Exam,110
+Tuesday,Breakfast,Sandwich,Cloudy,Exam,91
+Saturday,Lunch,Noodles,Rainy,Sports Meet,202
+Tuesday,Dinner,Biryani,Cold,No,177
+Friday,Lunch,Biryani,Cloudy,Exam,134
+Monday,Lunch,Rice,Sunny,Exam,95
+Thursday,Dinner,Noodles,Sunny,Festival,237
+Thursday,Breakfast,Dosa,Rainy,No,108
+Thursday,Dinner,Biryani,Cold,Holiday,145
+Wednesday,Dinner,Noodles,Rainy,No,77
+Tuesday,Breakfast,Idli,Cold,Festival,180
+Saturday,Lunch,Chapati,Cloudy,Sports Meet,232
+Saturday,Dinner,Rice,Sunny,Holiday,120
+Monday,Lunch,Rice,Sunny,No,122
+Tuesday,Dinner,Noodles,Cold,No,99
+Wednesday,Breakfast,Dosa,Cloudy,Holiday,158
+Thursday,Breakfast,Sandwich,Cold,Exam,90
+Tuesday,Dinner,Noodles,Sunny,No,137
+Monday,Dinner,Rice,Cold,Sports Meet,143
+Thursday,Breakfast,Sandwich,Cloudy,Exam,76
+Sunday,Breakfast,Idli,Cold,Sports Meet,162
+Tuesday,Lunch,Rice,Cloudy,Exam,64
+Sunday,Breakfast,Idli,Cloudy,No,134
+Friday,Dinner,Rice,Cold,No,94
+Tuesday,Snacks,Samosa,Cloudy,Festival,211
+Saturday,Lunch,Noodles,Cloudy,Exam,132
+Wednesday,Lunch,Noodles,Rainy,Sports Meet,179
+Friday,Dinner,Chapati,Cloudy,No,95
+Tuesday,Dinner,Noodles,Rainy,No,124
+Tuesday,Dinner,Noodles,Cold,Holiday,78
+Sunday,Snacks,Samosa,Sunny,Holiday,138
+Tuesday,Dinner,Rice,Cloudy,Festival,195
+Wednesday,Dinner,Chapati,Rainy,Holiday,57
+Friday,Snacks,Puff,Cloudy,Exam,36
+Thursday,Snacks,Puff,Sunny,Holiday,106
+Monday,Snacks,Puff,Sunny,Festival,187
+Tuesday,Dinner,Noodles,Rainy,Festival,215
+Monday,Snacks,Noodles,Cloudy,Holiday,77
+Tuesday,Lunch,Noodles,Rainy,No,106
+Thursday,Snacks,Puff,Rainy,Exam,99
+Tuesday,Breakfast,Dosa,Sunny,Sports Meet,225
+Monday,Breakfast,Sandwich,Rainy,No,82
+Wednesday,Breakfast,Idli,Sunny,Festival,200
+Thursday,Breakfast,Sandwich,Rainy,Holiday,130
+Saturday,Snacks,Sandwich,Cloudy,No,141
+Sunday,Dinner,Biryani,Cold,No,216
+Tuesday,Breakfast,Sandwich,Sunny,Exam,116
+Monday,Breakfast,Dosa,Cold,Exam,61
+Friday,Snacks,Noodles,Cold,No,171
+Saturday,Snacks,Noodles,Cold,Festival,229
+Friday,Dinner,Rice,Sunny,Exam,111
+Tuesday,Dinner,Rice,Cold,Holiday,70
+Friday,Breakfast,Dosa,Cold,Festival,195
+Monday,Dinner,Noodles,Cold,Holiday,75
+Sunday,Breakfast,Dosa,Rainy,No,117
+Sunday,Dinner,Chapati,Cold,Sports Meet,179
+Wednesday,Breakfast,Idli,Cold,Holiday,165
+Tuesday,Breakfast,Dosa,Cold,Festival,143
+Sunday,Breakfast,Sandwich,Rainy,No,92
+Tuesday,Snacks,Samosa,Rainy,Exam,214
+Friday,Breakfast,Sandwich,Cold,Sports Meet,175
+Monday,Lunch,Biryani,Rainy,Exam,120
+Wednesday,Dinner,Biryani,Rainy,Sports Meet,213
+Monday,Snacks,Noodles,Sunny,Holiday,102
+Monday,Breakfast,Idli,Cold,Exam,54
+Wednesday,Lunch,Noodles,Cloudy,Holiday,180
+Tuesday,Dinner,Rice,Rainy,Festival,168
+Thursday,Breakfast,Idli,Cold,Exam,105
+Saturday,Lunch,Rice,Cold,Holiday,206
+Sunday,Lunch,Noodles,Sunny,Festival,254
+Wednesday,Dinner,Chapati,Rainy,Sports Meet,209
+Wednesday,Breakfast,Dosa,Sunny,Festival,235
+Friday,Breakfast,Sandwich,Rainy,No,77
+Sunday,Lunch,Rice,Cold,Exam,87
+Thursday,Dinner,Rice,Sunny,Festival,224
+Saturday,Dinner,Noodles,Cloudy,Sports Meet,264
+Saturday,Lunch,Rice,Cold,No,112
+Tuesday,Lunch,Chapati,Cold,Festival,123
+Sunday,Snacks,Puff,Cold,No,134
+Tuesday,Snacks,Puff,Cloudy,No,101
+Tuesday,Lunch,Noodles,Rainy,Exam,86
+Wednesday,Snacks,Noodles,Cloudy,Festival,203
+Thursday,Snacks,Samosa,Rainy,Festival,277
+Monday,Snacks,Samosa,Cold,No,235
+Saturday,Snacks,Samosa,Sunny,Exam,181
+Sunday,Breakfast,Dosa,Cloudy,No,118
+Sunday,Breakfast,Idli,Cold,Exam,119
+Sunday,Snacks,Sandwich,Cold,Holiday,136
+Monday,Breakfast,Sandwich,Sunny,No,150
+Monday,Breakfast,Sandwich,Rainy,Exam,70
+Saturday,Dinner,Rice,Cloudy,Exam,98
+Saturday,Snacks,Sandwich,Sunny,Festival,177
+Friday,Breakfast,Sandwich,Cold,Holiday,177
+Monday,Snacks,Samosa,Rainy,Festival,246
+Wednesday,Dinner,Biryani,Rainy,Holiday,147
+Friday,Breakfast,Dosa,Cloudy,Exam,129
+Monday,Lunch,Chapati,Sunny,Holiday,183
+Tuesday,Dinner,Biryani,Cold,Holiday,136
+Sunday,Lunch,Chapati,Cloudy,Sports Meet,171
+Friday,Snacks,Noodles,Cold,Exam,87
+Sunday,Dinner,Biryani,Sunny,Festival,261
+Thursday,Breakfast,Sandwich,Cloudy,Exam,113
+Saturday,Breakfast,Idli,Sunny,Holiday,172
+Thursday,Snacks,Noodles,Rainy,No,175
+Wednesday,Lunch,Rice,Rainy,No,115
+Friday,Dinner,Chapati,Rainy,Exam,35
+Thursday,Lunch,Biryani,Rainy,Holiday,226
+Sunday,Lunch,Rice,Sunny,No,146
+Tuesday,Snacks,Sandwich,Sunny,Sports Meet,185
+Wednesday,Dinner,Biryani,Rainy,Sports Meet,217
+Wednesday,Breakfast,Idli,Rainy,Festival,180
+Tuesday,Snacks,Noodles,Rainy,Holiday,137
+Wednesday,Lunch,Rice,Cold,Exam,57
+Thursday,Dinner,Noodles,Cold,Sports Meet,187
+Tuesday,Lunch,Biryani,Rainy,Holiday,179
+Friday,Dinner,Chapati,Cloudy,Holiday,103
+Sunday,Breakfast,Idli,Rainy,Exam,70
+Thursday,Snacks,Noodles,Cloudy,Sports Meet,206
+Saturday,Lunch,Biryani,Cloudy,Sports Meet,276
+Saturday,Lunch,Rice,Cloudy,Exam,118
+Friday,Dinner,Rice,Cold,Holiday,67
+Tuesday,Lunch,Biryani,Rainy,No,145
+Tuesday,Snacks,Samosa,Cold,Exam,188
+Monday,Breakfast,Idli,Cold,Sports Meet,162
+Tuesday,Breakfast,Dosa,Cold,Sports Meet,162
+Sunday,Snacks,Sandwich,Sunny,Sports Meet,191
+Saturday,Breakfast,Dosa,Rainy,Holiday,131
+Saturday,Snacks,Sandwich,Rainy,Exam,147
+Tuesday,Dinner,Chapati,Rainy,Sports Meet,169
+Tuesday,Snacks,Samosa,Cloudy,Exam,142
+Saturday,Breakfast,Sandwich,Cold,Holiday,173
+Friday,Breakfast,Sandwich,Sunny,Exam,71
+Wednesday,Dinner,Rice,Cloudy,No,132
+Saturday,Dinner,Biryani,Rainy,No,197
+Thursday,Snacks,Puff,Cloudy,Holiday,98
+Monday,Snacks,Samosa,Sunny,Sports Meet,226
+Tuesday,Lunch,Chapati,Cold,Festival,176
+Sunday,Dinner,Rice,Cloudy,Festival,240
+Friday,Dinner,Chapati,Sunny,Festival,152
+Saturday,Lunch,Rice,Cold,No,135
+Friday,Breakfast,Sandwich,Cloudy,Festival,212
+Sunday,Dinner,Rice,Sunny,Holiday,136
+Sunday,Lunch,Chapati,Sunny,Exam,95
+Wednesday,Dinner,Rice,Sunny,Exam,116
+Saturday,Breakfast,Idli,Sunny,Festival,203
+Monday,Breakfast,Sandwich,Sunny,Festival,220
+Wednesday,Lunch,Biryani,Cold,No,145
+Saturday,Snacks,Noodles,Rainy,Holiday,114
+Monday,Snacks,Puff,Cloudy,Holiday,89
+Friday,Dinner,Rice,Sunny,Festival,227
+Saturday,Dinner,Noodles,Rainy,Festival,235
+Tuesday,Breakfast,Sandwich,Rainy,Sports Meet,179
+Monday,Dinner,Chapati,Sunny,Festival,183
+Wednesday,Breakfast,Dosa,Cold,Festival,215
+Saturday,Snacks,Sandwich,Sunny,Festival,224
+Saturday,Snacks,Noodles,Sunny,Festival,223
+Tuesday,Snacks,Samosa,Sunny,Exam,206
+Wednesday,Breakfast,Dosa,Cold,Sports Meet,167
+Saturday,Breakfast,Idli,Cloudy,Holiday,177
+Monday,Snacks,Sandwich,Cold,Festival,199
+Saturday,Lunch,Biryani,Cloudy,Holiday,281
+Friday,Breakfast,Dosa,Cloudy,Holiday,176
+Wednesday,Dinner,Biryani,Sunny,Festival,289
+Tuesday,Lunch,Biryani,Sunny,Festival,263
+Saturday,Dinner,Noodles,Sunny,Exam,135
+Wednesday,Breakfast,Dosa,Cloudy,Sports Meet,221
+Tuesday,Breakfast,Dosa,Cloudy,Exam,98
+Thursday,Dinner,Noodles,Sunny,Festival,219
+Saturday,Snacks,Noodles,Cloudy,No,128
+Monday,Snacks,Sandwich,Rainy,No,157
+Thursday,Breakfast,Sandwich,Cloudy,Holiday,186
+Sunday,Dinner,Biryani,Sunny,Exam,233
+Wednesday,Breakfast,Dosa,Sunny,No,137
+Thursday,Dinner,Noodles,Cold,Exam,83
+Thursday,Breakfast,Idli,Cold,Festival,146
+Sunday,Breakfast,Idli,Cloudy,Sports Meet,211
+Friday,Breakfast,Sandwich,Sunny,Sports Meet,256
+Thursday,Snacks,Samosa,Cloudy,Exam,110
+Saturday,Dinner,Chapati,Cloudy,Sports Meet,251
+Thursday,Lunch,Biryani,Cold,No,162
+Sunday,Snacks,Puff,Rainy,Festival,192
+Saturday,Lunch,Biryani,Sunny,Festival,311
+Thursday,Dinner,Rice,Cloudy,Exam,70
+Tuesday,Breakfast,Sandwich,Cloudy,No,110
+Tuesday,Breakfast,Sandwich,Sunny,Sports Meet,187
+Tuesday,Dinner,Biryani,Rainy,Sports Meet,250
+Friday,Dinner,Rice,Rainy,Exam,96
+Sunday,Dinner,Chapati,Rainy,Sports Meet,196
+Friday,Dinner,Biryani,Rainy,Exam,107
+Friday,Snacks,Sandwich,Sunny,Sports Meet,193
+Wednesday,Dinner,Noodles,Cloudy,Festival,209
+Wednesday,Breakfast,Idli,Rainy,Sports Meet,174
+Friday,Dinner,Rice,Sunny,Festival,197
+Monday,Lunch,Biryani,Cloudy,Exam,185
+Monday,Snacks,Samosa,Cold,Exam,227
+Saturday,Dinner,Rice,Sunny,No,193
+Monday,Snacks,Puff,Cold,Festival,229
+Friday,Dinner,Noodles,Sunny,Festival,183
+Friday,Breakfast,Dosa,Cold,No,105
+Thursday,Breakfast,Idli,Rainy,Festival,173
+Friday,Breakfast,Idli,Sunny,Holiday,174
+Friday,Breakfast,Idli,Cold,No,121
+Tuesday,Snacks,Samosa,Rainy,Festival,306
+Wednesday,Dinner,Chapati,Sunny,Exam,67
+Monday,Snacks,Noodles,Sunny,No,148
+Saturday,Lunch,Noodles,Rainy,Exam,72
+Thursday,Breakfast,Idli,Rainy,Exam,76
+Wednesday,Breakfast,Idli,Rainy,No,127
+Monday,Dinner,Biryani,Rainy,Exam,110
+Friday,Dinner,Biryani,Rainy,Holiday,156
+Thursday,Snacks,Noodles,Cloudy,Exam,73
+Sunday,Lunch,Chapati,Rainy,Sports Meet,197
+Saturday,Dinner,Noodles,Sunny,No,181
+Friday,Lunch,Chapati,Cloudy,Holiday,175
+Saturday,Snacks,Puff,Sunny,Sports Meet,164
+Tuesday,Breakfast,Sandwich,Sunny,No,152
+Thursday,Breakfast,Dosa,Sunny,Festival,221
+Monday,Snacks,Noodles,Rainy,Holiday,163
+Saturday,Dinner,Rice,Cold,No,156
+Monday,Breakfast,Idli,Cloudy,Sports Meet,214
+Tuesday,Snacks,Sandwich,Sunny,Exam,84
+Monday,Dinner,Noodles,Sunny,Exam,81
+Sunday,Breakfast,Dosa,Cold,Sports Meet,175
+Monday,Snacks,Samosa,Cold,Festival,273
+Monday,Lunch,Biryani,Rainy,Sports Meet,228
+Saturday,Lunch,Rice,Rainy,Holiday,139
+Sunday,Dinner,Rice,Sunny,Holiday,146
+Saturday,Lunch,Noodles,Cold,Exam,86
+Saturday,Snacks,Puff,Rainy,Sports Meet,235
+Friday,Snacks,Noodles,Rainy,Holiday,156
+Wednesday,Lunch,Chapati,Cloudy,Festival,136
+Wednesday,Dinner,Chapati,Rainy,Exam,28
+Tuesday,Breakfast,Idli,Sunny,Exam,123
+Monday,Snacks,Puff,Rainy,Sports Meet,153
+Monday,Lunch,Rice,Rainy,Sports Meet,160
+Sunday,Lunch,Biryani,Sunny,Exam,149
+Saturday,Breakfast,Sandwich,Cold,Festival,133
+Tuesday,Breakfast,Sandwich,Rainy,Exam,54
+Sunday,Lunch,Noodles,Rainy,Exam,83
+Saturday,Snacks,Puff,Sunny,Exam,81
+Wednesday,Dinner,Rice,Cloudy,Sports Meet,232
+Saturday,Snacks,Puff,Sunny,Sports Meet,156
+Sunday,Breakfast,Sandwich,Sunny,No,145
+Tuesday,Dinner,Rice,Cold,Holiday,90
+Saturday,Breakfast,Sandwich,Rainy,Sports Meet,218
+Monday,Dinner,Noodles,Rainy,Holiday,91
+Monday,Dinner,Rice,Rainy,Sports Meet,199
+Monday,Lunch,Rice,Rainy,Exam,59
+Saturday,Breakfast,Idli,Sunny,No,129
+Thursday,Lunch,Noodles,Cold,Holiday,122
+Thursday,Snacks,Puff,Rainy,No,135
+Monday,Lunch,Chapati,Cloudy,Festival,204
+Wednesday,Breakfast,Idli,Sunny,Holiday,152
+Monday,Lunch,Noodles,Rainy,Festival,159
+Friday,Lunch,Chapati,Sunny,Festival,205
+Thursday,Lunch,Chapati,Sunny,No,119
+Monday,Breakfast,Sandwich,Sunny,Exam,97
+Saturday,Dinner,Noodles,Rainy,Sports Meet,251
+Friday,Lunch,Biryani,Sunny,Festival,308
+Tuesday,Lunch,Rice,Cloudy,Sports Meet,203
+Sunday,Snacks,Sandwich,Rainy,Holiday,160
+Monday,Snacks,Samosa,Cloudy,No,185
+Monday,Lunch,Chapati,Cold,Exam,78
+Wednesday,Breakfast,Idli,Rainy,Sports Meet,173
+Saturday,Dinner,Rice,Cloudy,Festival,233
+Friday,Breakfast,Idli,Cloudy,Sports Meet,204
+Tuesday,Snacks,Puff,Cloudy,Festival,155
+Friday,Dinner,Rice,Rainy,Sports Meet,186
+Friday,Snacks,Samosa,Cloudy,Festival,255
+Wednesday,Dinner,Noodles,Sunny,Festival,226
+Tuesday,Breakfast,Idli,Cloudy,Sports Meet,229
+Saturday,Dinner,Noodles,Rainy,Holiday,120
+Thursday,Snacks,Noodles,Sunny,Festival,200
+Wednesday,Snacks,Noodles,Rainy,Festival,223
+Wednesday,Breakfast,Idli,Cloudy,Sports Meet,200
+Monday,Breakfast,Idli,Rainy,Holiday,124
+Monday,Snacks,Samosa,Cold,Exam,200
+Saturday,Lunch,Noodles,Cloudy,No,121
+Monday,Lunch,Rice,Cloudy,Holiday,157
+Tuesday,Lunch,Chapati,Rainy,Holiday,118
+Friday,Breakfast,Idli,Cloudy,Sports Meet,207
+Thursday,Breakfast,Dosa,Rainy,Festival,217
+Wednesday,Snacks,Noodles,Cloudy,Holiday,70
+Thursday,Lunch,Biryani,Cloudy,Sports Meet,245
+Wednesday,Breakfast,Idli,Cold,Holiday,137
+Friday,Snacks,Noodles,Cloudy,Holiday,75
+Sunday,Lunch,Chapati,Cold,No,86
+Wednesday,Breakfast,Idli,Sunny,Festival,186
+Sunday,Breakfast,Sandwich,Cold,Holiday,145
+Saturday,Lunch,Biryani,Rainy,No,192
+Saturday,Snacks,Noodles,Cold,No,157
+Tuesday,Snacks,Sandwich,Sunny,Festival,224
+Thursday,Breakfast,Dosa,Cloudy,Exam,112
+Thursday,Snacks,Sandwich,Cloudy,Exam,88
+Monday,Lunch,Noodles,Rainy,Holiday,161
+Thursday,Breakfast,Sandwich,Cloudy,Festival,174
+Wednesday,Lunch,Biryani,Rainy,Exam,170
+Monday,Dinner,Biryani,Rainy,Holiday,127
+Saturday,Breakfast,Dosa,Cloudy,Festival,211
+Monday,Snacks,Sandwich,Cloudy,Festival,231
+Wednesday,Dinner,Biryani,Sunny,Festival,225
+Sunday,Lunch,Biryani,Cloudy,No,211
+Sunday,Snacks,Puff,Sunny,Sports Meet,198
+Friday,Breakfast,Idli,Cold,Holiday,154
+Saturday,Breakfast,Dosa,Sunny,Exam,158
+Friday,Breakfast,Idli,Cloudy,Sports Meet,232
+Tuesday,Snacks,Samosa,Rainy,Exam,163
+Tuesday,Breakfast,Sandwich,Sunny,Exam,107
+Friday,Dinner,Noodles,Cold,Sports Meet,198
+Monday,Snacks,Puff,Cloudy,Exam,91
+Saturday,Dinner,Chapati,Rainy,No,113
+Saturday,Breakfast,Idli,Sunny,Festival,204
+Tuesday,Dinner,Noodles,Sunny,Festival,196
+Thursday,Breakfast,Sandwich,Cold,Holiday,148
+Monday,Dinner,Noodles,Rainy,Holiday,106
+Tuesday,Lunch,Biryani,Cold,Sports Meet,239
+Sunday,Breakfast,Dosa,Cold,No,98
+Friday,Snacks,Noodles,Cloudy,Exam,100
+Monday,Breakfast,Dosa,Sunny,Exam,88
+Saturday,Dinner,Biryani,Cloudy,Exam,167
+Thursday,Dinner,Chapati,Cold,Sports Meet,176
+Tuesday,Dinner,Biryani,Sunny,Sports Meet,255
+Wednesday,Lunch,Chapati,Cloudy,No,101
+Saturday,Lunch,Biryani,Cold,No,224
+Saturday,Breakfast,Idli,Cold,Holiday,180
+Wednesday,Snacks,Sandwich,Sunny,Festival,235
+Wednesday,Snacks,Puff,Cloudy,Festival,171
+Saturday,Breakfast,Sandwich,Sunny,Festival,251
+Saturday,Dinner,Biryani,Rainy,Holiday,112
+Saturday,Breakfast,Dosa,Cold,Holiday,127
+Monday,Breakfast,Sandwich,Rainy,Sports Meet,167
+Thursday,Breakfast,Sandwich,Rainy,Sports Meet,145
+Thursday,Dinner,Chapati,Cold,No,91
+Saturday,Breakfast,Sandwich,Sunny,Holiday,178
+Monday,Snacks,Sandwich,Rainy,Festival,273
+Thursday,Dinner,Biryani,Rainy,Holiday,98
+Saturday,Snacks,Puff,Cloudy,Holiday,85
+Friday,Dinner,Noodles,Rainy,Sports Meet,167
+Tuesday,Breakfast,Sandwich,Sunny,Festival,183
+Monday,Dinner,Biryani,Cloudy,Sports Meet,248
+Tuesday,Snacks,Sandwich,Sunny,Holiday,107
+Thursday,Snacks,Noodles,Cloudy,Sports Meet,214
+Thursday,Dinner,Biryani,Rainy,Exam,96
+Monday,Snacks,Sandwich,Rainy,No,155
+Sunday,Breakfast,Dosa,Cloudy,No,131
+Thursday,Breakfast,Idli,Cold,Exam,76
+Sunday,Breakfast,Sandwich,Rainy,Exam,74
+Tuesday,Lunch,Biryani,Rainy,No,136
+Sunday,Lunch,Rice,Cold,No,103
+Saturday,Dinner,Noodles,Rainy,Holiday,132
+Sunday,Dinner,Biryani,Rainy,Sports Meet,303
+Wednesday,Dinner,Noodles,Sunny,No,160
+Tuesday,Dinner,Rice,Sunny,No,166
+Saturday,Lunch,Chapati,Rainy,Exam,74
+Thursday,Snacks,Sandwich,Rainy,Sports Meet,220
+Wednesday,Breakfast,Sandwich,Cloudy,Holiday,134
+Friday,Breakfast,Idli,Cold,Exam,73
+Saturday,Snacks,Puff,Cold,Festival,205
+Wednesday,Lunch,Biryani,Cloudy,Holiday,212
+Saturday,Lunch,Rice,Sunny,Sports Meet,246
+Wednesday,Snacks,Sandwich,Cloudy,No,117
+Saturday,Breakfast,Dosa,Cold,Exam,76
+Thursday,Dinner,Noodles,Rainy,Holiday,40
+Saturday,Lunch,Chapati,Cold,Festival,172
+Tuesday,Lunch,Chapati,Rainy,Sports Meet,135
+Monday,Snacks,Noodles,Cold,Holiday,152
+Thursday,Dinner,Noodles,Rainy,Exam,80
+Monday,Dinner,Rice,Sunny,Sports Meet,238
+Tuesday,Dinner,Chapati,Sunny,No,106
+Saturday,Breakfast,Dosa,Cold,Exam,91
+Wednesday,Snacks,Noodles,Rainy,Holiday,141
+Friday,Dinner,Chapati,Cloudy,Holiday,80
+Friday,Breakfast,Idli,Cold,Festival,188
+Saturday,Lunch,Noodles,Sunny,Sports Meet,225
+Monday,Breakfast,Dosa,Rainy,Festival,200
+Friday,Breakfast,Dosa,Sunny,Festival,204
+Wednesday,Dinner,Rice,Sunny,Festival,228
+Thursday,Dinner,Biryani,Cloudy,Holiday,151
+Wednesday,Snacks,Puff,Rainy,Holiday,99
+Tuesday,Breakfast,Idli,Cold,Exam,54
+Sunday,Breakfast,Dosa,Rainy,Exam,68
+Saturday,Snacks,Puff,Sunny,Exam,90
+Tuesday,Breakfast,Idli,Sunny,Festival,219
+Thursday,Lunch,Biryani,Cloudy,Festival,234
+Monday,Snacks,Noodles,Rainy,Festival,239
+Tuesday,Breakfast,Dosa,Cold,Exam,91
+Sunday,Lunch,Rice,Sunny,Festival,208
+Tuesday,Snacks,Samosa,Rainy,Festival,277
+Wednesday,Dinner,Noodles,Cold,No,116
+Wednesday,Breakfast,Sandwich,Cold,Exam,92
+Thursday,Breakfast,Dosa,Sunny,Holiday,155
+Thursday,Snacks,Sandwich,Cold,Sports Meet,240
+Tuesday,Dinner,Chapati,Cloudy,Exam,77
+Friday,Snacks,Noodles,Cloudy,Sports Meet,205
+Sunday,Lunch,Chapati,Sunny,Festival,222
+Tuesday,Breakfast,Idli,Rainy,No,115
+Sunday,Snacks,Sandwich,Cold,Exam,132
+Saturday,Lunch,Noodles,Cloudy,Exam,93
+Tuesday,Dinner,Biryani,Cloudy,Exam,170
+Monday,Dinner,Chapati,Rainy,Exam,30
+Wednesday,Dinner,Chapati,Cloudy,Festival,199
+Thursday,Snacks,Puff,Cloudy,Sports Meet,219
+Monday,Lunch,Rice,Sunny,No,119
+Tuesday,Snacks,Sandwich,Sunny,No,105
+Thursday,Breakfast,Sandwich,Rainy,Exam,107
+Wednesday,Dinner,Rice,Rainy,Sports Meet,201
+Wednesday,Lunch,Rice,Sunny,Holiday,206
+Thursday,Snacks,Sandwich,Sunny,Sports Meet,210
+Friday,Lunch,Rice,Sunny,No,113
+Friday,Dinner,Noodles,Sunny,No,126
+Thursday,Lunch,Chapati,Cold,Exam,65
+Sunday,Dinner,Noodles,Cold,Sports Meet,189
+Saturday,Lunch,Biryani,Sunny,Exam,163
+Friday,Breakfast,Dosa,Cold,Sports Meet,196
+Tuesday,Lunch,Biryani,Sunny,Exam,199
+Friday,Breakfast,Dosa,Rainy,Festival,204
+Wednesday,Breakfast,Idli,Cold,Exam,55
+Wednesday,Snacks,Samosa,Rainy,No,262
+Tuesday,Snacks,Puff,Rainy,Festival,251
+Sunday,Breakfast,Idli,Cloudy,Sports Meet,209
+Sunday,Lunch,Rice,Cloudy,No,136
+Thursday,Breakfast,Sandwich,Cloudy,Sports Meet,207
+Tuesday,Lunch,Rice,Cloudy,Festival,178
+Saturday,Dinner,Biryani,Sunny,No,227
+Friday,Breakfast,Sandwich,Rainy,Holiday,106
+Thursday,Snacks,Noodles,Sunny,Holiday,89
+Tuesday,Dinner,Chapati,Cold,Exam,29
+Friday,Snacks,Samosa,Cold,Sports Meet,286
+Tuesday,Snacks,Samosa,Rainy,Sports Meet,349
+Thursday,Breakfast,Sandwich,Cold,Sports Meet,217
+Friday,Dinner,Noodles,Rainy,Exam,64
+Monday,Dinner,Noodles,Cold,Festival,188
+Wednesday,Breakfast,Sandwich,Sunny,Sports Meet,192
+Wednesday,Breakfast,Idli,Cold,Festival,194
+Tuesday,Snacks,Puff,Cloudy,Holiday,93
+Tuesday,Snacks,Noodles,Cloudy,Holiday,107
+Wednesday,Breakfast,Sandwich,Sunny,Sports Meet,191
+Wednesday,Lunch,Chapati,Sunny,Festival,187
+Saturday,Lunch,Noodles,Cold,Festival,183
+Wednesday,Snacks,Samosa,Sunny,No,192
+Monday,Dinner,Chapati,Rainy,Sports Meet,159
+Thursday,Breakfast,Sandwich,Cold,Festival,197
+Saturday,Dinner,Rice,Rainy,Exam,79
+Thursday,Breakfast,Sandwich,Sunny,Festival,217
+Tuesday,Dinner,Biryani,Sunny,Holiday,151
+Thursday,Breakfast,Idli,Cold,Festival,209
+Thursday,Breakfast,Sandwich,Rainy,Holiday,141
+Sunday,Dinner,Biryani,Cloudy,Holiday,189
+Tuesday,Dinner,Rice,Cloudy,Holiday,65
+Saturday,Lunch,Chapati,Rainy,Holiday,169
+Friday,Snacks,Sandwich,Sunny,Festival,208
+Saturday,Dinner,Biryani,Rainy,Festival,299
+Sunday,Lunch,Noodles,Cloudy,No,125
+Friday,Dinner,Biryani,Cold,Holiday,131
+Thursday,Lunch,Noodles,Sunny,No,140
+Sunday,Breakfast,Sandwich,Sunny,Exam,119
+Thursday,Lunch,Noodles,Rainy,Exam,103
+Friday,Lunch,Chapati,Rainy,Festival,145
+Wednesday,Dinner,Rice,Cold,No,124
+Friday,Dinner,Noodles,Cold,Festival,172
+Monday,Dinner,Rice,Cold,Exam,77
+Wednesday,Dinner,Rice,Rainy,Exam,61
+Wednesday,Breakfast,Idli,Cloudy,Sports Meet,196
+Monday,Breakfast,Idli,Rainy,Exam,69
+Friday,Dinner,Noodles,Cloudy,No,113
+Thursday,Lunch,Chapati,Rainy,Sports Meet,147
+Sunday,Snacks,Noodles,Rainy,No,171
+Friday,Dinner,Rice,Rainy,Holiday,96
+Tuesday,Dinner,Chapati,Cold,Holiday,45
+Wednesday,Lunch,Chapati,Sunny,No,128
+Saturday,Lunch,Biryani,Cloudy,Exam,149
+Thursday,Snacks,Samosa,Cold,No,219
+Thursday,Breakfast,Sandwich,Cold,Sports Meet,151
+Thursday,Dinner,Rice,Cold,No,117
+Tuesday,Breakfast,Idli,Rainy,Festival,197
+Wednesday,Lunch,Rice,Cold,Sports Meet,184
+Wednesday,Snacks,Puff,Sunny,Sports Meet,162
+Sunday,Lunch,Biryani,Cold,Sports Meet,268
+Friday,Lunch,Rice,Cold,No,98
+Saturday,Snacks,Samosa,Rainy,Sports Meet,308
+Monday,Lunch,Chapati,Rainy,Exam,72
+Wednesday,Lunch,Noodles,Cold,Festival,208
+Tuesday,Dinner,Chapati,Cloudy,Sports Meet,215
+Thursday,Lunch,Biryani,Cloudy,Exam,166
+Wednesday,Breakfast,Sandwich,Rainy,No,94
+Friday,Lunch,Biryani,Rainy,Sports Meet,220
+Sunday,Snacks,Noodles,Cold,Holiday,110
+Saturday,Dinner,Noodles,Rainy,No,146
+Wednesday,Dinner,Noodles,Sunny,Sports Meet,168
+Sunday,Lunch,Rice,Cold,Sports Meet,217
+Saturday,Snacks,Noodles,Sunny,Exam,68
+Sunday,Dinner,Biryani,Rainy,No,150
+Friday,Snacks,Noodles,Sunny,Exam,81
+Saturday,Lunch,Chapati,Sunny,Sports Meet,190
+Friday,Lunch,Chapati,Sunny,Exam,112
+Monday,Breakfast,Dosa,Sunny,Holiday,196
+Sunday,Dinner,Chapati,Cold,Exam,72
+Saturday,Lunch,Noodles,Sunny,Sports Meet,227
+Saturday,Snacks,Sandwich,Rainy,Festival,238
+Thursday,Dinner,Biryani,Cloudy,No,181
+Wednesday,Breakfast,Dosa,Rainy,No,83
+Friday,Breakfast,Sandwich,Cloudy,No,128
+Sunday,Snacks,Sandwich,Rainy,Festival,217
+Tuesday,Dinner,Noodles,Cloudy,Holiday,81
+Sunday,Lunch,Noodles,Rainy,No,162
+Saturday,Lunch,Rice,Cold,Sports Meet,170
+Sunday,Breakfast,Dosa,Rainy,No,115
+Sunday,Dinner,Chapati,Rainy,Exam,117
+Tuesday,Lunch,Noodles,Sunny,Holiday,182
+Sunday,Breakfast,Idli,Sunny,No,131
+Friday,Breakfast,Sandwich,Sunny,Sports Meet,252
+Wednesday,Lunch,Noodles,Cloudy,No,135
+Monday,Lunch,Noodles,Sunny,Holiday,214
+Thursday,Dinner,Chapati,Cold,No,61
+Thursday,Breakfast,Dosa,Cloudy,Festival,193
+Wednesday,Dinner,Biryani,Sunny,No,169
+Tuesday,Lunch,Noodles,Rainy,Festival,196
+Friday,Lunch,Rice,Cloudy,Holiday,135
+Wednesday,Snacks,Noodles,Cold,Holiday,126
+Monday,Breakfast,Dosa,Sunny,Exam,127
+Friday,Breakfast,Dosa,Cold,Festival,168
+Tuesday,Lunch,Rice,Cloudy,Sports Meet,231
+Saturday,Dinner,Rice,Rainy,Festival,230
+Tuesday,Breakfast,Idli,Cold,Festival,214
+Thursday,Snacks,Noodles,Rainy,Sports Meet,251
+Monday,Snacks,Puff,Cloudy,No,119
+Tuesday,Snacks,Sandwich,Cloudy,Sports Meet,227
+Friday,Breakfast,Idli,Rainy,No,102
+Monday,Snacks,Samosa,Cold,Exam,210
+Saturday,Dinner,Noodles,Rainy,No,142
+Friday,Breakfast,Dosa,Cold,Sports Meet,196
+Wednesday,Breakfast,Dosa,Cold,Festival,206
+Wednesday,Dinner,Chapati,Cloudy,Sports Meet,203
+Friday,Snacks,Samosa,Cold,Sports Meet,292
+Wednesday,Snacks,Sandwich,Cloudy,Festival,206
+Friday,Dinner,Chapati,Sunny,Exam,57
+Thursday,Lunch,Rice,Rainy,Exam,111
+Saturday,Snacks,Samosa,Rainy,Sports Meet,303
+Friday,Lunch,Chapati,Cloudy,Exam,49
+Thursday,Dinner,Biryani,Cloudy,Sports Meet,260
+Friday,Dinner,Biryani,Cloudy,Holiday,128
+Sunday,Snacks,Noodles,Sunny,Sports Meet,176
+Monday,Snacks,Noodles,Cloudy,Holiday,87
+Saturday,Snacks,Puff,Cloudy,Sports Meet,181
+Friday,Lunch,Chapati,Cold,Sports Meet,176
+Friday,Breakfast,Sandwich,Sunny,Sports Meet,202
+Tuesday,Snacks,Sandwich,Cloudy,No,116
+Thursday,Lunch,Biryani,Rainy,Festival,239
+Tuesday,Breakfast,Dosa,Cloudy,Holiday,188
+Friday,Lunch,Noodles,Cold,No,133
+Thursday,Breakfast,Idli,Cloudy,Holiday,150
+Thursday,Snacks,Puff,Cloudy,Exam,62
+Wednesday,Snacks,Noodles,Cloudy,Sports Meet,196
+Thursday,Breakfast,Dosa,Cold,Festival,135
+Monday,Snacks,Samosa,Rainy,No,226
+Friday,Dinner,Noodles,Cold,Festival,204
+Tuesday,Lunch,Biryani,Rainy,Festival,201
+Sunday,Lunch,Biryani,Sunny,Sports Meet,229
+Friday,Dinner,Noodles,Cold,Holiday,72
+Thursday,Lunch,Chapati,Sunny,No,122
+Tuesday,Breakfast,Sandwich,Rainy,Sports Meet,130
+Monday,Snacks,Samosa,Rainy,Sports Meet,283
+Saturday,Snacks,Puff,Cold,Sports Meet,223
+Saturday,Lunch,Biryani,Cold,No,137
+Friday,Lunch,Chapati,Cloudy,No,106
+Friday,Snacks,Samosa,Cloudy,Sports Meet,260
+Sunday,Snacks,Samosa,Cold,Sports Meet,275
+Sunday,Lunch,Biryani,Rainy,Festival,230
+Sunday,Dinner,Biryani,Rainy,No,206
+Friday,Breakfast,Dosa,Cold,Exam,53
+Monday,Snacks,Puff,Rainy,Festival,173
+Thursday,Breakfast,Idli,Cold,No,113
+Monday,Snacks,Samosa,Rainy,Festival,285
+Tuesday,Snacks,Sandwich,Cold,No,165
+Wednesday,Snacks,Samosa,Cloudy,Sports Meet,238
+Monday,Snacks,Sandwich,Rainy,Exam,140
+Friday,Snacks,Noodles,Cold,Sports Meet,252
+Saturday,Lunch,Rice,Cloudy,Holiday,175
+Thursday,Lunch,Rice,Cloudy,Festival,235
+Saturday,Snacks,Samosa,Sunny,Holiday,167
+Tuesday,Breakfast,Sandwich,Sunny,Festival,220
+Sunday,Breakfast,Dosa,Rainy,Sports Meet,169
+Thursday,Lunch,Noodles,Sunny,Exam,74
+Saturday,Breakfast,Sandwich,Cloudy,Exam,104
+Thursday,Lunch,Chapati,Rainy,Holiday,111
+Saturday,Lunch,Noodles,Cold,Holiday,206
+Saturday,Dinner,Biryani,Rainy,Exam,160
+Monday,Dinner,Noodles,Sunny,Festival,226
+Friday,Lunch,Chapati,Sunny,Exam,70
+Thursday,Dinner,Chapati,Rainy,Festival,156
+Thursday,Lunch,Biryani,Sunny,Sports Meet,261
+Monday,Dinner,Chapati,Cold,Sports Meet,155
+Saturday,Lunch,Chapati,Cold,No,116
+Monday,Dinner,Chapati,Sunny,Sports Meet,189
+Friday,Lunch,Rice,Cloudy,Sports Meet,208
+Sunday,Dinner,Rice,Cold,Festival,242
+Wednesday,Snacks,Puff,Cloudy,Festival,172
+Sunday,Dinner,Rice,Cold,Festival,201
+Monday,Snacks,Puff,Rainy,Exam,110
+Sunday,Lunch,Rice,Rainy,Exam,108
+Tuesday,Lunch,Rice,Cold,Holiday,148
+Wednesday,Breakfast,Idli,Sunny,Festival,210
+Friday,Breakfast,Dosa,Cold,Festival,202
+Friday,Dinner,Biryani,Cold,No,155
+Wednesday,Breakfast,Dosa,Cloudy,No,127
+Saturday,Snacks,Noodles,Cold,Holiday,111
+Wednesday,Snacks,Samosa,Cold,No,216
+Saturday,Lunch,Noodles,Cold,No,110
+Wednesday,Breakfast,Idli,Cloudy,Sports Meet,207
+Thursday,Breakfast,Dosa,Sunny,Sports Meet,239
+Saturday,Dinner,Biryani,Sunny,Holiday,174
+Friday,Lunch,Biryani,Sunny,Exam,180
+Sunday,Breakfast,Sandwich,Cloudy,Holiday,171
+Monday,Dinner,Chapati,Sunny,Festival,212
+Friday,Breakfast,Sandwich,Cold,Holiday,137
+Friday,Snacks,Sandwich,Sunny,Festival,240
+Tuesday,Dinner,Rice,Sunny,Holiday,104
+Sunday,Breakfast,Sandwich,Rainy,Exam,96
+Wednesday,Lunch,Chapati,Cold,Holiday,148
+Wednesday,Dinner,Noodles,Cold,Sports Meet,227
+Wednesday,Dinner,Rice,Cold,Holiday,43
+Friday,Breakfast,Dosa,Sunny,No,145
+Thursday,Snacks,Samosa,Cold,Holiday,176
+Wednesday,Dinner,Rice,Rainy,Holiday,51
+Saturday,Snacks,Noodles,Rainy,Exam,126
+Friday,Breakfast,Dosa,Rainy,Sports Meet,198
+Tuesday,Snacks,Samosa,Cloudy,Holiday,141
+Friday,Breakfast,Idli,Cold,No,80
+Wednesday,Lunch,Noodles,Cloudy,Exam,102
+Tuesday,Breakfast,Sandwich,Rainy,Sports Meet,177
+Monday,Dinner,Biryani,Rainy,Exam,132
+Friday,Lunch,Biryani,Sunny,Festival,315
+Thursday,Snacks,Sandwich,Cloudy,Holiday,122
+Wednesday,Breakfast,Dosa,Rainy,No,95
+Saturday,Snacks,Noodles,Cloudy,Exam,106
+Sunday,Snacks,Noodles,Cloudy,No,102
+Saturday,Lunch,Chapati,Cold,Holiday,126
+Sunday,Snacks,Noodles,Cold,Sports Meet,241
+Friday,Dinner,Noodles,Rainy,Sports Meet,167
+Sunday,Dinner,Noodles,Rainy,Exam,98
+Tuesday,Snacks,Puff,Cold,Holiday,106
+Thursday,Breakfast,Dosa,Cloudy,Sports Meet,176
+Friday,Snacks,Puff,Cold,Holiday,137
+Tuesday,Snacks,Noodles,Rainy,Holiday,138
+Sunday,Breakfast,Sandwich,Rainy,Festival,171
+Tuesday,Breakfast,Sandwich,Cloudy,Festival,201
+Tuesday,Dinner,Noodles,Sunny,Sports Meet,231
+Saturday,Snacks,Noodles,Cloudy,Holiday,123
+Thursday,Lunch,Rice,Cold,Holiday,168
+Saturday,Breakfast,Sandwich,Rainy,Festival,167
+Tuesday,Snacks,Sandwich,Cold,Holiday,141
+Monday,Breakfast,Dosa,Cloudy,Holiday,149
+Friday,Dinner,Rice,Rainy,No,91
+Monday,Breakfast,Dosa,Cold,Sports Meet,182
+Wednesday,Breakfast,Dosa,Rainy,Holiday,126
+Tuesday,Breakfast,Idli,Cold,Sports Meet,142
+Monday,Dinner,Biryani,Rainy,Sports Meet,197
+Wednesday,Breakfast,Idli,Sunny,Holiday,171
+Sunday,Snacks,Noodles,Rainy,Holiday,143
+Monday,Breakfast,Idli,Rainy,Exam,56
+Friday,Dinner,Chapati,Rainy,Holiday,35
+Friday,Lunch,Biryani,Cloudy,No,209
+Sunday,Breakfast,Idli,Sunny,Holiday,202
+Monday,Breakfast,Sandwich,Sunny,No,143
+Thursday,Lunch,Biryani,Rainy,Sports Meet,203
+Sunday,Dinner,Rice,Sunny,No,151
+Friday,Dinner,Chapati,Sunny,Holiday,75
+Sunday,Lunch,Noodles,Rainy,No,126
+Monday,Breakfast,Dosa,Cloudy,Festival,184
+Saturday,Lunch,Noodles,Sunny,No,158
+Tuesday,Snacks,Noodles,Cold,Festival,223
+Friday,Snacks,Sandwich,Cloudy,No,146
+Saturday,Lunch,Noodles,Sunny,Festival,230
+Saturday,Snacks,Samosa,Sunny,Festival,232
+Saturday,Breakfast,Idli,Cloudy,Festival,189
+Tuesday,Dinner,Biryani,Rainy,No,168
+Tuesday,Lunch,Biryani,Cold,Festival,228
+Monday,Dinner,Chapati,Cloudy,Holiday,45
+Sunday,Lunch,Biryani,Cloudy,Holiday,231
+Monday,Lunch,Noodles,Sunny,No,145
+Sunday,Lunch,Biryani,Sunny,Sports Meet,287
+Friday,Dinner,Chapati,Rainy,Festival,119
+Thursday,Dinner,Chapati,Cloudy,Exam,117
+Monday,Lunch,Noodles,Sunny,Festival,222
+Sunday,Snacks,Puff,Cloudy,Sports Meet,183
+Thursday,Snacks,Sandwich,Rainy,Holiday,126
+Saturday,Lunch,Biryani,Cold,No,164
+Monday,Dinner,Noodles,Rainy,Festival,138
+Thursday,Snacks,Noodles,Cold,Holiday,119
+Tuesday,Breakfast,Dosa,Rainy,Sports Meet,172
+Wednesday,Breakfast,Sandwich,Cloudy,Sports Meet,182
+Thursday,Dinner,Biryani,Cold,Exam,153
+Friday,Dinner,Noodles,Cloudy,Holiday,105
+Monday,Lunch,Biryani,Cold,Sports Meet,215
+Tuesday,Lunch,Biryani,Rainy,Exam,151
+Friday,Dinner,Chapati,Cloudy,Exam,92
+Friday,Lunch,Biryani,Sunny,No,206
+Monday,Breakfast,Sandwich,Rainy,Sports Meet,144
+Friday,Snacks,Samosa,Cloudy,Festival,268
+Tuesday,Lunch,Rice,Cold,Sports Meet,166
+Saturday,Snacks,Sandwich,Sunny,Holiday,76
+Monday,Breakfast,Idli,Cloudy,Sports Meet,209
+Friday,Snacks,Samosa,Cloudy,Holiday,158
+Wednesday,Lunch,Biryani,Cold,No,198
+Friday,Dinner,Rice,Cloudy,Sports Meet,184
+Tuesday,Snacks,Samosa,Cold,Exam,171
+Saturday,Snacks,Noodles,Cold,Exam,139
+Thursday,Snacks,Sandwich,Sunny,Holiday,81
+Tuesday,Snacks,Sandwich,Rainy,Festival,209
+Tuesday,Dinner,Biryani,Rainy,Sports Meet,238
+Wednesday,Breakfast,Sandwich,Sunny,Festival,199
+Sunday,Dinner,Noodles,Sunny,No,152
+Thursday,Lunch,Biryani,Sunny,No,215
+Tuesday,Lunch,Rice,Rainy,Sports Meet,183
+Wednesday,Snacks,Noodles,Cold,Holiday,108
+Saturday,Lunch,Rice,Cloudy,No,139
+Sunday,Dinner,Chapati,Rainy,No,146
+Friday,Snacks,Noodles,Cloudy,Exam,95
+Tuesday,Snacks,Sandwich,Rainy,Festival,231
+Sunday,Lunch,Biryani,Sunny,Holiday,281
+Sunday,Breakfast,Sandwich,Rainy,No,102
+Friday,Snacks,Puff,Cloudy,Festival,189
+Thursday,Lunch,Chapati,Cloudy,Exam,81
+Monday,Dinner,Biryani,Sunny,Exam,174
+Friday,Dinner,Biryani,Cold,No,164
+Wednesday,Dinner,Biryani,Cloudy,Holiday,184
+Saturday,Snacks,Noodles,Rainy,Sports Meet,260
+Saturday,Snacks,Sandwich,Cloudy,Festival,158
+Friday,Snacks,Puff,Rainy,Festival,205
+Monday,Dinner,Noodles,Rainy,Sports Meet,203
+Thursday,Dinner,Biryani,Rainy,Holiday,118
+Friday,Snacks,Samosa,Rainy,No,232
+Friday,Breakfast,Sandwich,Cloudy,Holiday,163
+Tuesday,Lunch,Rice,Rainy,Sports Meet,189
+Monday,Breakfast,Sandwich,Cloudy,Holiday,169
+Friday,Lunch,Noodles,Sunny,Festival,242
+Wednesday,Snacks,Samosa,Sunny,Festival,238
+Thursday,Lunch,Chapati,Sunny,No,93
+Wednesday,Lunch,Chapati,Cold,No,103
+Saturday,Lunch,Biryani,Cloudy,No,205
+Saturday,Snacks,Sandwich,Sunny,Holiday,82
+Thursday,Snacks,Noodles,Rainy,Sports Meet,251
+Sunday,Dinner,Biryani,Cold,Sports Meet,280
+Friday,Snacks,Sandwich,Sunny,Sports Meet,207
+Monday,Dinner,Rice,Sunny,Festival,188
+Thursday,Breakfast,Idli,Rainy,Festival,152
+Thursday,Dinner,Rice,Cloudy,Festival,186
+Saturday,Dinner,Rice,Cold,Exam,64
+Tuesday,Lunch,Chapati,Cloudy,Holiday,121
+Wednesday,Snacks,Sandwich,Sunny,Sports Meet,165
+Tuesday,Snacks,Noodles,Rainy,Holiday,131
+Monday,Breakfast,Dosa,Cold,Sports Meet,147
+Friday,Dinner,Biryani,Rainy,No,175
+Saturday,Snacks,Sandwich,Rainy,No,193
+Sunday,Snacks,Noodles,Rainy,Holiday,144
+Thursday,Dinner,Biryani,Rainy,Sports Meet,266
+Tuesday,Lunch,Noodles,Cold,Festival,168
+Saturday,Breakfast,Sandwich,Cold,No,115
+Wednesday,Dinner,Noodles,Cloudy,Festival,211
+Friday,Dinner,Chapati,Cloudy,Exam,89
+Friday,Snacks,Samosa,Rainy,Exam,163
+Friday,Dinner,Chapati,Rainy,Festival,149
+Tuesday,Lunch,Noodles,Cold,Sports Meet,202
+Saturday,Breakfast,Dosa,Cold,No,73
+Tuesday,Breakfast,Sandwich,Rainy,Festival,136
+Wednesday,Lunch,Rice,Rainy,Holiday,156
+Saturday,Lunch,Noodles,Cold,Exam,86
+Monday,Snacks,Sandwich,Cold,Festival,226
+Thursday,Breakfast,Idli,Cold,Sports Meet,172
+Friday,Breakfast,Dosa,Cloudy,Sports Meet,206
+Tuesday,Lunch,Rice,Sunny,Festival,169
+Monday,Dinner,Noodles,Rainy,Exam,46
+Saturday,Breakfast,Sandwich,Cloudy,No,144
+Monday,Lunch,Biryani,Cloudy,Exam,144
+Wednesday,Breakfast,Sandwich,Cold,Exam,45
+Friday,Snacks,Sandwich,Rainy,Festival,263
+Saturday,Lunch,Chapati,Cloudy,Festival,197
+Saturday,Dinner,Chapati,Sunny,No,162
+Sunday,Snacks,Noodles,Rainy,No,139
+Monday,Dinner,Biryani,Rainy,No,173
+Wednesday,Breakfast,Dosa,Cold,Holiday,172
+Friday,Snacks,Samosa,Sunny,Holiday,152
+Monday,Lunch,Biryani,Cloudy,Festival,265
+Saturday,Dinner,Chapati,Sunny,Exam,103
+Tuesday,Breakfast,Idli,Cloudy,Exam,99
+Saturday,Snacks,Puff,Sunny,Festival,192
+Saturday,Dinner,Noodles,Cold,Holiday,136
+Wednesday,Snacks,Noodles,Cold,No,170
+Tuesday,Snacks,Puff,Rainy,Holiday,85
+Monday,Lunch,Biryani,Cold,Festival,219
+Wednesday,Snacks,Samosa,Cloudy,No,186
+Saturday,Snacks,Sandwich,Cloudy,Sports Meet,204
+Saturday,Dinner,Biryani,Cold,Exam,171
+Saturday,Dinner,Biryani,Sunny,No,230
+Monday,Dinner,Chapati,Rainy,Festival,185
+Wednesday,Lunch,Rice,Cold,Exam,101
+Thursday,Breakfast,Dosa,Sunny,No,125
+Thursday,Breakfast,Dosa,Cold,Festival,204
+Thursday,Dinner,Chapati,Cloudy,Festival,178
+Sunday,Breakfast,Dosa,Sunny,Festival,215
+Thursday,Breakfast,Idli,Cold,No,124
+Monday,Lunch,Rice,Sunny,Exam,137
+Sunday,Lunch,Chapati,Rainy,No,115
+Thursday,Snacks,Noodles,Sunny,Holiday,107
+Thursday,Breakfast,Dosa,Cloudy,Sports Meet,201
+Saturday,Breakfast,Sandwich,Cloudy,Festival,208
+Thursday,Snacks,Noodles,Cold,No,145
+Sunday,Snacks,Noodles,Cold,No,176
+Thursday,Snacks,Puff,Rainy,Holiday,95
+Wednesday,Lunch,Rice,Sunny,No,127
+Tuesday,Dinner,Rice,Rainy,Festival,182
+Sunday,Lunch,Chapati,Sunny,No,137
+Friday,Breakfast,Dosa,Cloudy,Sports Meet,168
+Monday,Lunch,Biryani,Cloudy,Exam,156
+Saturday,Lunch,Rice,Sunny,Sports Meet,221
+Sunday,Dinner,Rice,Cloudy,Festival,211
+Sunday,Dinner,Noodles,Cold,No,165
+Monday,Snacks,Samosa,Cold,Sports Meet,273
+Friday,Snacks,Samosa,Cloudy,Exam,120
+Tuesday,Dinner,Noodles,Cloudy,Holiday,78
+Friday,Breakfast,Idli,Cold,Festival,209
+Thursday,Lunch,Biryani,Cold,Festival,226
+Tuesday,Dinner,Rice,Cold,Exam,55
+Thursday,Snacks,Sandwich,Cold,No,167
+Sunday,Breakfast,Dosa,Sunny,No,117
+Sunday,Dinner,Noodles,Cold,No,155
+Monday,Dinner,Noodles,Cold,No,88
+Wednesday,Snacks,Samosa,Rainy,Sports Meet,335
+Saturday,Snacks,Noodles,Cold,Exam,136
+Monday,Snacks,Sandwich,Cold,Sports Meet,216
+Tuesday,Snacks,Puff,Cloudy,Festival,207
+Saturday,Breakfast,Idli,Sunny,Sports Meet,204
+Saturday,Dinner,Rice,Rainy,Exam,120
+Tuesday,Snacks,Sandwich,Cold,Exam,159
+Wednesday,Breakfast,Idli,Cold,Sports Meet,146
+Saturday,Lunch,Biryani,Cold,Holiday,206
+Sunday,Snacks,Samosa,Cold,Festival,295
+Sunday,Breakfast,Idli,Cloudy,No,106
+Saturday,Lunch,Rice,Sunny,Exam,114
+Friday,Snacks,Samosa,Cold,Exam,162
+Tuesday,Snacks,Puff,Cloudy,Sports Meet,202
+Wednesday,Dinner,Rice,Cold,Exam,82
+Thursday,Dinner,Noodles,Rainy,Exam,80

@@ -1,0 +1,901 @@
+day,meal,item,weather,event,actual_demand,predicted_demand,absolute_error
+Friday,Dinner,Noodles,Cold,No,86,113.96,27.96
+Friday,Dinner,Chapati,Sunny,Holiday,83,90.56,7.56
+Thursday,Lunch,Noodles,Rainy,Exam,47,91.22,44.22
+Friday,Lunch,Noodles,Rainy,No,128,109.87,18.13
+Sunday,Lunch,Rice,Cold,No,103,115.6,12.6
+Wednesday,Snacks,Puff,Cloudy,No,109,108.67,0.33
+Tuesday,Dinner,Noodles,Sunny,Holiday,108,111.22,3.22
+Wednesday,Dinner,Noodles,Rainy,Exam,75,78.43,3.43
+Thursday,Snacks,Puff,Cold,Sports Meet,254,223.65,30.35
+Tuesday,Lunch,Rice,Cloudy,Festival,178,211.86,33.86
+Tuesday,Dinner,Biryani,Cold,Holiday,136,140.87,4.87
+Sunday,Dinner,Rice,Cold,Exam,102,84.01,17.99
+Thursday,Lunch,Chapati,Rainy,Festival,146,161.72,15.72
+Friday,Dinner,Chapati,Cold,No,92,85.07,6.93
+Wednesday,Dinner,Noodles,Cold,Sports Meet,227,182.24,44.76
+Monday,Lunch,Biryani,Cloudy,No,193,199.1,6.1
+Saturday,Dinner,Noodles,Sunny,Sports Meet,274,247.74,26.26
+Monday,Dinner,Noodles,Sunny,Exam,114,92.62,21.38
+Sunday,Breakfast,Dosa,Rainy,Sports Meet,169,183.68,14.68
+Wednesday,Breakfast,Sandwich,Cold,Exam,92,66.77,25.23
+Tuesday,Breakfast,Dosa,Cloudy,Holiday,179,170.66,8.34
+Thursday,Lunch,Biryani,Cloudy,Festival,279,243.26,35.74
+Wednesday,Snacks,Samosa,Cold,Holiday,185,172.36,12.64
+Thursday,Lunch,Biryani,Cold,Holiday,205,184.61,20.39
+Friday,Lunch,Biryani,Cold,Exam,117,115.1,1.9
+Wednesday,Lunch,Chapati,Cold,No,103,104.48,1.48
+Thursday,Breakfast,Sandwich,Rainy,Holiday,141,136.31,4.69
+Saturday,Snacks,Puff,Sunny,Holiday,92,88.2,3.8
+Wednesday,Breakfast,Sandwich,Rainy,Festival,174,180.2,6.2
+Thursday,Breakfast,Dosa,Cold,Exam,79,82.76,3.76
+Sunday,Breakfast,Dosa,Rainy,Festival,143,178.07,35.07
+Monday,Lunch,Rice,Cold,Holiday,139,156.91,17.91
+Tuesday,Lunch,Noodles,Cloudy,Festival,225,212.98,12.02
+Tuesday,Lunch,Biryani,Rainy,Exam,151,115.19,35.81
+Monday,Snacks,Samosa,Rainy,Exam,198,196.07,1.93
+Friday,Lunch,Chapati,Rainy,Sports Meet,175,159.23,15.77
+Wednesday,Breakfast,Dosa,Rainy,Holiday,125,148.77,23.77
+Wednesday,Lunch,Rice,Rainy,Festival,223,177.27,45.73
+Sunday,Dinner,Noodles,Sunny,No,197,156.38,40.62
+Wednesday,Snacks,Noodles,Sunny,No,146,130.88,15.12
+Friday,Lunch,Chapati,Cloudy,Holiday,133,138.7,5.7
+Monday,Snacks,Puff,Cloudy,Exam,58,83.92,25.92
+Tuesday,Breakfast,Idli,Cloudy,Sports Meet,200,210.45,10.45
+Friday,Snacks,Noodles,Cold,No,181,174.18,6.82
+Sunday,Snacks,Puff,Sunny,Festival,209,197.54,11.46
+Sunday,Snacks,Sandwich,Sunny,Sports Meet,207,198.03,8.97
+Friday,Snacks,Samosa,Cloudy,Festival,255,251.04,3.96
+Wednesday,Dinner,Noodles,Rainy,No,127,103.49,23.51
+Thursday,Lunch,Chapati,Cold,Exam,65,78.84,13.84
+Wednesday,Snacks,Puff,Rainy,Holiday,100,110.57,10.57
+Monday,Lunch,Chapati,Cloudy,Exam,76,79.98,3.98
+Tuesday,Snacks,Noodles,Sunny,Festival,183,203.55,20.55
+Thursday,Snacks,Noodles,Sunny,Festival,218,202.96,15.04
+Monday,Snacks,Samosa,Cloudy,No,185,186.36,1.36
+Tuesday,Snacks,Noodles,Rainy,Holiday,129,134.14,5.14
+Monday,Dinner,Rice,Sunny,Festival,188,217.01,29.01
+Friday,Lunch,Rice,Rainy,Exam,73,80.2,7.2
+Friday,Lunch,Biryani,Cloudy,Sports Meet,271,256.03,14.97
+Tuesday,Lunch,Rice,Cloudy,Sports Meet,231,201.27,29.73
+Wednesday,Lunch,Biryani,Rainy,Exam,144,115.42,28.58
+Saturday,Snacks,Sandwich,Rainy,Festival,214,252.15,38.15
+Tuesday,Snacks,Noodles,Sunny,Festival,189,203.55,14.55
+Wednesday,Snacks,Sandwich,Rainy,Festival,222,249.1,27.1
+Thursday,Dinner,Biryani,Cloudy,Holiday,116,147.3,31.3
+Monday,Lunch,Rice,Cloudy,No,114,128.17,14.17
+Sunday,Dinner,Biryani,Cloudy,Festival,335,274.74,60.26
+Thursday,Breakfast,Dosa,Rainy,Exam,67,77.39,10.39
+Sunday,Snacks,Noodles,Sunny,Festival,197,212.62,15.62
+Sunday,Snacks,Puff,Rainy,Sports Meet,229,197.44,31.56
+Wednesday,Snacks,Samosa,Cold,Exam,196,189.83,6.17
+Wednesday,Lunch,Chapati,Sunny,Festival,166,177.54,11.54
+Sunday,Breakfast,Dosa,Rainy,No,115,110.24,4.76
+Monday,Dinner,Chapati,Cold,Sports Meet,155,151.01,3.99
+Saturday,Breakfast,Idli,Sunny,Holiday,152,172.27,20.27
+Wednesday,Snacks,Noodles,Sunny,Festival,189,201.13,12.13
+Saturday,Breakfast,Idli,Sunny,No,151,143.23,7.77
+Sunday,Breakfast,Idli,Cloudy,Sports Meet,211,198.16,12.84
+Sunday,Lunch,Biryani,Rainy,Festival,230,258.58,28.58
+Friday,Dinner,Chapati,Cloudy,Holiday,103,69.02,33.98
+Wednesday,Snacks,Sandwich,Sunny,Festival,235,212.32,22.68
+Sunday,Breakfast,Idli,Cloudy,Festival,163,209.06,46.06
+Friday,Snacks,Noodles,Rainy,Festival,252,229.12,22.88
+Monday,Lunch,Noodles,Rainy,Exam,39,75.64,36.64
+Monday,Snacks,Sandwich,Sunny,Holiday,108,93.96,14.04
+Thursday,Lunch,Chapati,Cloudy,Exam,64,84.53,20.53
+Friday,Snacks,Samosa,Cold,Exam,175,188.25,13.25
+Tuesday,Dinner,Chapati,Sunny,No,106,120.46,14.46
+Sunday,Snacks,Noodles,Sunny,Holiday,90,102.93,12.93
+Thursday,Dinner,Chapati,Cold,Sports Meet,176,151.45,24.55
+Friday,Dinner,Biryani,Cold,No,164,151.38,12.62
+Sunday,Lunch,Noodles,Rainy,Holiday,149,170.23,21.23
+Monday,Breakfast,Sandwich,Cloudy,Sports Meet,219,197.23,21.77
+Saturday,Dinner,Noodles,Rainy,Sports Meet,251,219.6,31.4
+Sunday,Dinner,Chapati,Sunny,No,169,130.32,38.68
+Saturday,Lunch,Noodles,Rainy,Sports Meet,212,209.25,2.75
+Monday,Breakfast,Idli,Sunny,Sports Meet,232,216.06,15.94
+Tuesday,Breakfast,Idli,Rainy,Festival,197,168.14,28.86
+Thursday,Snacks,Puff,Cloudy,Holiday,98,81.48,16.52
+Sunday,Dinner,Noodles,Cloudy,Exam,103,110.92,7.92
+Thursday,Dinner,Chapati,Cold,No,69,83.29,14.29
+Monday,Dinner,Rice,Cold,Sports Meet,143,186.1,43.1
+Monday,Breakfast,Sandwich,Cold,No,95,109.41,14.41
+Friday,Dinner,Chapati,Sunny,Festival,199,165.37,33.63
+Monday,Dinner,Noodles,Cloudy,Festival,198,210.38,12.38
+Thursday,Dinner,Rice,Sunny,Holiday,107,101.06,5.94
+Thursday,Lunch,Noodles,Sunny,Exam,133,89.93,43.07
+Saturday,Snacks,Noodles,Rainy,Exam,153,122.38,30.62
+Monday,Dinner,Chapati,Rainy,Sports Meet,177,159.55,17.45
+Friday,Snacks,Noodles,Cloudy,Festival,216,196.55,19.45
+Monday,Dinner,Biryani,Cloudy,Holiday,113,132.6,19.6
+Monday,Snacks,Sandwich,Cold,Sports Meet,216,238.76,22.76
+Tuesday,Breakfast,Sandwich,Rainy,Sports Meet,156,163.77,7.77
+Friday,Dinner,Biryani,Rainy,No,175,168.0,7.0
+Thursday,Breakfast,Idli,Rainy,Exam,91,82.41,8.59
+Friday,Lunch,Rice,Cold,Holiday,170,155.28,14.72
+Friday,Breakfast,Dosa,Sunny,Festival,243,214.96,28.04
+Thursday,Breakfast,Sandwich,Cloudy,Sports Meet,192,212.36,20.36
+Wednesday,Breakfast,Dosa,Sunny,Holiday,153,180.02,27.02
+Monday,Snacks,Sandwich,Cloudy,Exam,99,103.25,4.25
+Friday,Snacks,Noodles,Sunny,No,131,139.58,8.58
+Tuesday,Dinner,Rice,Rainy,Festival,182,181.28,0.72
+Wednesday,Dinner,Biryani,Cold,Festival,291,243.72,47.28
+Tuesday,Snacks,Puff,Cold,Exam,124,108.55,15.45
+Monday,Lunch,Rice,Rainy,Sports Meet,146,179.53,33.53
+Monday,Dinner,Rice,Cloudy,Exam,72,101.48,29.48
+Tuesday,Dinner,Noodles,Sunny,No,137,153.4,16.4
+Sunday,Snacks,Samosa,Cloudy,Festival,220,248.91,28.91
+Tuesday,Dinner,Rice,Rainy,Exam,64,64.7,0.7
+Monday,Snacks,Sandwich,Rainy,Festival,240,251.37,11.37
+Tuesday,Snacks,Samosa,Rainy,Holiday,170,161.38,8.62
+Tuesday,Snacks,Sandwich,Sunny,Exam,84,96.45,12.45
+Saturday,Breakfast,Dosa,Rainy,Holiday,177,142.13,34.87
+Tuesday,Lunch,Rice,Cold,Holiday,105,156.91,51.91
+Friday,Snacks,Puff,Cloudy,Holiday,75,72.52,2.48
+Wednesday,Lunch,Rice,Sunny,Holiday,174,171.65,2.35
+Wednesday,Breakfast,Idli,Sunny,Holiday,171,172.24,1.24
+Tuesday,Snacks,Noodles,Cloudy,Sports Meet,196,197.52,1.52
+Monday,Lunch,Chapati,Rainy,Festival,123,160.85,37.85
+Saturday,Lunch,Chapati,Cold,Festival,211,171.65,39.35
+Tuesday,Dinner,Biryani,Rainy,Sports Meet,250,230.4,19.6
+Friday,Dinner,Chapati,Cloudy,Holiday,80,69.02,10.98
+Wednesday,Snacks,Noodles,Sunny,Exam,79,89.42,10.42
+Tuesday,Breakfast,Dosa,Cloudy,Exam,98,104.34,6.34
+Thursday,Snacks,Samosa,Cold,Holiday,176,172.48,3.52
+Saturday,Lunch,Rice,Cold,Holiday,206,154.75,51.25
+Monday,Dinner,Chapati,Sunny,Exam,109,94.33,14.67
+Thursday,Breakfast,Dosa,Rainy,No,108,111.3,3.3
+Tuesday,Breakfast,Sandwich,Sunny,No,152,128.77,23.23
+Saturday,Lunch,Biryani,Sunny,Holiday,232,255.12,23.12
+Friday,Breakfast,Idli,Rainy,Holiday,112,159.41,47.41
+Saturday,Snacks,Sandwich,Rainy,Festival,261,252.15,8.85
+Saturday,Dinner,Chapati,Sunny,No,162,170.9,8.9
+Friday,Dinner,Noodles,Cold,Exam,49,74.74,25.74
+Wednesday,Dinner,Noodles,Rainy,No,77,103.49,26.49
+Sunday,Breakfast,Dosa,Sunny,Festival,215,210.76,4.24
+Friday,Lunch,Noodles,Sunny,Sports Meet,190,217.71,27.71
+Monday,Lunch,Rice,Rainy,Exam,100,85.41,14.59
+Monday,Dinner,Noodles,Sunny,Festival,226,215.65,10.35
+Sunday,Breakfast,Dosa,Cold,Holiday,112,151.95,39.95
+Friday,Breakfast,Dosa,Cold,Festival,202,188.23,13.77
+Sunday,Snacks,Noodles,Cloudy,Sports Meet,209,194.37,14.63
+Tuesday,Dinner,Rice,Rainy,Holiday,36,74.26,38.26
+Wednesday,Dinner,Rice,Rainy,No,89,112.95,23.95
+Sunday,Breakfast,Dosa,Cold,Exam,89,78.27,10.73
+Wednesday,Breakfast,Sandwich,Rainy,Sports Meet,168,192.21,24.21
+Friday,Snacks,Samosa,Rainy,Holiday,192,171.88,20.12
+Monday,Breakfast,Idli,Cold,Exam,117,72.35,44.65
+Wednesday,Dinner,Rice,Rainy,Exam,61,80.83,19.83
+Saturday,Snacks,Sandwich,Rainy,Exam,147,132.14,14.86
+Friday,Snacks,Samosa,Sunny,Exam,122,178.0,56.0
+Sunday,Dinner,Chapati,Rainy,No,146,113.95,32.05
+Tuesday,Breakfast,Dosa,Cloudy,Holiday,188,170.66,17.34
+Monday,Breakfast,Idli,Cloudy,Exam,85,87.0,2.0
+Tuesday,Snacks,Puff,Cold,Festival,222,220.14,1.86
+Sunday,Dinner,Rice,Cold,Festival,242,199.24,42.76
+Thursday,Snacks,Puff,Sunny,Sports Meet,186,180.64,5.36
+Sunday,Breakfast,Idli,Cold,Exam,119,67.63,51.37
+Thursday,Dinner,Biryani,Cloudy,Exam,164,158.49,5.51
+Thursday,Dinner,Noodles,Cold,Exam,97,88.92,8.08
+Thursday,Lunch,Chapati,Rainy,Holiday,116,121.94,5.94
+Tuesday,Dinner,Biryani,Cold,No,180,149.83,30.17
+Friday,Breakfast,Dosa,Cold,Festival,168,188.23,20.23
+Saturday,Breakfast,Dosa,Sunny,Holiday,160,182.44,22.44
+Tuesday,Snacks,Samosa,Cold,Exam,171,191.55,20.55
+Sunday,Dinner,Noodles,Sunny,Festival,242,263.28,21.28
+Friday,Dinner,Chapati,Cloudy,Exam,57,82.96,25.96
+Tuesday,Lunch,Chapati,Cloudy,Sports Meet,188,184.29,3.71
+Saturday,Dinner,Noodles,Rainy,Festival,235,222.82,12.18
+Saturday,Snacks,Puff,Sunny,Holiday,87,88.2,1.2
+Wednesday,Lunch,Rice,Cold,No,136,111.64,24.36
+Monday,Lunch,Rice,Rainy,Festival,163,177.85,14.85
+Friday,Dinner,Noodles,Sunny,No,143,153.1,10.1
+Friday,Breakfast,Dosa,Cloudy,Holiday,147,163.51,16.51
+Friday,Snacks,Puff,Rainy,Sports Meet,219,211.77,7.23
+Monday,Dinner,Noodles,Cloudy,Exam,98,97.34,0.66
+Tuesday,Dinner,Biryani,Sunny,Holiday,151,170.27,19.27
+Friday,Dinner,Chapati,Rainy,No,89,84.96,4.04
+Thursday,Dinner,Noodles,Rainy,Exam,80,86.51,6.51
+Thursday,Lunch,Noodles,Rainy,Sports Meet,176,174.9,1.1
+Saturday,Breakfast,Idli,Rainy,Festival,235,175.68,59.32
+Monday,Breakfast,Dosa,Cloudy,Sports Meet,157,189.2,32.2
+Sunday,Snacks,Puff,Sunny,Holiday,73,90.65,17.65
+Saturday,Lunch,Noodles,Cold,Exam,93,88.43,4.57
+Wednesday,Dinner,Chapati,Cloudy,Sports Meet,203,183.14,19.86
+Wednesday,Dinner,Chapati,Cloudy,Exam,102,77.21,24.79
+Monday,Breakfast,Idli,Sunny,Exam,142,103.39,38.61
+Tuesday,Breakfast,Dosa,Sunny,Festival,238,200.05,37.95
+Friday,Breakfast,Dosa,Sunny,Festival,209,214.96,5.96
+Thursday,Breakfast,Sandwich,Cold,Festival,158,179.8,21.8
+Saturday,Snacks,Noodles,Cold,Festival,229,218.19,10.81
+Sunday,Lunch,Biryani,Cloudy,Sports Meet,290,267.82,22.18
+Monday,Dinner,Chapati,Rainy,No,54,90.63,36.63
+Friday,Breakfast,Idli,Cloudy,No,148,118.9,29.1
+Monday,Snacks,Puff,Cold,Festival,182,215.47,33.47
+Tuesday,Breakfast,Dosa,Cloudy,Holiday,147,170.66,23.66
+Thursday,Dinner,Noodles,Cloudy,Sports Meet,213,211.46,1.54
+Sunday,Dinner,Biryani,Rainy,Exam,138,133.54,4.46
+Friday,Snacks,Sandwich,Cold,No,172,166.39,5.61
+Monday,Dinner,Noodles,Cold,Sports Meet,175,180.5,5.5
+Wednesday,Breakfast,Idli,Cold,Holiday,165,136.39,28.61
+Friday,Snacks,Puff,Cold,Sports Meet,172,225.12,53.12
+Wednesday,Dinner,Chapati,Cloudy,Festival,180,181.66,1.66
+Tuesday,Breakfast,Dosa,Cloudy,Festival,174,205.61,31.61
+Wednesday,Breakfast,Idli,Cold,Sports Meet,146,172.97,26.97
+Thursday,Dinner,Rice,Rainy,Holiday,74,64.52,9.48
+Monday,Snacks,Noodles,Cold,No,146,168.46,22.46
+Sunday,Breakfast,Sandwich,Cloudy,Sports Meet,226,201.35,24.65
+Sunday,Lunch,Rice,Cold,Exam,87,78.02,8.98
+Monday,Lunch,Noodles,Cold,Sports Meet,203,185.88,17.12
+Sunday,Lunch,Biryani,Sunny,Exam,185,192.07,7.07
+Friday,Dinner,Chapati,Sunny,Exam,120,81.81,38.19
+Thursday,Lunch,Chapati,Cloudy,Festival,171,175.49,4.49
+Sunday,Breakfast,Idli,Cloudy,Sports Meet,209,198.16,10.84
+Tuesday,Breakfast,Dosa,Cloudy,Holiday,153,170.66,17.66
+Friday,Dinner,Noodles,Rainy,No,126,109.82,16.18
+Monday,Lunch,Chapati,Sunny,Festival,167,185.52,18.52
+Friday,Dinner,Rice,Cloudy,Festival,206,203.83,2.17
+Saturday,Lunch,Chapati,Sunny,Festival,206,186.61,19.39
+Tuesday,Breakfast,Dosa,Cold,Exam,91,79.72,11.28
+Sunday,Lunch,Chapati,Sunny,Festival,221,221.44,0.44
+Tuesday,Lunch,Biryani,Cold,Sports Meet,239,214.77,24.23
+Friday,Breakfast,Dosa,Rainy,Sports Meet,181,198.76,17.76
+Sunday,Lunch,Rice,Cold,Holiday,179,157.48,21.52
+Wednesday,Dinner,Biryani,Sunny,Holiday,153,170.25,17.25
+Friday,Breakfast,Idli,Sunny,Sports Meet,198,194.49,3.51
+Sunday,Breakfast,Sandwich,Cloudy,Sports Meet,156,201.35,45.35
+Sunday,Dinner,Chapati,Cloudy,No,119,125.41,6.41
+Monday,Breakfast,Sandwich,Sunny,Festival,201,228.71,27.71
+Friday,Snacks,Samosa,Cloudy,Festival,258,251.04,6.96
+Thursday,Snacks,Sandwich,Sunny,Sports Meet,210,199.85,10.15
+Tuesday,Snacks,Samosa,Cloudy,Exam,130,137.94,7.94
+Monday,Dinner,Noodles,Cold,Sports Meet,136,180.5,44.5
+Thursday,Snacks,Sandwich,Cloudy,Festival,192,208.66,16.66
+Wednesday,Dinner,Biryani,Cloudy,Festival,197,263.5,66.5
+Saturday,Snacks,Puff,Cloudy,Sports Meet,181,189.0,8.0
+Tuesday,Breakfast,Dosa,Rainy,Sports Meet,172,189.77,17.77
+Sunday,Lunch,Rice,Cold,Festival,202,202.85,0.85
+Thursday,Snacks,Noodles,Rainy,Sports Meet,251,227.3,23.7
+Monday,Lunch,Noodles,Cloudy,No,134,129.63,4.37
+Monday,Dinner,Biryani,Cold,Holiday,99,128.24,29.24
+Friday,Lunch,Noodles,Rainy,Festival,197,176.06,20.94
+Friday,Breakfast,Sandwich,Sunny,Exam,105,97.82,7.18
+Saturday,Snacks,Noodles,Cloudy,No,127,123.7,3.3
+Monday,Snacks,Noodles,Cloudy,No,124,127.61,3.61
+Tuesday,Lunch,Biryani,Cloudy,No,174,200.29,26.29
+Friday,Snacks,Puff,Cloudy,Exam,36,80.0,44.0
+Monday,Breakfast,Dosa,Rainy,Festival,200,186.37,13.63
+Friday,Breakfast,Sandwich,Sunny,Sports Meet,252,195.75,56.25
+Tuesday,Breakfast,Sandwich,Rainy,Sports Meet,177,163.77,13.23
+Monday,Dinner,Rice,Sunny,Sports Meet,196,228.36,32.36
+Saturday,Snacks,Noodles,Cold,Sports Meet,242,226.3,15.7
+Thursday,Snacks,Sandwich,Rainy,Holiday,144,123.3,20.7
+Tuesday,Snacks,Noodles,Rainy,Holiday,137,134.14,2.86
+Wednesday,Breakfast,Idli,Cloudy,Sports Meet,247,206.3,40.7
+Thursday,Lunch,Noodles,Cold,Sports Meet,194,184.21,9.79
+Sunday,Lunch,Noodles,Rainy,No,125,134.14,9.14
+Tuesday,Lunch,Rice,Sunny,Festival,169,199.52,30.52
+Sunday,Snacks,Puff,Sunny,Festival,166,197.54,31.54
+Friday,Breakfast,Idli,Rainy,No,109,90.29,18.71
+Saturday,Dinner,Rice,Cold,No,165,141.11,23.89
+Wednesday,Breakfast,Dosa,Cloudy,Holiday,168,149.69,18.31
+Saturday,Snacks,Noodles,Cloudy,Exam,86,91.18,5.18
+Wednesday,Dinner,Chapati,Rainy,No,87,91.33,4.33
+Wednesday,Breakfast,Sandwich,Rainy,Holiday,129,137.16,8.16
+Friday,Dinner,Biryani,Sunny,Exam,185,162.2,22.8
+Tuesday,Breakfast,Sandwich,Rainy,No,99,104.3,5.3
+Thursday,Breakfast,Dosa,Cold,No,114,100.71,13.29
+Tuesday,Lunch,Rice,Rainy,Sports Meet,189,195.43,6.43
+Wednesday,Breakfast,Idli,Cloudy,No,119,116.61,2.39
+Saturday,Snacks,Noodles,Cloudy,Exam,61,91.18,30.18
+Wednesday,Breakfast,Idli,Sunny,Festival,210,196.56,13.44
+Tuesday,Breakfast,Sandwich,Sunny,Festival,220,202.33,17.67
+Wednesday,Lunch,Rice,Rainy,Holiday,144,143.3,0.7
+Wednesday,Dinner,Biryani,Cold,Festival,224,243.72,19.72
+Sunday,Dinner,Rice,Rainy,No,135,128.63,6.37
+Tuesday,Snacks,Sandwich,Sunny,Holiday,107,94.57,12.43
+Tuesday,Lunch,Chapati,Rainy,Sports Meet,199,152.59,46.41
+Saturday,Snacks,Samosa,Rainy,Sports Meet,308,307.51,0.49
+Saturday,Snacks,Puff,Sunny,Exam,90,79.68,10.32
+Tuesday,Breakfast,Sandwich,Cold,Sports Meet,200,169.86,30.14
+Tuesday,Breakfast,Dosa,Rainy,Holiday,159,150.47,8.53
+Thursday,Breakfast,Sandwich,Cloudy,Exam,97,100.02,3.02
+Wednesday,Dinner,Rice,Cloudy,Holiday,101,69.33,31.67
+Wednesday,Breakfast,Sandwich,Cloudy,Festival,199,191.05,7.95
+Wednesday,Snacks,Noodles,Cloudy,Sports Meet,196,197.84,1.84
+Wednesday,Snacks,Samosa,Cloudy,Holiday,109,154.28,45.28
+Saturday,Snacks,Puff,Cold,No,164,140.54,23.46
+Sunday,Breakfast,Dosa,Cold,Sports Meet,140,180.72,40.72
+Tuesday,Dinner,Biryani,Cold,Exam,94,132.2,38.2
+Friday,Lunch,Chapati,Cloudy,Holiday,165,138.7,26.3
+Tuesday,Snacks,Sandwich,Rainy,Sports Meet,251,229.95,21.05
+Friday,Breakfast,Idli,Sunny,No,167,129.25,37.75
+Monday,Snacks,Sandwich,Cloudy,No,104,134.56,30.56
+Tuesday,Snacks,Puff,Cloudy,No,101,115.48,14.48
+Sunday,Breakfast,Dosa,Sunny,No,146,137.7,8.3
+Thursday,Dinner,Noodles,Sunny,Festival,237,219.74,17.26
+Saturday,Breakfast,Dosa,Cold,Festival,185,177.84,7.16
+Monday,Lunch,Rice,Sunny,Exam,137,103.92,33.08
+Monday,Lunch,Rice,Sunny,No,129,128.99,0.01
+Saturday,Breakfast,Sandwich,Rainy,Exam,96,92.52,3.48
+Monday,Breakfast,Sandwich,Cloudy,Exam,68,101.6,33.6
+Monday,Snacks,Noodles,Sunny,Festival,213,204.35,8.65
+Friday,Breakfast,Idli,Cloudy,Festival,187,207.57,20.57
+Saturday,Breakfast,Sandwich,Sunny,Festival,212,228.7,16.7
+Saturday,Breakfast,Idli,Cloudy,Holiday,170,174.33,4.33
+Wednesday,Dinner,Rice,Cloudy,Sports Meet,221,206.89,14.11
+Saturday,Dinner,Chapati,Rainy,Exam,107,83.49,23.51
+Friday,Breakfast,Dosa,Cold,No,122,90.2,31.8
+Wednesday,Breakfast,Idli,Cloudy,Sports Meet,196,206.3,10.3
+Saturday,Dinner,Biryani,Rainy,No,197,183.12,13.88
+Thursday,Breakfast,Idli,Cloudy,Festival,181,201.53,20.53
+Monday,Breakfast,Sandwich,Rainy,Exam,64,69.6,5.6
+Friday,Lunch,Biryani,Rainy,Holiday,233,196.92,36.08
+Tuesday,Snacks,Samosa,Cold,No,210,229.33,19.33
+Sunday,Dinner,Chapati,Rainy,No,123,113.95,9.05
+Wednesday,Breakfast,Sandwich,Cloudy,Sports Meet,182,214.69,32.69
+Thursday,Dinner,Noodles,Cold,Exam,83,88.92,5.92
+Tuesday,Lunch,Noodles,Cloudy,Exam,75,107.93,32.93
+Monday,Snacks,Sandwich,Cold,Festival,199,238.2,39.2
+Saturday,Breakfast,Sandwich,Cold,No,83,113.16,30.16
+Friday,Breakfast,Idli,Cold,Festival,188,194.55,6.55
+Sunday,Snacks,Noodles,Rainy,No,193,158.35,34.65
+Monday,Lunch,Chapati,Sunny,Festival,183,185.52,2.52
+Tuesday,Snacks,Noodles,Cloudy,Holiday,107,98.11,8.89
+Monday,Lunch,Chapati,Cloudy,Exam,74,79.98,5.98
+Wednesday,Snacks,Noodles,Cold,Exam,146,111.85,34.15
+Tuesday,Snacks,Sandwich,Cloudy,No,116,133.54,17.54
+Sunday,Snacks,Noodles,Sunny,Sports Meet,194,200.67,6.67
+Saturday,Snacks,Sandwich,Rainy,No,150,174.24,24.24
+Monday,Snacks,Puff,Cloudy,Festival,149,173.26,24.26
+Friday,Snacks,Puff,Cold,Exam,99,107.94,8.94
+Sunday,Breakfast,Dosa,Cold,No,98,105.61,7.61
+Wednesday,Lunch,Chapati,Sunny,Holiday,153,166.01,13.01
+Monday,Dinner,Rice,Rainy,Sports Meet,165,192.46,27.46
+Friday,Lunch,Noodles,Cold,No,133,110.74,22.26
+Friday,Lunch,Biryani,Cloudy,Exam,133,147.99,14.99
+Monday,Snacks,Samosa,Rainy,Sports Meet,283,290.83,7.83
+Tuesday,Dinner,Chapati,Sunny,Exam,57,108.88,51.88
+Thursday,Breakfast,Idli,Cold,No,124,100.25,23.75
+Monday,Snacks,Samosa,Cloudy,No,195,186.36,8.64
+Monday,Breakfast,Dosa,Cloudy,Festival,184,208.32,24.32
+Friday,Dinner,Biryani,Rainy,Holiday,156,119.2,36.8
+Thursday,Breakfast,Dosa,Rainy,Festival,176,175.7,0.3
+Friday,Breakfast,Dosa,Cold,No,95,90.2,4.8
+Friday,Snacks,Noodles,Cold,No,133,174.18,41.18
+Wednesday,Lunch,Rice,Cloudy,Festival,232,206.15,25.85
+Thursday,Dinner,Rice,Cloudy,Exam,94,94.41,0.41
+Friday,Breakfast,Sandwich,Cloudy,No,149,121.82,27.18
+Tuesday,Dinner,Noodles,Rainy,Exam,96,72.96,23.04
+Monday,Breakfast,Sandwich,Rainy,Holiday,123,156.11,33.11
+Sunday,Dinner,Noodles,Cold,Holiday,121,118.92,2.08
+Tuesday,Snacks,Sandwich,Cloudy,Exam,78,101.0,23.0
+Friday,Lunch,Chapati,Cold,No,92,91.47,0.53
+Thursday,Lunch,Biryani,Sunny,Holiday,238,252.12,14.12
+Saturday,Snacks,Samosa,Cloudy,No,172,173.68,1.68
+Tuesday,Lunch,Rice,Cloudy,Holiday,155,165.9,10.9
+Friday,Dinner,Rice,Cold,Exam,42,78.05,36.05
+Thursday,Breakfast,Dosa,Sunny,Exam,86,122.96,36.96
+Friday,Lunch,Biryani,Cloudy,Sports Meet,276,256.03,19.97
+Sunday,Lunch,Biryani,Rainy,No,177,187.0,10.0
+Thursday,Dinner,Chapati,Cloudy,Sports Meet,217,177.97,39.03
+Thursday,Breakfast,Sandwich,Cloudy,Exam,76,100.02,24.02
+Wednesday,Dinner,Noodles,Cloudy,Festival,208,206.07,1.93
+Saturday,Dinner,Chapati,Rainy,No,94,115.7,21.7
+Monday,Snacks,Samosa,Sunny,Exam,148,192.02,44.02
+Monday,Lunch,Rice,Rainy,Exam,59,85.41,26.41
+Friday,Dinner,Chapati,Rainy,Exam,95,52.42,42.58
+Wednesday,Dinner,Biryani,Cloudy,Sports Meet,228,260.24,32.24
+Tuesday,Breakfast,Sandwich,Cold,Holiday,136,147.49,11.49
+Saturday,Dinner,Rice,Sunny,Festival,233,231.75,1.25
+Friday,Breakfast,Sandwich,Cloudy,Festival,212,196.06,15.94
+Saturday,Breakfast,Sandwich,Cloudy,Holiday,142,166.13,24.13
+Wednesday,Breakfast,Idli,Rainy,Exam,83,81.76,1.24
+Sunday,Lunch,Biryani,Cloudy,Holiday,246,219.17,26.83
+Wednesday,Breakfast,Dosa,Rainy,No,87,103.78,16.78
+Tuesday,Snacks,Samosa,Sunny,Holiday,150,145.28,4.72
+Monday,Dinner,Noodles,Cloudy,Exam,111,97.34,13.66
+Thursday,Breakfast,Idli,Rainy,Sports Meet,159,163.41,4.41
+Tuesday,Snacks,Noodles,Rainy,Sports Meet,202,219.38,17.38
+Friday,Snacks,Samosa,Cold,Exam,162,188.25,26.25
+Wednesday,Breakfast,Sandwich,Rainy,No,110,100.24,9.76
+Sunday,Breakfast,Idli,Cloudy,No,106,121.6,15.6
+Thursday,Breakfast,Sandwich,Cloudy,Sports Meet,207,212.36,5.36
+Wednesday,Lunch,Noodles,Cloudy,No,135,126.18,8.82
+Saturday,Lunch,Biryani,Cloudy,Exam,149,182.26,33.26
+Friday,Breakfast,Sandwich,Cold,No,109,91.86,17.14
+Sunday,Lunch,Chapati,Sunny,Holiday,146,182.4,36.4
+Sunday,Snacks,Sandwich,Rainy,Festival,217,230.65,13.65
+Sunday,Lunch,Noodles,Sunny,Sports Meet,236,233.79,2.21
+Tuesday,Dinner,Noodles,Cold,Holiday,78,81.15,3.15
+Sunday,Snacks,Puff,Cold,Exam,118,102.89,15.11
+Saturday,Snacks,Noodles,Cloudy,Festival,247,186.2,60.8
+Wednesday,Breakfast,Sandwich,Cloudy,Exam,72,94.13,22.13
+Sunday,Snacks,Sandwich,Cold,Festival,243,224.56,18.44
+Monday,Breakfast,Idli,Rainy,No,107,101.4,5.6
+Saturday,Snacks,Puff,Cloudy,Festival,205,164.15,40.85
+Monday,Lunch,Rice,Cold,Exam,54,78.07,24.07
+Thursday,Lunch,Noodles,Sunny,No,159,149.17,9.83
+Tuesday,Snacks,Puff,Cloudy,Sports Meet,182,190.55,8.55
+Thursday,Breakfast,Sandwich,Cloudy,Sports Meet,210,212.36,2.36
+Tuesday,Lunch,Rice,Sunny,Holiday,178,186.66,8.66
+Tuesday,Dinner,Biryani,Rainy,Festival,249,233.08,15.92
+Sunday,Breakfast,Sandwich,Rainy,No,110,100.6,9.4
+Tuesday,Dinner,Rice,Sunny,Sports Meet,206,229.37,23.37
+Saturday,Lunch,Chapati,Sunny,No,145,144.66,0.34
+Tuesday,Breakfast,Sandwich,Cold,Exam,34,72.01,38.01
+Thursday,Lunch,Rice,Cold,Exam,61,92.46,31.46
+Friday,Breakfast,Sandwich,Sunny,Sports Meet,229,195.75,33.25
+Tuesday,Breakfast,Dosa,Sunny,Sports Meet,211,216.57,5.57
+Tuesday,Snacks,Sandwich,Cloudy,Exam,96,101.0,5.0
+Monday,Breakfast,Dosa,Sunny,Exam,88,116.55,28.55
+Tuesday,Snacks,Samosa,Sunny,No,163,181.41,18.41
+Friday,Dinner,Chapati,Cloudy,Exam,89,82.96,6.04
+Thursday,Breakfast,Idli,Rainy,No,111,104.57,6.43
+Thursday,Lunch,Noodles,Cloudy,Holiday,146,162.66,16.66
+Monday,Breakfast,Dosa,Cold,Sports Meet,159,179.45,20.45
+Sunday,Breakfast,Dosa,Cloudy,Sports Meet,188,184.78,3.22
+Monday,Dinner,Biryani,Cold,Festival,201,247.89,46.89
+Wednesday,Lunch,Biryani,Cold,No,145,184.33,39.33
+Friday,Breakfast,Dosa,Rainy,Holiday,147,148.54,1.54
+Saturday,Dinner,Noodles,Cloudy,Exam,125,102.93,22.07
+Wednesday,Snacks,Puff,Cloudy,Sports Meet,199,189.2,9.8
+Tuesday,Breakfast,Idli,Cold,Festival,180,189.71,9.71
+Monday,Dinner,Noodles,Cold,Exam,75,70.23,4.77
+Friday,Snacks,Noodles,Cold,Exam,87,117.43,30.43
+Wednesday,Lunch,Biryani,Sunny,Festival,311,266.84,44.16
+Thursday,Breakfast,Sandwich,Cloudy,Sports Meet,210,212.36,2.36
+Saturday,Snacks,Sandwich,Sunny,Holiday,82,95.44,13.44
+Saturday,Snacks,Puff,Sunny,Sports Meet,197,172.7,24.3
+Sunday,Breakfast,Dosa,Cloudy,No,131,125.56,5.44
+Sunday,Lunch,Chapati,Sunny,No,137,130.34,6.66
+Friday,Snacks,Sandwich,Sunny,Holiday,96,95.18,0.82
+Thursday,Dinner,Biryani,Rainy,Holiday,118,116.88,1.12
+Wednesday,Snacks,Sandwich,Cold,No,158,163.44,5.44
+Saturday,Lunch,Chapati,Cold,Sports Meet,202,173.94,28.06
+Tuesday,Lunch,Noodles,Cold,No,119,111.21,7.79
+Tuesday,Lunch,Chapati,Sunny,Exam,69,98.75,29.75
+Wednesday,Dinner,Rice,Cloudy,No,123,124.14,1.14
+Thursday,Lunch,Chapati,Cloudy,Exam,74,84.53,10.53
+Tuesday,Snacks,Sandwich,Cold,Sports Meet,245,257.96,12.96
+Thursday,Snacks,Puff,Cloudy,Holiday,62,81.48,19.48
+Monday,Dinner,Rice,Cloudy,Sports Meet,229,199.54,29.46
+Monday,Lunch,Chapati,Rainy,Sports Meet,169,157.33,11.67
+Sunday,Dinner,Biryani,Rainy,Sports Meet,330,282.77,47.23
+Sunday,Lunch,Rice,Rainy,Festival,225,184.99,40.01
+Saturday,Snacks,Sandwich,Rainy,Sports Meet,201,227.28,26.28
+Friday,Snacks,Puff,Rainy,Exam,141,102.84,38.16
+Sunday,Lunch,Noodles,Rainy,Exam,129,91.98,37.02
+Monday,Snacks,Noodles,Sunny,Festival,206,204.35,1.65
+Sunday,Lunch,Biryani,Cloudy,No,211,210.91,0.09
+Thursday,Dinner,Biryani,Cold,Exam,118,146.9,28.9
+Wednesday,Snacks,Samosa,Rainy,Holiday,190,169.93,20.07
+Sunday,Breakfast,Dosa,Cloudy,No,110,125.56,15.56
+Wednesday,Breakfast,Sandwich,Rainy,Holiday,147,137.16,9.84
+Saturday,Dinner,Noodles,Rainy,No,146,128.14,17.86
+Wednesday,Lunch,Chapati,Sunny,Festival,187,177.54,9.46
+Friday,Snacks,Noodles,Cloudy,Holiday,75,90.69,15.69
+Saturday,Snacks,Noodles,Rainy,Sports Meet,260,211.07,48.93
+Saturday,Snacks,Noodles,Rainy,Sports Meet,242,211.07,30.93
+Sunday,Breakfast,Dosa,Cold,Festival,166,184.11,18.11
+Wednesday,Lunch,Biryani,Rainy,Exam,170,115.42,54.58
+Thursday,Snacks,Puff,Rainy,Festival,207,204.74,2.26
+Monday,Snacks,Sandwich,Cloudy,Sports Meet,191,209.19,18.19
+Friday,Breakfast,Idli,Cold,No,121,89.19,31.81
+Sunday,Lunch,Biryani,Sunny,Exam,149,192.07,43.07
+Wednesday,Breakfast,Idli,Cold,Holiday,137,136.39,0.61
+Monday,Lunch,Chapati,Rainy,No,94,99.44,5.44
+Sunday,Snacks,Sandwich,Rainy,Holiday,160,130.96,29.04
+Tuesday,Snacks,Puff,Sunny,Holiday,112,88.08,23.92
+Monday,Lunch,Biryani,Cloudy,Exam,144,166.96,22.96
+Friday,Breakfast,Idli,Cold,No,134,89.19,44.81
+Wednesday,Snacks,Puff,Rainy,Sports Meet,211,207.3,3.7
+Saturday,Breakfast,Sandwich,Cloudy,No,144,137.41,6.59
+Saturday,Breakfast,Idli,Sunny,Sports Meet,204,228.55,24.55
+Saturday,Breakfast,Dosa,Cold,Exam,99,78.93,20.07
+Wednesday,Dinner,Noodles,Sunny,Holiday,129,115.15,13.85
+Tuesday,Dinner,Chapati,Cloudy,Exam,94,89.01,4.99
+Wednesday,Dinner,Biryani,Rainy,Sports Meet,213,227.82,14.82
+Tuesday,Dinner,Chapati,Cold,No,85,88.3,3.3
+Saturday,Dinner,Biryani,Rainy,Exam,160,139.39,20.61
+Monday,Dinner,Biryani,Cloudy,No,142,179.34,37.34
+Sunday,Breakfast,Idli,Cold,No,94,94.38,0.38
+Sunday,Dinner,Noodles,Rainy,No,139,139.7,0.7
+Wednesday,Breakfast,Dosa,Rainy,Holiday,126,148.77,22.77
+Sunday,Lunch,Chapati,Cold,No,128,111.77,16.23
+Tuesday,Snacks,Samosa,Cold,Holiday,164,167.8,3.8
+Friday,Lunch,Chapati,Sunny,Festival,205,176.95,28.05
+Tuesday,Lunch,Noodles,Sunny,Sports Meet,178,221.39,43.39
+Wednesday,Dinner,Noodles,Sunny,Sports Meet,168,215.04,47.04
+Tuesday,Breakfast,Idli,Cold,Holiday,136,136.13,0.13
+Tuesday,Dinner,Biryani,Cloudy,Exam,170,155.24,14.76
+Monday,Lunch,Noodles,Rainy,Festival,152,171.58,19.58
+Saturday,Snacks,Noodles,Rainy,Festival,290,218.76,71.24
+Tuesday,Lunch,Rice,Rainy,Holiday,124,150.95,26.95
+Monday,Dinner,Rice,Cold,Festival,127,184.99,57.99
+Friday,Breakfast,Dosa,Cold,Sports Meet,196,181.02,14.98
+Saturday,Lunch,Biryani,Rainy,No,205,182.28,22.72
+Sunday,Snacks,Sandwich,Sunny,Sports Meet,173,198.03,25.03
+Thursday,Breakfast,Dosa,Rainy,Holiday,134,129.19,4.81
+Wednesday,Snacks,Noodles,Rainy,Festival,186,234.27,48.27
+Monday,Breakfast,Dosa,Sunny,Festival,222,228.28,6.28
+Thursday,Breakfast,Dosa,Sunny,Sports Meet,172,220.81,48.81
+Monday,Snacks,Noodles,Cold,No,135,168.46,33.46
+Monday,Breakfast,Dosa,Rainy,Festival,195,186.37,8.63
+Sunday,Snacks,Puff,Cold,Sports Meet,208,218.08,10.08
+Wednesday,Dinner,Noodles,Cloudy,Exam,118,84.02,33.98
+Thursday,Dinner,Noodles,Rainy,Exam,80,86.51,6.51
+Saturday,Breakfast,Idli,Cloudy,Holiday,177,174.33,2.67
+Sunday,Breakfast,Idli,Rainy,Holiday,139,159.49,20.49
+Wednesday,Breakfast,Sandwich,Sunny,Sports Meet,191,203.82,12.82
+Monday,Breakfast,Dosa,Cloudy,Festival,172,208.32,36.32
+Friday,Dinner,Rice,Cloudy,No,139,117.71,21.29
+Thursday,Dinner,Biryani,Cloudy,Holiday,132,147.3,15.3
+Tuesday,Snacks,Sandwich,Rainy,Festival,231,246.91,15.91
+Tuesday,Lunch,Noodles,Cold,Exam,86,77.44,8.56
+Monday,Breakfast,Idli,Cloudy,Sports Meet,214,199.09,14.91
+Thursday,Breakfast,Dosa,Rainy,Holiday,151,129.19,21.81
+Thursday,Breakfast,Dosa,Sunny,Sports Meet,239,220.81,18.19
+Monday,Snacks,Sandwich,Sunny,No,101,128.63,27.63
+Friday,Snacks,Sandwich,Cloudy,Exam,106,103.43,2.57
+Tuesday,Lunch,Chapati,Cold,Festival,123,179.79,56.79
+Sunday,Lunch,Noodles,Cloudy,No,157,141.43,15.57
+Friday,Breakfast,Dosa,Cloudy,Sports Meet,186,189.12,3.12
+Saturday,Lunch,Biryani,Cloudy,Sports Meet,276,259.77,16.23
+Tuesday,Snacks,Noodles,Cloudy,Sports Meet,225,197.52,27.48
+Monday,Breakfast,Dosa,Sunny,Holiday,142,189.54,47.54
+Monday,Snacks,Samosa,Cloudy,Sports Meet,228,243.26,15.26
+Tuesday,Breakfast,Sandwich,Rainy,Exam,54,70.77,16.77
+Sunday,Breakfast,Sandwich,Rainy,Exam,74,86.71,12.71
+Wednesday,Snacks,Noodles,Cloudy,No,140,125.52,14.48
+Tuesday,Dinner,Rice,Sunny,Exam,108,117.84,9.84
+Friday,Lunch,Chapati,Cloudy,Holiday,175,138.7,36.3
+Saturday,Lunch,Rice,Cloudy,Festival,208,207.03,0.97
+Thursday,Snacks,Noodles,Cloudy,Exam,130,87.07,42.93
+Friday,Dinner,Rice,Sunny,Holiday,95,104.66,9.66
+Thursday,Breakfast,Sandwich,Cold,Holiday,148,132.89,15.11
+Saturday,Lunch,Chapati,Rainy,Sports Meet,222,183.51,38.49
+Saturday,Snacks,Samosa,Cloudy,Holiday,148,163.88,15.88
+Monday,Breakfast,Dosa,Cold,Sports Meet,177,179.45,2.45
+Tuesday,Dinner,Rice,Rainy,Holiday,76,74.26,1.74
+Friday,Snacks,Samosa,Cloudy,Festival,268,251.04,16.96
+Tuesday,Lunch,Rice,Cloudy,Exam,64,116.46,52.46
+Tuesday,Breakfast,Idli,Cloudy,Exam,68,94.76,26.76
+Tuesday,Breakfast,Idli,Sunny,Exam,110,110.59,0.59
+Monday,Dinner,Rice,Sunny,Festival,204,217.01,13.01
+Friday,Lunch,Rice,Cloudy,No,149,126.2,22.8
+Wednesday,Breakfast,Sandwich,Sunny,Sports Meet,213,203.82,9.18
+Sunday,Lunch,Chapati,Rainy,No,113,106.59,6.41
+Saturday,Breakfast,Sandwich,Cloudy,Holiday,145,166.13,21.13
+Thursday,Snacks,Puff,Rainy,No,135,131.18,3.82
+Monday,Snacks,Sandwich,Cold,Sports Meet,194,238.76,44.76
+Monday,Snacks,Puff,Cloudy,No,109,112.68,3.68
+Wednesday,Breakfast,Sandwich,Sunny,Festival,199,228.48,29.48
+Wednesday,Dinner,Chapati,Cold,Holiday,70,63.85,6.15
+Saturday,Lunch,Rice,Cold,No,112,125.0,13.0
+Sunday,Lunch,Biryani,Rainy,Holiday,212,199.44,12.56
+Thursday,Snacks,Sandwich,Cold,Holiday,151,123.95,27.05
+Friday,Snacks,Samosa,Rainy,Holiday,173,171.88,1.12
+Tuesday,Snacks,Sandwich,Sunny,Festival,225,213.73,11.27
+Tuesday,Dinner,Biryani,Sunny,Exam,169,175.3,6.3
+Wednesday,Breakfast,Sandwich,Sunny,No,166,140.01,25.99
+Monday,Snacks,Samosa,Cloudy,Sports Meet,274,243.26,30.74
+Tuesday,Snacks,Sandwich,Cold,No,165,169.69,4.69
+Friday,Dinner,Rice,Cloudy,Sports Meet,184,198.25,14.25
+Saturday,Lunch,Chapati,Cold,Festival,188,171.65,16.35
+Saturday,Snacks,Puff,Sunny,Holiday,82,88.2,6.2
+Saturday,Lunch,Biryani,Sunny,Exam,163,191.11,28.11
+Saturday,Dinner,Biryani,Cloudy,Sports Meet,286,260.99,25.01
+Saturday,Breakfast,Dosa,Cloudy,Exam,111,88.52,22.48
+Tuesday,Breakfast,Sandwich,Rainy,Holiday,165,152.12,12.88
+Saturday,Snacks,Noodles,Rainy,Exam,126,122.38,3.62
+Saturday,Snacks,Noodles,Cold,Exam,139,115.26,23.74
+Friday,Dinner,Noodles,Rainy,Exam,64,82.38,18.38
+Saturday,Snacks,Puff,Cloudy,Exam,63,82.77,19.77
+Sunday,Lunch,Noodles,Cold,Festival,191,203.91,12.91
+Sunday,Dinner,Biryani,Cold,Holiday,151,166.7,15.7
+Sunday,Breakfast,Sandwich,Rainy,Exam,56,86.71,30.71
+Thursday,Lunch,Chapati,Cold,Sports Meet,164,163.36,0.64
+Sunday,Snacks,Noodles,Cloudy,No,108,118.66,10.66
+Tuesday,Breakfast,Sandwich,Cold,Exam,92,72.01,19.99
+Thursday,Snacks,Puff,Sunny,Festival,207,189.56,17.44
+Sunday,Snacks,Sandwich,Cloudy,Holiday,77,100.77,23.77
+Monday,Lunch,Biryani,Cold,Festival,188,238.69,50.69
+Sunday,Snacks,Sandwich,Cold,No,134,163.61,29.61
+Thursday,Snacks,Sandwich,Rainy,Sports Meet,213,229.83,16.83
+Monday,Lunch,Chapati,Cold,No,70,103.9,33.9
+Monday,Snacks,Sandwich,Cold,Holiday,107,135.48,28.48
+Wednesday,Dinner,Chapati,Rainy,Sports Meet,164,166.22,2.22
+Saturday,Lunch,Noodles,Sunny,No,158,157.23,0.77
+Wednesday,Breakfast,Dosa,Sunny,Festival,235,212.45,22.55
+Sunday,Snacks,Noodles,Cold,Sports Meet,241,239.22,1.78
+Saturday,Dinner,Chapati,Rainy,Sports Meet,164,185.07,21.07
+Friday,Lunch,Chapati,Sunny,Exam,112,77.78,34.22
+Tuesday,Dinner,Noodles,Rainy,Exam,67,72.96,5.96
+Tuesday,Breakfast,Dosa,Cold,Holiday,157,148.84,8.16
+Saturday,Lunch,Noodles,Cold,Exam,86,88.43,2.43
+Saturday,Snacks,Samosa,Cold,Holiday,178,183.37,5.37
+Saturday,Dinner,Noodles,Rainy,Sports Meet,203,219.6,16.6
+Sunday,Lunch,Rice,Rainy,Festival,226,184.99,41.01
+Thursday,Snacks,Puff,Rainy,No,165,131.18,33.82
+Sunday,Dinner,Rice,Cloudy,Festival,211,218.03,7.03
+Wednesday,Lunch,Biryani,Sunny,Exam,174,171.76,2.24
+Friday,Breakfast,Idli,Cloudy,Holiday,190,177.05,12.95
+Wednesday,Breakfast,Dosa,Cold,Festival,150,195.97,45.97
+Tuesday,Dinner,Chapati,Cloudy,Sports Meet,215,185.95,29.05
+Wednesday,Dinner,Biryani,Sunny,Festival,289,255.74,33.26
+Saturday,Dinner,Chapati,Sunny,Sports Meet,268,194.38,73.62
+Wednesday,Lunch,Chapati,Sunny,Holiday,164,166.01,2.01
+Tuesday,Lunch,Chapati,Cloudy,No,92,106.56,14.56
+Wednesday,Breakfast,Dosa,Sunny,No,120,144.22,24.22
+Sunday,Breakfast,Sandwich,Rainy,Festival,158,160.68,2.68
+Friday,Dinner,Noodles,Cold,Festival,204,183.53,20.47
+Sunday,Lunch,Biryani,Cold,Sports Meet,268,259.64,8.36
+Wednesday,Breakfast,Idli,Rainy,No,127,96.33,30.67
+Sunday,Snacks,Noodles,Cold,Holiday,110,126.47,16.47
+Wednesday,Lunch,Rice,Cloudy,Holiday,183,150.95,32.05
+Saturday,Lunch,Chapati,Cold,Holiday,126,142.51,16.51
+Monday,Breakfast,Dosa,Rainy,No,117,108.93,8.07
+Sunday,Dinner,Biryani,Rainy,No,206,189.15,16.85
+Monday,Breakfast,Sandwich,Cold,Festival,152,174.9,22.9
+Sunday,Breakfast,Idli,Rainy,Festival,174,160.36,13.64
+Monday,Snacks,Noodles,Sunny,Exam,70,87.33,17.33
+Friday,Dinner,Noodles,Cold,Exam,63,74.74,11.74
+Wednesday,Snacks,Samosa,Sunny,No,192,185.33,6.67
+Monday,Breakfast,Dosa,Sunny,No,153,145.41,7.59
+Monday,Dinner,Biryani,Cloudy,No,170,179.34,9.34
+Monday,Breakfast,Dosa,Cold,Sports Meet,147,179.45,32.45
+Friday,Dinner,Biryani,Sunny,Sports Meet,288,275.13,12.87
+Thursday,Lunch,Noodles,Sunny,Sports Meet,216,222.65,6.65
+Monday,Snacks,Sandwich,Sunny,Sports Meet,214,196.02,17.98
+Thursday,Dinner,Rice,Rainy,No,92,121.56,29.56
+Sunday,Lunch,Biryani,Rainy,Exam,170,130.12,39.88
+Friday,Breakfast,Sandwich,Cold,Holiday,137,149.87,12.87
+Friday,Lunch,Biryani,Rainy,Sports Meet,220,214.93,5.07
+Saturday,Lunch,Noodles,Cold,Holiday,206,158.69,47.31
+Sunday,Dinner,Rice,Sunny,Holiday,146,127.79,18.21
+Tuesday,Lunch,Noodles,Sunny,Festival,224,206.65,17.35
+Monday,Lunch,Chapati,Cloudy,Festival,204,176.47,27.53
+Sunday,Breakfast,Sandwich,Cold,Exam,57,80.46,23.46
+Tuesday,Snacks,Sandwich,Cold,Exam,159,136.89,22.11
+Wednesday,Lunch,Noodles,Cold,Festival,176,192.79,16.79
+Thursday,Lunch,Chapati,Sunny,No,122,121.48,0.52
+Saturday,Snacks,Noodles,Cloudy,No,128,123.7,4.3
+Saturday,Breakfast,Idli,Rainy,Holiday,159,148.75,10.25
+Saturday,Dinner,Chapati,Sunny,Sports Meet,277,194.38,82.62
+Sunday,Dinner,Chapati,Rainy,Sports Meet,196,198.34,2.34
+Wednesday,Breakfast,Dosa,Cold,Festival,206,195.97,10.03
+Monday,Dinner,Chapati,Cold,No,78,88.69,10.69
+Wednesday,Lunch,Biryani,Cloudy,Sports Meet,296,261.63,34.37
+Tuesday,Lunch,Chapati,Sunny,No,130,113.42,16.58
+Tuesday,Breakfast,Sandwich,Rainy,Sports Meet,179,163.77,15.23
+Thursday,Snacks,Samosa,Rainy,Festival,313,277.81,35.19
+Wednesday,Dinner,Biryani,Rainy,No,143,175.53,32.53
+Thursday,Breakfast,Dosa,Rainy,Festival,217,175.7,41.3
+Tuesday,Snacks,Puff,Rainy,Exam,93,107.59,14.59
+Wednesday,Lunch,Biryani,Cloudy,Holiday,212,215.79,3.79
+Saturday,Breakfast,Idli,Cold,No,88,101.36,13.36
+Friday,Lunch,Rice,Cloudy,Festival,193,208.6,15.6
+Tuesday,Breakfast,Dosa,Sunny,Sports Meet,215,216.57,1.57
+Monday,Breakfast,Dosa,Cold,Festival,203,186.96,16.04
+Wednesday,Dinner,Chapati,Sunny,Exam,67,104.23,37.23
+Saturday,Breakfast,Sandwich,Cold,Holiday,173,142.66,30.34
+Monday,Breakfast,Idli,Cloudy,Sports Meet,209,199.09,9.91
+Friday,Snacks,Samosa,Sunny,Festival,270,254.83,15.17
+Tuesday,Lunch,Chapati,Cloudy,Sports Meet,169,184.29,15.29
+Thursday,Snacks,Sandwich,Cloudy,Sports Meet,209,219.44,10.44
+Sunday,Snacks,Noodles,Cloudy,Exam,129,91.29,37.71
+Tuesday,Snacks,Noodles,Cloudy,Holiday,93,98.11,5.11
+Thursday,Dinner,Rice,Sunny,No,127,136.13,9.13
+Wednesday,Breakfast,Dosa,Rainy,Holiday,181,148.77,32.23
+Saturday,Dinner,Rice,Cloudy,Festival,233,227.77,5.23
+Wednesday,Snacks,Noodles,Rainy,Holiday,141,131.77,9.23
+Thursday,Dinner,Biryani,Sunny,Holiday,184,167.85,16.15
+Tuesday,Snacks,Noodles,Rainy,Sports Meet,212,219.38,7.38
+Thursday,Lunch,Chapati,Sunny,No,93,121.48,28.48
+Saturday,Dinner,Noodles,Rainy,No,142,128.14,13.86
+Monday,Snacks,Noodles,Cloudy,Holiday,77,88.06,11.06
+Wednesday,Breakfast,Idli,Rainy,Sports Meet,173,193.14,20.14
+Friday,Snacks,Sandwich,Cold,Festival,238,253.15,15.15
+Saturday,Breakfast,Dosa,Sunny,Sports Meet,213,217.77,4.77
+Sunday,Breakfast,Idli,Cold,Exam,59,67.63,8.63
+Saturday,Breakfast,Sandwich,Cold,Exam,91,90.61,0.39
+Monday,Snacks,Sandwich,Cloudy,No,137,134.56,2.44
+Wednesday,Dinner,Noodles,Cloudy,Festival,209,206.07,2.93
+Saturday,Dinner,Biryani,Cloudy,Sports Meet,290,260.99,29.01
+Thursday,Snacks,Noodles,Cloudy,Sports Meet,206,202.5,3.5
+Friday,Dinner,Chapati,Cloudy,Exam,95,82.96,12.04
+Tuesday,Lunch,Chapati,Sunny,Holiday,179,169.12,9.88
+Friday,Lunch,Noodles,Cold,Exam,90,78.29,11.71
+Tuesday,Dinner,Chapati,Cold,Exam,29,59.21,30.21
+Sunday,Dinner,Noodles,Rainy,Holiday,127,123.26,3.74
+Friday,Lunch,Rice,Cloudy,No,136,126.2,9.8
+Sunday,Snacks,Samosa,Rainy,Holiday,175,165.03,9.97
+Saturday,Snacks,Puff,Rainy,Exam,118,107.79,10.21
+Monday,Lunch,Chapati,Cold,Exam,78,45.59,32.41
+Friday,Lunch,Biryani,Sunny,Festival,233,281.16,48.16
+Friday,Breakfast,Sandwich,Sunny,Sports Meet,256,195.75,60.25
+Friday,Dinner,Noodles,Rainy,Festival,181,173.51,7.49
+Friday,Snacks,Puff,Rainy,Holiday,97,115.34,18.34
+Thursday,Breakfast,Idli,Rainy,Exam,56,82.41,26.41
+Friday,Dinner,Rice,Rainy,Exam,57,79.21,22.21
+Wednesday,Lunch,Biryani,Cold,Festival,224,234.4,10.4
+Tuesday,Dinner,Rice,Cold,Holiday,90,82.2,7.8
+Saturday,Dinner,Biryani,Cold,Festival,270,277.37,7.37
+Monday,Dinner,Noodles,Cloudy,Exam,123,97.34,25.66
+Monday,Breakfast,Dosa,Rainy,No,97,108.93,11.93
+Wednesday,Dinner,Rice,Sunny,No,116,139.63,23.63
+Monday,Dinner,Biryani,Rainy,Exam,118,125.88,7.88
+Tuesday,Snacks,Samosa,Rainy,Festival,306,300.0,6.0
+Thursday,Snacks,Puff,Cold,Holiday,104,115.56,11.56
+Thursday,Dinner,Biryani,Cold,Exam,153,146.9,6.1
+Wednesday,Snacks,Sandwich,Cold,Holiday,106,123.21,17.21
+Monday,Breakfast,Sandwich,Cold,Festival,184,174.9,9.1
+Friday,Snacks,Samosa,Rainy,Exam,163,183.35,20.35
+Sunday,Dinner,Noodles,Cold,Exam,95,96.41,1.41
+Tuesday,Lunch,Rice,Rainy,Sports Meet,183,195.43,12.43
+Tuesday,Snacks,Samosa,Cold,No,217,229.33,12.33
+Wednesday,Lunch,Noodles,Cloudy,Holiday,159,164.93,5.93
+Tuesday,Breakfast,Idli,Cold,Holiday,163,136.13,26.87
+Thursday,Dinner,Chapati,Rainy,Festival,156,161.94,5.94
+Sunday,Dinner,Rice,Cloudy,Sports Meet,226,218.52,7.48
+Friday,Lunch,Rice,Cloudy,Sports Meet,222,192.36,29.64
+Sunday,Lunch,Noodles,Cold,Exam,120,86.36,33.64
+Tuesday,Lunch,Chapati,Cold,Sports Meet,163,165.92,2.92
+Monday,Dinner,Chapati,Cloudy,Holiday,45,64.99,19.99
+Thursday,Breakfast,Dosa,Sunny,No,121,144.65,23.65
+Sunday,Lunch,Biryani,Rainy,Holiday,194,199.44,5.44
+Sunday,Snacks,Puff,Cloudy,Sports Meet,183,188.25,5.25
+Thursday,Breakfast,Dosa,Cloudy,Holiday,170,156.85,13.15
+Tuesday,Snacks,Puff,Sunny,Holiday,110,88.08,21.92
+Wednesday,Lunch,Rice,Rainy,Holiday,156,143.3,12.7
+Tuesday,Dinner,Noodles,Sunny,Sports Meet,177,231.74,54.74
+Sunday,Lunch,Rice,Rainy,Holiday,146,148.57,2.57
+Friday,Breakfast,Dosa,Cloudy,Holiday,135,163.51,28.51
+Thursday,Dinner,Noodles,Sunny,No,147,154.87,7.87
+Monday,Snacks,Puff,Rainy,Exam,110,114.05,4.05
+Sunday,Dinner,Noodles,Sunny,Holiday,172,126.86,45.14
+Tuesday,Lunch,Biryani,Cold,Sports Meet,225,214.77,10.23
+Friday,Dinner,Noodles,Sunny,Holiday,92,108.1,16.1
+Wednesday,Breakfast,Sandwich,Sunny,No,132,140.01,8.01
+Wednesday,Dinner,Rice,Cold,Festival,193,181.8,11.2
+Wednesday,Lunch,Rice,Cold,Exam,101,70.04,30.96
+Sunday,Lunch,Noodles,Cold,Sports Meet,184,201.09,17.09
+Thursday,Breakfast,Sandwich,Sunny,Holiday,175,192.91,17.91
+Thursday,Snacks,Puff,Cloudy,Exam,62,79.75,17.75
+Friday,Snacks,Samosa,Cold,No,203,232.0,29.0
+Friday,Lunch,Biryani,Sunny,Festival,308,281.16,26.84
+Monday,Lunch,Chapati,Rainy,Exam,72,45.75,26.25
+Friday,Dinner,Noodles,Sunny,No,126,153.1,27.1
+Monday,Snacks,Samosa,Sunny,Sports Meet,226,253.31,27.31
+Tuesday,Lunch,Biryani,Rainy,Sports Meet,224,215.56,8.44
+Sunday,Lunch,Biryani,Cold,Holiday,231,201.35,29.65
+Wednesday,Dinner,Rice,Cold,Sports Meet,155,175.03,20.03
+Sunday,Lunch,Chapati,Rainy,Sports Meet,190,191.5,1.5
+Friday,Dinner,Rice,Cloudy,Sports Meet,207,198.25,8.75
+Sunday,Snacks,Sandwich,Cloudy,Festival,194,206.19,12.19
+Sunday,Snacks,Puff,Rainy,Exam,140,98.92,41.08
+Saturday,Lunch,Biryani,Cold,No,137,194.52,57.52
+Monday,Dinner,Chapati,Cloudy,No,111,104.5,6.5
+Wednesday,Dinner,Biryani,Rainy,Holiday,154,136.16,17.84
+Tuesday,Lunch,Chapati,Cloudy,Sports Meet,216,184.29,31.71
+Tuesday,Lunch,Noodles,Sunny,No,112,140.42,28.42
+Monday,Breakfast,Idli,Cold,Sports Meet,162,162.92,0.92
+Thursday,Breakfast,Dosa,Cloudy,Festival,206,209.64,3.64
+Tuesday,Dinner,Rice,Cold,Festival,183,183.37,0.37
+Monday,Snacks,Noodles,Rainy,Exam,139,127.01,11.99
+Friday,Dinner,Rice,Rainy,Holiday,96,71.76,24.24
+Monday,Dinner,Noodles,Cold,Festival,188,182.92,5.08
+Monday,Lunch,Biryani,Cloudy,Exam,185,166.96,18.04
+Thursday,Lunch,Noodles,Cold,Holiday,151,135.91,15.09
+Tuesday,Snacks,Samosa,Rainy,Sports Meet,316,309.38,6.62
+Saturday,Breakfast,Dosa,Cloudy,Sports Meet,215,194.83,20.17
+Tuesday,Lunch,Biryani,Sunny,No,204,208.36,4.36
+Tuesday,Breakfast,Dosa,Sunny,Sports Meet,202,216.57,14.57
+Thursday,Snacks,Sandwich,Sunny,Holiday,74,96.57,22.57
+Tuesday,Lunch,Biryani,Cloudy,Holiday,261,217.95,43.05
+Wednesday,Snacks,Sandwich,Cloudy,No,117,133.74,16.74
+Friday,Lunch,Biryani,Cold,No,197,177.07,19.93
+Saturday,Lunch,Rice,Sunny,Exam,114,133.71,19.71
+Tuesday,Breakfast,Idli,Rainy,No,115,98.64,16.36
+Wednesday,Breakfast,Idli,Sunny,Exam,79,112.67,33.67
+Monday,Dinner,Noodles,Cold,Holiday,75,88.07,13.07
+Saturday,Breakfast,Idli,Cold,No,105,101.36,3.64
+Saturday,Breakfast,Idli,Sunny,Festival,226,202.16,23.84
+Sunday,Dinner,Biryani,Sunny,No,252,210.89,41.11
+Monday,Snacks,Puff,Cold,Festival,229,215.47,13.53
+Saturday,Snacks,Noodles,Cloudy,Sports Meet,228,200.34,27.66
+Thursday,Snacks,Noodles,Cloudy,Exam,63,87.07,24.07
+Tuesday,Breakfast,Dosa,Rainy,Festival,218,191.37,26.63
+Thursday,Breakfast,Sandwich,Sunny,Sports Meet,200,214.87,14.87
+Tuesday,Dinner,Biryani,Cold,Festival,205,239.43,34.43
+Sunday,Breakfast,Sandwich,Cloudy,No,103,120.33,17.33
+Wednesday,Breakfast,Idli,Cloudy,Holiday,169,148.94,20.06
+Saturday,Dinner,Biryani,Cloudy,Holiday,193,162.28,30.72
+Wednesday,Snacks,Samosa,Rainy,Holiday,191,169.93,21.07
+Monday,Dinner,Biryani,Sunny,Exam,174,176.47,2.47
+Wednesday,Snacks,Noodles,Sunny,Exam,54,89.42,35.42
+Wednesday,Dinner,Rice,Rainy,Sports Meet,199,191.92,7.08
+Wednesday,Snacks,Puff,Cloudy,Festival,171,181.22,10.22
+Sunday,Dinner,Rice,Rainy,No,148,128.63,19.37
+Tuesday,Lunch,Noodles,Rainy,No,106,118.06,12.06
+Thursday,Dinner,Biryani,Sunny,Holiday,166,167.85,1.85
+Saturday,Dinner,Noodles,Cold,Holiday,136,121.86,14.14
+Tuesday,Snacks,Samosa,Rainy,No,202,213.09,11.09
+Tuesday,Dinner,Rice,Sunny,No,166,128.44,37.56
+Friday,Lunch,Chapati,Sunny,No,136,128.28,7.72
+Sunday,Breakfast,Idli,Cloudy,No,134,121.6,12.4
+Sunday,Dinner,Rice,Cloudy,Exam,105,116.04,11.04
+Saturday,Dinner,Chapati,Rainy,Festival,221,181.89,39.11
+Wednesday,Lunch,Chapati,Sunny,Festival,206,177.54,28.46
+Friday,Dinner,Noodles,Cloudy,Holiday,105,93.38,11.62
+Friday,Breakfast,Dosa,Rainy,Sports Meet,182,198.76,16.76
+Tuesday,Snacks,Puff,Cloudy,No,96,115.48,19.48
+Wednesday,Snacks,Samosa,Cloudy,No,154,188.79,34.79
+Saturday,Dinner,Rice,Sunny,Sports Meet,283,247.25,35.75
+Friday,Dinner,Chapati,Cold,No,73,85.07,12.07
+Sunday,Lunch,Rice,Cold,No,129,115.6,13.4
+Friday,Breakfast,Sandwich,Cold,Holiday,177,149.87,27.13
+Wednesday,Snacks,Puff,Rainy,Holiday,99,110.57,11.57
+Thursday,Dinner,Chapati,Cloudy,Exam,117,88.45,28.55
+Thursday,Lunch,Noodles,Cold,Holiday,122,135.91,13.91
+Thursday,Snacks,Noodles,Cold,No,145,162.69,17.69
+Friday,Breakfast,Sandwich,Rainy,Holiday,106,152.93,46.93
+Tuesday,Lunch,Noodles,Sunny,No,124,140.42,16.42
+Friday,Snacks,Puff,Rainy,Festival,236,216.7,19.3
+Thursday,Breakfast,Dosa,Cold,Festival,150,174.71,24.71
+Thursday,Dinner,Noodles,Rainy,Holiday,40,78.69,38.69
+Wednesday,Dinner,Biryani,Rainy,No,140,175.53,35.53
+Friday,Breakfast,Dosa,Sunny,Exam,145,112.6,32.4
+Sunday,Breakfast,Dosa,Cloudy,Holiday,174,157.83,16.17
+Tuesday,Snacks,Noodles,Cloudy,Festival,179,194.02,15.02
+Sunday,Snacks,Samosa,Cold,Exam,160,161.13,1.13
+Saturday,Breakfast,Sandwich,Cold,Exam,81,90.61,9.61
+Wednesday,Dinner,Biryani,Cold,Holiday,134,147.22,13.22
+Sunday,Snacks,Samosa,Sunny,Festival,238,253.56,15.56
+Saturday,Lunch,Biryani,Cold,Holiday,231,208.12,22.88
+Sunday,Lunch,Rice,Rainy,No,147,113.21,33.79
+Saturday,Lunch,Rice,Rainy,Exam,92,88.5,3.5
+Sunday,Snacks,Sandwich,Sunny,Sports Meet,191,198.03,7.03
+Friday,Dinner,Chapati,Rainy,Festival,119,156.48,37.48
+Sunday,Snacks,Samosa,Cold,Sports Meet,275,287.95,12.95
+Saturday,Breakfast,Idli,Sunny,Exam,121,126.63,5.63
+Tuesday,Dinner,Noodles,Cold,Exam,53,70.62,17.62
+Tuesday,Dinner,Noodles,Cold,Sports Meet,167,187.59,20.59
+Sunday,Lunch,Rice,Cold,Festival,243,202.85,40.15
+Monday,Lunch,Noodles,Rainy,Holiday,161,158.84,2.16
+Saturday,Dinner,Chapati,Rainy,Exam,77,83.49,6.49
+Tuesday,Breakfast,Dosa,Cold,Festival,198,178.38,19.62
+Saturday,Snacks,Noodles,Cold,Exam,136,115.26,20.74
+Saturday,Snacks,Puff,Cold,Sports Meet,223,217.5,5.5
+Thursday,Snacks,Sandwich,Cloudy,Exam,108,93.84,14.16
+Wednesday,Breakfast,Sandwich,Rainy,Sports Meet,172,192.21,20.21
+Wednesday,Snacks,Samosa,Cloudy,Festival,219,251.6,32.6
+Saturday,Breakfast,Idli,Cold,Holiday,180,136.6,43.4
+Friday,Lunch,Chapati,Cloudy,Exam,58,76.25,18.25
+Monday,Breakfast,Dosa,Cold,Festival,182,186.96,4.96
+Tuesday,Dinner,Noodles,Cloudy,Festival,166,213.65,47.65
+Tuesday,Dinner,Rice,Cold,Holiday,70,82.2,12.2
+Wednesday,Lunch,Noodles,Rainy,Holiday,154,156.29,2.29
+Friday,Lunch,Biryani,Rainy,No,151,172.29,21.29
+Monday,Breakfast,Idli,Rainy,Exam,56,70.88,14.88
+Saturday,Breakfast,Sandwich,Cloudy,Holiday,152,166.13,14.13
+Tuesday,Dinner,Noodles,Sunny,Exam,91,100.78,9.78
+Friday,Lunch,Biryani,Sunny,Holiday,280,254.23,25.77
+Friday,Lunch,Noodles,Rainy,Exam,95,76.68,18.32
+Monday,Snacks,Noodles,Rainy,Festival,239,238.16,0.84
+Friday,Lunch,Chapati,Sunny,Festival,195,176.95,18.05
+Tuesday,Breakfast,Idli,Cloudy,Exam,99,94.76,4.24
+Monday,Dinner,Rice,Cold,No,76,110.79,34.79
+Wednesday,Snacks,Noodles,Sunny,Festival,182,201.13,19.13
+Tuesday,Dinner,Biryani,Cloudy,Festival,256,269.86,13.86
+Wednesday,Lunch,Rice,Sunny,Holiday,206,171.65,34.35
+Friday,Breakfast,Idli,Cloudy,Exam,80,85.67,5.67
+Saturday,Snacks,Noodles,Sunny,Sports Meet,215,216.33,1.33
+Saturday,Breakfast,Sandwich,Cloudy,Festival,212,199.4,12.6
+Sunday,Lunch,Chapati,Cold,No,86,111.77,25.77
+Wednesday,Snacks,Puff,Sunny,Exam,79,72.87,6.13
+Wednesday,Breakfast,Idli,Cold,No,86,97.28,11.28
+Monday,Dinner,Chapati,Cloudy,No,82,104.5,22.5
+Monday,Dinner,Rice,Cloudy,Holiday,91,76.6,14.4
